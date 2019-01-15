@@ -5,12 +5,12 @@ My daily standups
 ## 19.01.15
 ### Today
 - ~~Finish login code for LDAP login `FedEx Rising Star`~~
-- Release `SiteWrench Bugs`:
-  - https://projects.madebyspeak.com/#/tasks/12144365
-  - https://projects.madebyspeak.com/#/tasks/11537769
 - Plan/Build LDAP search (app? or api?) `FedEx Rising Star`
 ### Tomorrow
 - Plan/Build LDAP search (app or api?) `FedEx Rising Star`
+- Release `SiteWrench Bugs`:
+  - https://projects.madebyspeak.com/#/tasks/12144365
+  - https://projects.madebyspeak.com/#/tasks/11537769
 ### Thursday
 - Build LDAP search `FedEx Rising Star`
 
