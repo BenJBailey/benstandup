@@ -2,6 +2,19 @@
 My daily standups
 
 # Jan 2019
+## 19.01.16
+### Today
+- Build LDAP search for nominees in api `FedEx Rising Star`
+- ~~Release `SiteWrench Bugs`:~~
+  - ~~https://projects.madebyspeak.com/#/tasks/12144365~~
+  - ~~https://projects.madebyspeak.com/#/tasks/11537769~~
+### Tomorrow
+- Build LDAP search for nominees in api `FedEx Rising Star`
+- FedEx Rising Star pre-meeting `FedEx Rising Star`
+- FedEx Rising Star Meeting (afternoon) `FedEx Rising Star`
+### Friday
+- Build LDAP search for nominees in api `FedEx Rising Star`
+
 ## 19.01.15
 ### Today
 - ~~Finish login code for LDAP login `FedEx Rising Star`~~
