@@ -2,6 +2,16 @@
 My daily standups
 
 # Jan 2019
+## 19.01.17
+### Today
+- Build LDAP search for nominees in api `FedEx Rising Star`
+- FedEx Rising Star pre-meeting `FedEx Rising Star`
+- FedEx Rising Star Meeting (afternoon) `FedEx Rising Star`
+### Tomorrow
+- Build LDAP search for nominees in api `FedEx Rising Star`
+### Monday(19.01.21-25)
+- Dev Standups
+- Build LDAP search for nominees in api `FedEx Rising Star`
 ## 19.01.16
 ### Today
 - Build LDAP search for nominees in api `FedEx Rising Star`
