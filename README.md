@@ -2,10 +2,19 @@
 My daily standups
 
 # Jan 2019
+## 19.01.18
+## Today
+- Build nominee addtion process in api `FedEx Rising Star`
+## Monday
+- Finish up presentation `Speak Week`
+- Build nominee addtion process in api `FedEx Rising Star`
+- Double check nothing left hanging prior to Speak Week
+## Tuesday-Friday
+- Speak Week
 ## 19.01.17
 ### Today
-- Build LDAP search for nominees in api `FedEx Rising Star`
-- FedEx Rising Star Meeting `FedEx Rising Star`
+~~- Build LDAP search for nominees in api `FedEx Rising Star`~~
+~~- FedEx Rising Star Meeting `FedEx Rising Star`~~
 ### Tomorrow
 - Build LDAP search for nominees in api `FedEx Rising Star`
 ### Monday
