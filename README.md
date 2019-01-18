@@ -2,7 +2,7 @@
 My daily standups
 
 # Jan 2019
-## 19.01.18
+## 19.01.18 [Music](https://open.spotify.com/user/benjbailey/playlist/4ADqoZ32z8eHzNXK2Lx9DU?si=F-LUktquQluzrUU3jqLtkA)
 ## Today
 - Build nominee addtion process in api `FedEx Rising Star`
 ## Monday
