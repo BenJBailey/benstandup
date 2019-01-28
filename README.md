@@ -14,6 +14,10 @@ My daily standups
 - 12:30 - 3:00 Build nominee addtion process in api `FedEx Rising Star`
 - 3:00 - 4:00 Look into RETS in Azure
 - 4:00 - 5:00 Build nominee addtion process in api `FedEx Rising Star`
+
+### Productivity Score 
+     (X/5 ⭐️)
+
 ## Tuesday
 - Vacation
 ## Wednesday
