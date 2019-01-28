@@ -3,23 +3,33 @@ My daily standups
 
 # Jan 2019
 
+## 19.01.29
+## Today
+- Vacation
+## Wednesday 
+- Build nominee addtion process in api `FedEx Rising Star`
+- Fix Google Site Reports?
+## Thursday
+- FedEx Meeting
+- Build nominee addtion process in api `FedEx Rising Star`
+
+
 ## 19.01.28
 ## Today
-- 7:00 -  7:15 Scheduling
-- 7:15 - 7:45 Standups
+- ~~7:00 -  7:15 Scheduling~~
+- ~~7:15 - 7:45 Standups~~
 - 7:45 - 9:30 Build nominee addtion process in api `FedEx Rising Star`
-- 9:30 - 9:35 Coffee etc
-- 9:35 - 11:30 Build nominee addtion process in api `FedEx Rising Star`
+- ~~9:30 - 9:45 Coffee etc~~
+- 9:45 - 11:30 Build nominee addtion process in api `FedEx Rising Star`
 - 12:00 - 1:00 Lunch
-- 1:00 - 1:30 RETS + Azure meeting
-- 1:30 - 2:30 Staff meeting?
-- 2:30 - 3:00 Look into RETS in Azure
+- ~~1:00 - 2:30 RETS + Azure meeting~~
+- ~~2:30 - 3:00 Look into RETS in Azure~~
 - 3:00 - 3:30 IDX intro meeting
 - 3:30 - 4:50 Build nominee addtion process in api `FedEx Rising Star`
-- 4:50 - 5:00 Record time (today/Speak Week)
+- ~~4:50 - 5:00 Record time (today/Speak Week)~~
 
 ### Productivity Score 
-     (X/5 ⭐️)
+⭐️⭐️⭐️⭐️* (4/5 ⭐️)
 
 ## Tuesday
 - Vacation
