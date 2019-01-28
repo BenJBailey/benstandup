@@ -13,9 +13,9 @@ My daily standups
 - 11:30 - 12:30 Lunch
 - 12:30 - 1:30 Build nominee addtion process in api `FedEx Rising Star`
 - 1:30 - 2:30 Staff meeting?
-- 2:30 - 3:00 Build nominee addtion process in api `FedEx Rising Star`
-- 3:00 - 4:00 Look into RETS in Azure
-- 4:00 - 5:00 Build nominee addtion process in api `FedEx Rising Star`
+- 2:30 - 3:00 Look into RETS in Azure
+- 3:00 - 3:30 IDX intro meeting
+- 3:30 - 5:00 Build nominee addtion process in api `FedEx Rising Star`
 
 ### Productivity Score 
      (X/5 ⭐️)
