@@ -2,6 +2,24 @@
 My daily standups
 
 # Jan 2019
+
+## 19.01.28
+## Today
+- 7:00-7:15 Scheduling
+- 7:15-7:45 Standups
+- 7:45-9:30 Build nominee addtion process in api `FedEx Rising Star`
+- 9:30 - 9:35 Coffee etc
+- 9:35 - 11:30 Build nominee addtion process in api `FedEx Rising Star`
+- 11:30 - 12:30 Lunch
+- 12:30 - 3:00 Build nominee addtion process in api `FedEx Rising Star`
+- 3:00 - 4:00 Look into RETS in Azure
+- 4:00 - 5:00 Build nominee addtion process in api `FedEx Rising Star`
+## Tuesday
+- Vacation
+## Wednesday
+- Build nominee addtion process in api `FedEx Rising Star`
+- Fix Google Site Reports?
+
 ## 19.01.18 [Music](https://open.spotify.com/user/benjbailey/playlist/4ADqoZ32z8eHzNXK2Lx9DU?si=F-LUktquQluzrUU3jqLtkA)
 ## Today
 - Build nominee addtion process in api `FedEx Rising Star`
