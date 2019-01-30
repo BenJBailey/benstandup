@@ -6,14 +6,14 @@ My daily standups
 ## 19.01.30
 
 ## Today
-- 07:55 - 09:00: Build nominee addtion process in api `FedEx Rising Star`
-- 09:00 - 09:10: Slack/Break
-- 09:10 - 12:00: Build nominee addtion process in api `FedEx Rising Star`
-- 12:00 - 01:00: Lunch
-- 01:00 - 03:00: Build nominee addtion process in api `FedEx Rising Star`
-- 03:00 - 03:10: Slack/Break
-- 03:10 - 03:45: Look into database connection errors with Google Reports
-- 03:45 - 05:00: Build nominee addtion process in api `FedEx Rising Star`
+- 07:55 - 09:00: Build nominee addtion process in api `FedEx Rising Star` ✅
+- 09:00 - 09:10: Slack/Break ✅
+- 09:10 - 12:00: Build nominee addtion process in api `FedEx Rising Star` ✅
+- 12:00 - 01:00: Lunch ✅
+- 01:00 - 03:00: Build nominee addtion process in api `FedEx Rising Star`✅
+- 03:00 - 03:10: Slack/Break ✅
+- 03:10 - 03:45: Look into database connection errors with Google Reports (still need more time) ✅
+- 03:45 - 05:00: Build nominee addtion process in api `FedEx Rising Star` ✅
 
 ## Thursday (2/1)
 - FedEx Rising Star Meeting
@@ -23,6 +23,9 @@ My daily standups
 ## Friday (2/2)
 - Build nominee addtion process in api `FedEx Rising Star`
 - Look into database connection errors with Google Reports
+
+### Productivity Score 
+⭐️⭐️⭐️** (3/5 ⭐️)
 
 ## 19.01.29
 ## Today
