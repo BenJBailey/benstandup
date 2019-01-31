@@ -7,17 +7,18 @@ My daily standups
 
 ### Today
 
-- 07:05 - 07:10: Planning
-- 07:10 - 09:15: Build nominee addtion process in api `FedEx Rising Star`
-- 09:15 - 09:20: Break/Slack/etc
-- 09:20 - 10:15: FedEx Rising Star Meeting
-- 10:15 - 12:00: Build nominee addtion process in api `FedEx Rising Star`
-- 12:00 - 01:00: Lunch
-- 01:00 - 03:00: Build nominee addtion process in api `FedEx Rising Star`
-- 03:00 - 04:00: Look into database connection errors with Google Reports (test/deploy to dev) 
-- 04:00 - 05:00: Build nominee addtion process in api `FedEx Rising Star`
+- 07:05 - 07:10: Planning ✅
+- 07:10 - 09:15: Build nominee addtion process in api `FedEx Rising Star` ✅
+- 09:15 - 09:20: Break/Slack/etc ✅
+- 09:20 - 10:15: FedEx Rising Star Meeting 🚫
+- 10:15 - 12:00: Build nominee addtion process in api `FedEx Rising Star` 🚫
+- 12:00 - 01:00: Lunch ✅
+- 01:00 - 03:00: Build nominee addtion process in api `FedEx Rising Star` ✅
+- 03:00 - 04:00: Look into database connection errors with Google Reports (test/deploy to dev) 🚫
+- 04:00 - 05:00: Build nominee addtion process in api `FedEx Rising Star` ✅
 
 ### Friday (2/1)
+- look @ what you fixed on jan 3 to fix the current issue
 - Build nominee addtion process in api `FedEx Rising Star`
 - Look into database connection errors with Google Reports?
 
