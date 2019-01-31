@@ -26,6 +26,9 @@ My daily standups
 - Build nominee addtion process in api `FedEx Rising Star`
 - Look into database connection errors with Google Reports (deploy?)
 
+### Productivity Score 
+⭐️⭐️⭐️⭐️* (4/5 ⭐️)
+
 ## 19.01.30
 
 ### Today
