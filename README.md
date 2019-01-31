@@ -3,9 +3,31 @@ My daily standups
 
 # Jan 2019
 
+## 19.01.31
+
+### Today
+
+- 07:05 - 07:10: Planning
+- 07:10 - 09:15: Build nominee addtion process in api `FedEx Rising Star`
+- 09:15 - 09:20: Break/Slack/etc
+- 09:20 - 10:15: FedEx Rising Star Meeting
+- 10:15 - 12:00: Build nominee addtion process in api `FedEx Rising Star`
+- 12:00 - 01:00: Lunch
+- 01:00 - 03:00: Build nominee addtion process in api `FedEx Rising Star`
+- 03:00 - 04:00: Look into database connection errors with Google Reports (test/deploy to dev) 
+- 04:00 - 05:00: Build nominee addtion process in api `FedEx Rising Star`
+
+### Friday (2/1)
+- Build nominee addtion process in api `FedEx Rising Star`
+- Look into database connection errors with Google Reports?
+
+### Monday (2/2)
+- Build nominee addtion process in api `FedEx Rising Star`
+- Look into database connection errors with Google Reports (deploy?)
+
 ## 19.01.30
 
-## Today
+### Today
 - 07:55 - 09:00: Build nominee addtion process in api `FedEx Rising Star` ✅
 - 09:00 - 09:10: Slack/Break ✅
 - 09:10 - 12:00: Build nominee addtion process in api `FedEx Rising Star` ✅
@@ -15,12 +37,12 @@ My daily standups
 - 03:10 - 03:45: Look into database connection errors with Google Reports (still need more time) ✅
 - 03:45 - 05:00: Build nominee addtion process in api `FedEx Rising Star` ✅
 
-## Thursday (2/1)
+### Thursday (1/31)
 - FedEx Rising Star Meeting
 - Build nominee addtion process in api `FedEx Rising Star`
 - Look into database connection errors with Google Reports
 
-## Friday (2/2)
+### Friday (2/1)
 - Build nominee addtion process in api `FedEx Rising Star`
 - Look into database connection errors with Google Reports
 
@@ -39,7 +61,7 @@ My daily standups
 
 
 ## 19.01.28
-## Today
+### Today
 - ~~7:00 -  7:15 Scheduling~~
 - ~~7:15 - 7:45 Standups~~
 - 7:45 - 9:30 Build nominee addtion process in api `FedEx Rising Star`
@@ -55,20 +77,20 @@ My daily standups
 ### Productivity Score 
 ⭐️⭐️⭐️⭐️* (4/5 ⭐️)
 
-## Tuesday
+### Tuesday
 - Vacation
-## Wednesday
+### Wednesday
 - Build nominee addtion process in api `FedEx Rising Star`
 - Fix Google Site Reports?
 
 ## 19.01.18 [Music](https://open.spotify.com/user/benjbailey/playlist/4ADqoZ32z8eHzNXK2Lx9DU?si=F-LUktquQluzrUU3jqLtkA)
-## Today
+### Today
 - Build nominee addtion process in api `FedEx Rising Star`
-## Monday
+### Monday
 - Finish up presentation `Speak Week`
 - Build nominee addtion process in api `FedEx Rising Star`
 - Double check nothing left hanging prior to Speak Week
-## Tuesday-Friday
+### Tuesday-Friday
 - Speak Week
 ## 19.01.17
 ### Today
