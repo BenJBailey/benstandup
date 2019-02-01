@@ -1,6 +1,24 @@
 # benstandup
 My daily standups
 
+# Feb 2019
+
+## 19.02.01
+
+### Today
+- 06:00 - 06:05: Planning
+- 06:05 - 08:00: Build nominee addition process in api `FedEx Rising Star`
+- 08:00 - 09:00: Build nominee addition process in api `FedEx Rising Star` or Look into database connection errors with Google Reports (test/deploy to dev) 
+- 09:00 - 09:50: Build nominee addition process in api `FedEx Rising Star`
+- 09:50 - 10:00: Time/Review
+
+### Monday
+- Build nominee addition process in api `FedEx Rising Star`
+- Look into database connection errors with Google Reports (deploy?)
+
+### Tuesday
+- Build nominee addition process in api `FedEx Rising Star`
+
 # Jan 2019
 
 ## 19.01.31
@@ -8,22 +26,22 @@ My daily standups
 ### Today
 
 - 07:05 - 07:10: Planning ✅
-- 07:10 - 09:15: Build nominee addtion process in api `FedEx Rising Star` ✅
+- 07:10 - 09:15: Build nominee addition process in api `FedEx Rising Star` ✅
 - 09:15 - 09:20: Break/Slack/etc ✅
 - 09:20 - 10:15: FedEx Rising Star Meeting 🚫
-- 10:15 - 12:00: Build nominee addtion process in api `FedEx Rising Star` 🚫
+- 10:15 - 12:00: Build nominee addition process in api `FedEx Rising Star` 🚫
 - 12:00 - 01:00: Lunch ✅
-- 01:00 - 03:00: Build nominee addtion process in api `FedEx Rising Star` ✅
+- 01:00 - 03:00: Build nominee addition process in api `FedEx Rising Star` ✅
 - 03:00 - 04:00: Look into database connection errors with Google Reports (test/deploy to dev) 🚫
-- 04:00 - 05:00: Build nominee addtion process in api `FedEx Rising Star` ✅
+- 04:00 - 05:00: Build nominee addition process in api `FedEx Rising Star` ✅
 
 ### Friday (2/1)
 - look @ what you fixed on jan 3 to fix the current issue
-- Build nominee addtion process in api `FedEx Rising Star`
+- Build nominee addition process in api `FedEx Rising Star`
 - Look into database connection errors with Google Reports?
 
 ### Monday (2/2)
-- Build nominee addtion process in api `FedEx Rising Star`
+- Build nominee addition process in api `FedEx Rising Star`
 - Look into database connection errors with Google Reports (deploy?)
 
 ### Productivity Score 
