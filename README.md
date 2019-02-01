@@ -6,11 +6,11 @@ My daily standups
 ## 19.02.01
 
 ### Today
-- 06:00 - 06:05: Planning
-- 06:05 - 08:00: Build nominee addition process in api `FedEx Rising Star`
-- 08:00 - 09:00: Build nominee addition process in api `FedEx Rising Star` or Look into database connection errors with Google Reports (test/deploy to dev) 
-- 09:00 - 09:50: Build nominee addition process in api `FedEx Rising Star`
-- 09:50 - 10:00: Time/Review
+- 06:00 - 06:05: Planning ✅
+- 06:05 - 08:00: Build nominee addition process in api `FedEx Rising Star` ✅
+- 08:00 - 09:00: Build nominee addition process in api `FedEx Rising Star` ✅
+- 09:00 - 09:50: Support help ✅
+- 09:50 - 10:00: Time/Review ✅
 
 ### Monday
 - Build nominee addition process in api `FedEx Rising Star`
@@ -18,6 +18,9 @@ My daily standups
 
 ### Tuesday
 - Build nominee addition process in api `FedEx Rising Star`
+
+### Productivity Score 
+⭐️⭐️⭐️** (3/5 ⭐️)
 
 # Jan 2019
 
