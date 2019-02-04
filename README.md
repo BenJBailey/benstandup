@@ -22,6 +22,7 @@ My daily standups
 - 03:05 - 05:00: Build nominee addition/removal process in api `FedEx Rising Star`
 
 ### Tuesday
+- schedule IDX feature for next week?
 - Look into database connection errors with Google Reports (deploy)
 - Build rest of objects/endpoints for api `FedEx Rising Star`
 
