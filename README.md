@@ -3,6 +3,31 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.04
+
+### Today
+- 05:05 - 05:15: Planing
+- 05:15 - 06:05: Look into database connection errors with Google Reports
+- 07:00 - 07:10: Build nominee addition/removal process in api `FedEx Rising Star`
+- 07:10 - 07:15: Slack/Break/etc
+- 07:15 - 07:30: Standups
+- 07:30 - 09:00: Build nominee addition/removal process in api `FedEx Rising Star`
+- 09:00 - 09:05: Slack/Break/etc
+- 09:05 - 12:00: Build nominee addition/removal process in api `FedEx Rising Star`
+- 12:00 - 01:00: Lunch
+- 01:00 - 01:30: Build nominee addition/removal process in api `FedEx Rising Star`
+- 01:30 - 02:30: Staff Meeting
+- 02:30 - 03:00: Build nominee addition/removal process in api `FedEx Rising Star`
+- 03:00 - 03:05: Slack/Break/etc
+- 03:05 - 05:00: Build nominee addition/removal process in api `FedEx Rising Star`
+
+### Tuesday
+- Look into database connection errors with Google Reports (deploy)
+- Build rest of objects/endpoints for api `FedEx Rising Star`
+
+### Wednesday
+- Build rest of objects/endpoints for api `FedEx Rising Star`
+
 ## 19.02.01
 
 ### Today
