@@ -24,6 +24,9 @@ My daily standups
 - FedEx Meeting
 - Build rest of objects/endpoints for api `FedEx Rising Star`
 
+### Productivity Score 
+⭐️⭐️⭐️⭐️* (4/5 ⭐️)
+
 ## 19.02.04
 
 ### Today
