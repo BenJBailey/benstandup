@@ -6,16 +6,18 @@ My daily standups
 ## 19.02.05
 
 ### Today
-- 07:00 - 07:05: Planning
-- 07:05 - 09:00: Build nominee addition/removal process in api `FedEx Rising Star`
-- 09:00 - 09:05: Break/Slack/etc
-- 09:05 - 11:30: Build nominee addition/removal process in api `FedEx Rising Star`
-- 11:30 - 01:30: Flex/Lunch
-- 01:30 - 03:00: Build nominee addition/removal process in api `FedEx Rising Star`
-- 03:00 - 04:00: Deploy google fix?
-- 04:00 - 05:00: Build rest of objects/endpoints for api `FedEx Rising Star`
+- 07:00 - 07:05: Planning ✅
+- 07:05 - 09:00: Build nominee addition/removal process in api `FedEx Rising Star` ✅
+- 09:00 - 09:05: Break/Slack/etc ✅
+- 09:05 - 11:30: Build nominee addition/removal process in api `FedEx Rising Star` ✅
+- 11:30 - 01:30: Flex/Lunch ✅
+- 01:30 - 03:00: Build nominee addition/removal process in api `FedEx Rising Star`  ✅
+- 03:00 - 04:00: Deploy google fix?  ✅
+- 04:00 - 05:00: Build rest of objects/endpoints for api `FedEx Rising Star`  ✅
 
 ### Wednesday
+- Test adding VP to organizations `FedEx Rising Star` 
+- Wrap organizations `FedEx Rising Star` 
 - Build rest of objects/endpoints for api `FedEx Rising Star`
 
 ### Thursday
