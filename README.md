@@ -3,6 +3,26 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.06
+
+### Today
+- 07:00 - 07:10: Planning
+- 07:10 - 09:00: Finish Organization API `FedEx Rising Star`
+- 09:00 - 09:05: Slack/Break/etc
+- 09:05 - 11:30: Next object `FedEx Rising Star`
+- 11:30 - 12:30: Lunch
+- 12:30 - 03:00: Next objects `FedEx Rising Star`
+- 03:00 - 04:00: Task cleanup/Other help?
+- 04:00 - 05:00: Next objects `FedEx Rising Star`
+
+### Thursday
+- FedEx Meeting
+- Next objects `FedEx Rising Star`
+
+### Friday
+- Notifications `FedEx Rising Star`
+- See about starting RETS update next week
+
 ## 19.02.05
 
 ### Today
