@@ -23,6 +23,7 @@ My daily standups
 
 ### Monday
 - Finish moderators/objects `FedEx Rising Star`
+- RETS?
 
 ## 19.02.06
 
