@@ -3,6 +3,27 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.07
+
+### Today
+- 07:00 - 07:15: Planning
+- 07:15 - 09:15: Finish moderators `FedEx Rising Star`
+- 09:15 - 09:20: slack/break/coffee etc
+- 09:20 - 10:30: FedEx meeting
+- 10:30 - 12:00: Finish moderators/objects `FedEx Rising Star`
+- 12:00 - 01:00: Lunch
+- 01:00 - 03:00: Finish moderators/objects `FedEx Rising Star`
+- 03:00 - 04:00: Azure git work
+- 04:00 - 05:00: Finish moderators/objects `FedEx Rising Star`
+
+### Friday
+- read handbook and agree
+- fill out weekly report
+- Finish moderators/objects `FedEx Rising Star`
+
+### Monday
+- Finish moderators/objects `FedEx Rising Star`
+
 ## 19.02.06
 
 ### Today
