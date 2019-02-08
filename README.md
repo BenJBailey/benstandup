@@ -3,6 +3,22 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.08
+
+### Today
+- 06:35 - 06:45: Break
+- 06:45 - 07:15: Handbook
+- 07:15 - 10:45: Nominees `FedEx Rising Star`
+- 10:45 - 10:55: Weekly Report
+- 10:55 - 12:00: Time etc
+
+### Monday
+- RETS change for condos
+
+### Tuesday
+- RETS change for condos
+- `FedEx Rising Star`
+
 ## 19.02.07
 
 ### Today
