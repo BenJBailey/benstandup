@@ -9,7 +9,7 @@ My daily standups
 - 05:00 - 06:00: Review
 - 07:00 - 07:15: RETS condo unit change
 - 07:15 - 07:30: Standups
-- 07:30 - 09:00: RETS condo unit change
+- 07:30 - 09:00: RETS condo unit change (follow up with Nick?)
 - 09:00 - 09:05: Break/slack/etc
 - 09:05 - 10:30: RETS condo unit change
 - 10:30 - 12:00: Nominees `FedEx Rising Star`
