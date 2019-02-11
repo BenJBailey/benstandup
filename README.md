@@ -21,7 +21,7 @@ My daily standups
 - 04:00 - 05:00: Git changes
 
 ### Tuesday
-- RETS condo unit change deploy?
+- RETS condo unit change deploy 
 - Finish up api for `FedEx Rising Star`
 
 ### Wednesday
