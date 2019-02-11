@@ -3,6 +3,30 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.11
+
+### Today
+- 05:00 - 06:00: Review
+- 07:00 - 07:15: RETS condo unit change
+- 07:15 - 07:30: Standups
+- 07:30 - 09:00: RETS condo unit change
+- 09:00 - 09:05: Break/slack/etc
+- 09:05 - 10:30: RETS condo unit change
+- 10:30 - 12:00: Nominees `FedEx Rising Star`
+- 12:00 - 01:00: Lunch
+- 01:00 - 01:30: Nominees `FedEx Rising Star`
+- 01:30 - 02:30: Staff Meeting
+- 02:30 - 02:35: Break/slack/etc
+- 02:35 - 04:00: Nominees `FedEx Rising Star`
+- 04:00 - 05:00: Git changes
+
+### Tuesday
+- RETS condo unit change deploy?
+- Finish up api for `FedEx Rising Star`
+
+### Wednesday
+- Finish up api for `FedEx Rising Star`
+
 ## 19.02.08
 
 ### Today
