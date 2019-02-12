@@ -3,6 +3,26 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.12
+
+## Today
+- 07:00 - 07:10: Planning
+- 07:10 - 09:00: `FedEx Rising Star` api
+- 09:00 - 09:05: Slack/Break/etc
+- 09:05 - 11:30: `FedEx Rising Star` api
+- 11:30 - 01:30: Flex/Lunch
+- 01:30 - 03:00: `FedEx Rising Star` api
+- 03:00 - 03:05: Break
+- 03:05 - 04:00: `FedEx Rising Star` api
+- 04:00 - 05:00: make a smaller git repo
+
+## Wednesday 
+- Vacation
+
+## Thursday
+- RETS condo unit change deploy 
+- `FedEx Rising Star` api
+
 ## 19.02.11
 
 ### Today
