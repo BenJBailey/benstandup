@@ -3,6 +3,12 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.14
+## Today (tentative)
+- RETS condo unit change deploy 
+- `FedEx Rising Star` api
+- clean up support tasks
+
 ## 19.02.12
 
 ## Today
@@ -14,7 +20,7 @@ My daily standups
 - 01:30 - 03:00: `FedEx Rising Star` api
 - 03:00 - 03:05: Break
 - 03:05 - 04:00: `FedEx Rising Star` api
-- 04:00 - 05:00: clean up support tasks
+- 04:00 - 05:00: clean up support tasks ⛔️
 
 ## Wednesday 
 - Vacation
