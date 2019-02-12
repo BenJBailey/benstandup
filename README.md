@@ -14,7 +14,7 @@ My daily standups
 - 01:30 - 03:00: `FedEx Rising Star` api
 - 03:00 - 03:05: Break
 - 03:05 - 04:00: `FedEx Rising Star` api
-- 04:00 - 05:00: make a smaller git repo
+- 04:00 - 05:00: clean up support tasks
 
 ## Wednesday 
 - Vacation
