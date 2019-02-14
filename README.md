@@ -4,14 +4,27 @@ My daily standups
 # Feb 2019
 
 ## 19.02.14
-## Today (tentative)
-- RETS condo unit change deploy 
-- `FedEx Rising Star` api
+### Today (tentative)
+- 07:00 - 08:00: RETS condo unit change deploy ✅
+- 08:00 - 08:05: break
+- 08:05 - 08:15: Planning
+- 08:15 - 09:20: `FedEx Rising Star` api
+- 09:00 - 11:00: FedEx Meetings
+- 11:00 - 12:00: Lunch
+- 12:00 - 02:00: `FedEx Rising Star` api
+- 02:00 - 03:00: RETS Meeting/Discussion
+- 03:00 - 05:00: `FedEx Rising Star` api
+
+### Friday
 - clean up support tasks
+- `FedEx Rising Star` api
+
+### Monday
+- `FedEx Rising Star` api
 
 ## 19.02.12
 
-## Today
+### Today
 - 07:00 - 07:10: Planning
 - 07:10 - 09:00: `FedEx Rising Star` api
 - 09:00 - 09:05: Slack/Break/etc
@@ -22,10 +35,10 @@ My daily standups
 - 03:05 - 04:00: `FedEx Rising Star` api
 - 04:00 - 05:00: clean up support tasks ⛔️
 
-## Wednesday 
+### Wednesday 
 - Vacation
 
-## Thursday
+### Thursday
 - RETS condo unit change deploy 
 - `FedEx Rising Star` api
 
