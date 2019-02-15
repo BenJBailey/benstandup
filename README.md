@@ -3,6 +3,21 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.15
+
+### Today
+- 05:30 - 05:35: Planning
+- 05:35 - 06:35: Support task cleanup
+- 06:35 - 09:10: `FedEx Rising Star` api
+- 09:10 - 09:20: Weekly Report
+- 09:20 - 09:30: Time/Planning/etc
+
+### Monday
+- `FedEx Rising Star` api
+
+### Tuesday
+- `FedEx Rising Star` api ? 
+
 ## 19.02.14
 ### Today
 - 07:00 - 08:00: RETS condo unit change deploy ✅
