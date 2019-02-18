@@ -17,7 +17,7 @@ My daily standups
 - 12:00 - 01:00: Lunch
 - 01:00 - 03:55: `FedEx Rising Star` api
 - 03:55 - 04:00: break
-- 04:00 - 05:00: shrink the git repo
+- 04:00 - 05:00: shrink the git repo ⛔️
 
 ### Tuesday
 - `FedEx Rising Star` api
