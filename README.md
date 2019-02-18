@@ -3,6 +3,29 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.18
+
+### Today
+- 05:05 - 05:20: Planning
+- 05:20 - 06:05: `FedEx Rising Star` api
+- 07:00 - 07:15: `FedEx Rising Star` api
+- 07:15 - 07:30: Daily Standups
+- 07:30 - 07:35: break
+- 07:35 - 09:00: `FedEx Rising Star` api
+- 09:00 - 09:05: break
+- 09:95 - 12:00: `FedEx Rising Star` api
+- 12:00 - 01:00: Lunch
+- 01:00 - 03:55: `FedEx Rising Star` api
+- 03:55 - 04:00: break
+- 04:00 - 05:00: shrink the git repo
+
+### Tuesday
+- `FedEx Rising Star` api
+
+### Wednesday
+- Follow up with Nick @ MAAR
+- `FedEx Rising Star` api/react?
+
 ## 19.02.15
 
 ### Today
