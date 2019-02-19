@@ -3,6 +3,25 @@ My daily standups
 
 # Feb 2019
 
+### 19.02.19
+#### AM
+- Planning
+- `FedEx Rising Star` api
+- Break?
+
+#### PM
+- `FedEx Rising Star` api
+- Mind break: git repo size
+
+### Wednesday
+- `FedEx Rising Star` api
+- Follow up with Nick @ MAAR
+
+### Thursday
+- FedEx Meeting
+- `FedEx Rising Star` api
+
+
 ## 19.02.18
 
 ### Today
