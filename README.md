@@ -3,6 +3,24 @@ My daily standups
 
 # Feb 2019
 
+### 19.02.20
+#### AM
+- Planning
+- `FedEx Rising Star` api
+- Follow up with Nick @ MAAR
+
+
+#### PM
+- `FedEx Rising Star` api
+
+### Thursday
+- `FedEx Rising Star` api
+
+### Friday
+- git repo?
+- `FedEx Rising Star` api
+
+
 ### 19.02.19
 #### AM
 - Planning
