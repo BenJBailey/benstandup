@@ -3,6 +3,19 @@ My daily standups
 
 # Feb 2019
 
+### 19.02.22
+- git repo?
+- `FedEx Rising Star` api
+
+### Monday
+- `FedEx Rising Star` api
+- Standups
+- ~~Staff Meeting~~
+
+### Tuesday
+- `FedEx Rising Star` api
+- `FedEx Rising Star` react?
+
 ### 19.02.21
 - `FedEx Rising Star` api
 
