@@ -3,6 +3,19 @@ My daily standups
 
 # Feb 2019
 
+## 19.02.28
+
+### Today
+- `FedEx Rising Star` api
+- field trip stuffs
+- `FedEx Rising Star` meeting (9-11)
+
+### Friday
+- `FedEx Rising Star` api
+
+### Monday
+- `FedEx Rising Star` api
+
 ## 19.02.27
 
 ### Today
