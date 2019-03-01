@@ -1,5 +1,16 @@
 # benstandup
 My daily standups
+# March 2019
+### 19.03.01
+- `FedEx Rising Star` api
+- weekly report
+
+### Monday
+- standups
+- `FedEx Rising Star` api
+
+### Tuesday
+- `FedEx Rising Star` api
 
 # Feb 2019
 
