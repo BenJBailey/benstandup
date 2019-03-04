@@ -6,10 +6,12 @@ My daily standups
 ### Today
 - standups 
 - `FedEx Rising Star` api
+- contact MAAR?
 - review?
 
 ### Tuesday
 - `FedEx Rising Star` api
+- contact MAAR?
 
 ### Wednesday
 - `FedEx Rising Star` api
