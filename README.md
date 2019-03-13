@@ -2,6 +2,17 @@
 My daily standups
 # March 2019
 
+## 19.03.13
+### Today
+- `FedEx Rising Star` api
+
+### Thursday
+- `FedEx Rising Star` api
+
+### Friday
+- `FedEx Rising Star` api
+- weekly report
+
 ## 19.03.12
 ### Today
 - ramp up with Nikki?
