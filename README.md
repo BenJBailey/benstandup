@@ -7,6 +7,9 @@ My daily standups
 - `FedEx Rising Star` api
 - Weekly report
 
+#### Effectiveness
+3/5
+
 ### Monday
 - `FedEx Rising Star` api
 - standups
