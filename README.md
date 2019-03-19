@@ -5,13 +5,15 @@ My daily standups
 ## 19.03.19
 ### Today
 - `FedEx Rising Star` api
+#### Productivity 
+4/5
 
 ### Wednesday
 - `FedEx Rising Star` api
 
 ### Thursday
 - `FedEx Rising Star` api
-- `FedEx Rising Star` meetin
+- `FedEx Rising Star` meeting
 
 ## 19.03.18
 ### Today
