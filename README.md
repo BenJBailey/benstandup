@@ -2,6 +2,17 @@
 My daily standups
 # March 2019
 
+## 19.03.19
+### Today
+- `FedEx Rising Star` api
+
+### Wednesday
+- `FedEx Rising Star` api
+
+### Thursday
+- `FedEx Rising Star` api
+- `FedEx Rising Star` meetin
+
 ## 19.03.18
 ### Today
 - `FedEx Rising Star` api
