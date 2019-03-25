@@ -5,10 +5,13 @@ My daily standups
 ## 19.02.25
 
 ### Today
-- deploy donation fix (if tested)
 - `FedEx Rising Star` api
 
+#### Perf
+3/5
+
 ### Tuesday
+- deploy donation fix (if tested)
 - `FedEx Rising Star` api
 
 ### Wednesday
