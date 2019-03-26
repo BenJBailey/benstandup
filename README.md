@@ -2,6 +2,19 @@
 My daily standups
 # March 2019
 
+## 19.02.26
+### Today
+- review
+- `FedEx Rising Star` api
+- deploy donation fix (if tested)
+
+### Wednesday
+- `FedEx Rising Star` api
+
+### Thursday
+- `FedEx Rising Star` api
+
+
 ## 19.02.25
 
 ### Today
