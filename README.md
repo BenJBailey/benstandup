@@ -1,5 +1,19 @@
 # benstandup
 My daily standups
+# April 2019
+
+## 19.04.01
+### Today
+- `FedEx Rising Star` api
+- standups
+- SSL Refresher meeting
+
+### Tuesday
+- `FedEx Rising Star` api
+
+### Wednesday
+- `FedEx Rising Star` react?
+
 # March 2019
 
 ## 19.03.28
