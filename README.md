@@ -2,6 +2,14 @@
 My daily standups
 # April 2019
 
+## 19.04.3
+### Today
+- `FedEx Rising Star` api
+### Thursday
+- `FedEx Rising Star` api
+### Friday
+- `FedEx Rising Star` react
+
 ## 19.04.01
 ### Today
 - `FedEx Rising Star` api
