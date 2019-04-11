@@ -2,6 +2,18 @@
 My daily standups
 # April 2019
 
+## 19.04.11
+### Today
+- `FedEx Rising Star` meeting
+- `FedEx Rising Star`
+
+### Friday
+- `FedEx Rising Star`
+
+### Monday
+- standups
+- `FedEx Rising Star`
+
 ## 19.04.10
 ### Today
 - AM vacation
