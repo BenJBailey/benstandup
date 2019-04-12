@@ -2,6 +2,18 @@
 My daily standups
 # April 2019
 
+## 19.04.12
+### Today
+- `FedEx Rising Star`
+- Weekly report
+
+### Monday
+- Standups
+- `FedEx Rising Star`
+
+### Tuesday
+- `FedEx Rising Star`
+
 ## 19.04.11
 ### Today
 - `FedEx Rising Star` meeting
