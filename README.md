@@ -2,6 +2,21 @@
 My daily standups
 # April 2019
 
+## 19.04.16
+
+### Today
+- FedEx Rising Star` UI clean up
+- `FedEx Rising Star` discuss css split with Nikki
+
+### Wednesday
+- FedEx Rising Star` UI clean up
+- FedEx demo run through
+
+### Thursday
+- FedEx Rising Star` meeting/demo
+- FedEx Rising Star` UI clean up
+- FedEx Rising Star` export & past winners
+
 ## 19.04.15
 
 ### Today
