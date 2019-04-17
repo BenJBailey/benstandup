@@ -2,7 +2,22 @@
 My daily standups
 # April 2019
 
+## 19.04.17
+### TOday
+
 ## 19.04.16
+
+### Today
+- FedEx Rising Star` changes/fixes from UI review
+- ASPSF launch?
+
+### Thursday
+- FedEx Rising Star` meeting/demo
+- FedEx Rising Star` UI clean up
+- FedEx Rising Star` export & past winners
+
+### Friday
+- Good Friday
 
 ### Today
 - FedEx Rising Star` UI clean up
