@@ -2,6 +2,19 @@
 My daily standups
 # April 2019
 
+## 19.04.23
+### Today
+- FedEx Rising Star` changes/fixes from UI review
+- FedEx Rising Star` winners/old data
+
+### Wednesday
+- FedEx Rising Star` changes/fixes from UI review
+- FedEx Rising Star` winners/old data
+
+### Thursday
+- FedEx Rising Star` winners/old data
+- FedEx Rising Star` meeting
+
 ## 19.04.22
 ### Today
 - FedEx Rising Star` changes/fixes from UI review
