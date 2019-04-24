@@ -2,31 +2,41 @@
 My daily standups
 # April 2019
 
-## 19.04.23
+## 19.04.24
 ### Today
-- FedEx Rising Star` changes/fixes from UI review
-- FedEx Rising Star` winners/old data
-
-### Wednesday
-- FedEx Rising Star` changes/fixes from UI review
-- FedEx Rising Star` winners/old data
+- `FedEx Rising Star` winners/old data
 
 ### Thursday
-- FedEx Rising Star` winners/old data
-- FedEx Rising Star` meeting
+- `FedEx Rising Star` winners/old data
+- `FedEx Rising Star` meeting
+
+### Friday
+
+## 19.04.23
+### Today
+- `FedEx Rising Star` changes/fixes from UI review
+- `FedEx Rising Star` winners/old data
+
+### Wednesday
+- `FedEx Rising Star` changes/fixes from UI review
+- `FedEx Rising Star` winners/old data
+
+### Thursday
+- `FedEx Rising Star` winners/old data
+- `FedEx Rising Star` meeting
 
 ## 19.04.22
 ### Today
-- FedEx Rising Star` changes/fixes from UI review
+- `FedEx Rising Star` changes/fixes from UI review
 - standups
 
 ### Tuesday
-- FedEx Rising Star` changes/fixes from UI review
-- FedEx Rising Star` winners/old data
+- `FedEx Rising Star` changes/fixes from UI review
+- `FedEx Rising Star` winners/old data
 
 ### Wednesday
-- FedEx Rising Star` changes/fixes from UI review
-- FedEx Rising Star` winners/old data
+- `FedEx Rising Star` changes/fixes from UI review
+- `FedEx Rising Star` winners/old data
 
 ## 19.04.17
 ### Today
@@ -34,29 +44,29 @@ My daily standups
 ## 19.04.16
 
 ### Today
-- FedEx Rising Star` changes/fixes from UI review
+- `FedEx Rising Star` changes/fixes from UI review
 - ASPSF launch?
 
 ### Thursday
-- FedEx Rising Star` meeting/demo
-- FedEx Rising Star` UI clean up
-- FedEx Rising Star` export & past winners
+- `FedEx Rising Star` meeting/demo
+- `FedEx Rising Star` UI clean up
+- `FedEx Rising Star` export & past winners
 
 ### Friday
 - Good Friday
 
 ### Today
-- FedEx Rising Star` UI clean up
+- `FedEx Rising Star` UI clean up
 - `FedEx Rising Star` discuss css split with Nikki
 
 ### Wednesday
-- FedEx Rising Star` UI clean up
+- `FedEx Rising Star` UI clean up
 - FedEx demo run through
 
 ### Thursday
-- FedEx Rising Star` meeting/demo
-- FedEx Rising Star` UI clean up
-- FedEx Rising Star` export & past winners
+- `FedEx Rising Star` meeting/demo
+- `FedEx Rising Star` UI clean up
+- `FedEx Rising Star` export & past winners
 
 ## 19.04.15
 
