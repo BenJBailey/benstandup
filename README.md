@@ -2,6 +2,17 @@
 My daily standups
 # April 2019
 
+## 19.04.25
+### Today
+- `FedEx Rising Star` winners/old data
+- `FedEx Rising Star` meeting
+
+### Friday
+- `FedEx Rising Star` winners/old data
+
+### Monday
+- `FedEx Rising Star` cleanup
+
 ## 19.04.24
 ### Today
 - `FedEx Rising Star` winners/old data
