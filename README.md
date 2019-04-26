@@ -2,11 +2,22 @@
 My daily standups
 # April 2019
 
-## 19.04.25
+## 19.04.26
 ### Today
-- `FedEx Rising Star` winners/old data
-- `FedEx Rising Star` meeting
+- `FedEx Rising Star` old winners
+- `FedEx Rising Star` Feedback items
+- Weekly Report
 
+### Monday
+- Standups
+- `FedEx Rising Star` CSVs
+- `FedEx Rising Star` Feedback items
+
+### Tuesday 
+- `FedEx Rising Star` CSVs
+- `FedEx Rising Star` Deferrals?
+
+## 19.04.25
 ### Friday
 - `FedEx Rising Star` winners/old data
 
