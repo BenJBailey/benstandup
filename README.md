@@ -2,12 +2,25 @@
 My daily standups
 # April 2019
 
+## 19.04.30
+### Today
+- `FedEx Rising Star` CSVs
+- `FedEx Rising Star` Deferrals?
+
+### Wednesday
+- `FedEx Rising Star` CSVs
+- `FedEx Rising Star` Deferrals?
+
+## Thursday
+- `FedEx Rising Star` Meeting
+- `FedEx Rising Star` etc
+
 ## 19.04.29
 ### Today
 
 - Standups
 - FedEx Rising Star CSVs
-- Vacation (1.5 hrs)
+- Vacation (2 hrs)
 - FedEx Rising Star Feedback items
 
 ### Tuesday
