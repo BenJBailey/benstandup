@@ -1,5 +1,20 @@
 # benstandup
 My daily standups
+
+# May 2019
+
+## 19.05.01
+### Today
+- `FedEx Rising Star` feedback changes
+- `FedEx Rising Star` CSVs
+
+## Thursday
+- `FedEx Rising Star` Meeting
+- `FedEx Rising Star` etc
+
+## Friday
+- `FedEx Rising Star` CSVs
+
 # April 2019
 
 ## 19.04.30
