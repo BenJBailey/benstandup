@@ -3,6 +3,18 @@ My daily standups
 
 # May 2019
 
+## 19.05.07
+- `FedEx Rising Star` CSVs
+- `FedEx Rising Star` deferrals?
+
+## Wedensday
+- `FedEx Rising Star` deferrals
+- `FedEx Rising Star` cleanup
+
+## Thursday
+- `FedEx Rising Star` meeting
+- `FedEx Rising Star` deferrals
+
 ## 19.05.06
 ## Today
 - Standups
