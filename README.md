@@ -5,10 +5,10 @@ My daily standups
 
 ## 19.05.07
 - `FedEx Rising Star` CSVs
-- `FedEx Rising Star` deferrals?
 
-## Wedensday
-- `FedEx Rising Star` deferrals
+## Wednesday
+- `FedEx Rising Star` CSV (past reports)
+- `FedEx Rising Star` deferrals?
 - `FedEx Rising Star` cleanup
 
 ## Thursday
