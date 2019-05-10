@@ -3,6 +3,19 @@ My daily standups
 
 # May 2019
 
+## 19.05.10
+### Today
+- `FedEx Rising Star` deferral tests
+
+### Monday
+- standups
+- `FedEx Rising Star` cleanup
+- `FedEx Rising Star` dev deploy?
+
+### Tuesday
+- `FedEx Rising Star` cleanup
+- `FedEx Rising Star` dev deploy?
+
 ## 19.05.09
 ### Today
 - `FedEx Rising Star` meeting
