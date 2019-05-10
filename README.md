@@ -6,6 +6,7 @@ My daily standups
 ## 19.05.10
 ### Today
 - `FedEx Rising Star` deferral tests
+- Weekly update
 
 ### Monday
 - standups
