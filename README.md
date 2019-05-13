@@ -2,6 +2,21 @@
 My daily standups
 
 # May 2019
+## 19.05.13
+### Today
+- standups
+- `FedEx Rising Star` cleanup
+- `FedEx Rising Star` dev deploy?
+
+### Tuesday
+- `FedEx Rising Star` sql to grab old data
+- `FedEx Rising Star` dev deploy
+- `FedEx Rising Star` prod deploy?
+
+### Wednesday
+- SW Store Checkout planning (w/Nikki?)
+- SW Store Checkout merge
+- SW Store Checkout tweaks
 
 ## 19.05.10
 ### Today
