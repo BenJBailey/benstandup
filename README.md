@@ -2,6 +2,23 @@
 My daily standups
 
 # May 2019
+
+## 19.05.14
+### Today
+- `FedEx Rising Star` get running in dev
+- SW Store meeting
+- `FedEx Rising Star` testing
+- `FedEx Rising Star` copy test old data to test db
+- `FedEx Rising Star` prod deploy
+
+### Wednesday
+- `FedEx Rising Star` tweaks?
+- SW Store Checkout?
+
+### Thursday
+- `FedEx Rising Star` meeting
+- SW Store Checkout?
+
 ## 19.05.13
 ### Today
 - standups
