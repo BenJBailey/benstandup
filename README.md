@@ -3,6 +3,19 @@ My daily standups
 
 # May 2019
 
+## 19.05.15
+### Today
+- SW Page Menu Load
+- SW disable reChaptcha?
+- `FedEx Rising Star` release?
+
+### Thursday
+- `FedEx Rising Star` meeting
+- SW Page Menu Load
+
+### Friday
+- `FedEx Rising Star` release?
+
 ## 19.05.14
 ### Today
 - `FedEx Rising Star` get running in dev
