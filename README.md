@@ -3,6 +3,17 @@ My daily standups
 
 # May 2019
 
+## 19.05.17
+### Today
+- First Evan MX record changes at 9am
+- SW Page menu updates
+
+### Monday
+- SW Page menu updates
+
+### Tuesday
+- SW Page menu updates?
+
 ## 19.05.15
 ### Today
 - SW Page Menu Load
