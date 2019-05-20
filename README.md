@@ -3,6 +3,22 @@ My daily standups
 
 # May 2019
 
+## 19.05.20
+### Today
+- Confirm `FedEx Rising Star` SSO is working
+- Merge sitefiles for `FedEx Rising Star`
+- Finish page menu load (and get in testing?)
+- Standups
+- Plan meeting for checkout
+
+### Tuesday
+- menu load?
+- checkout?
+
+### Wednesday
+- menu load?
+- checkout?
+
 ## 19.05.17
 ### Today
 - First Evan MX record changes at 9am
