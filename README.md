@@ -3,16 +3,35 @@ My daily standups
 
 Today
 
-    - Merge sitefiles for FedEx Rising Star
-    - Finish page menu load (and get in testing?)
-    - Plan meeting for checkout
+    FedEx Rising Star brand fixes
+    Planning for next week
+    Weekly Report
 
-Wednesday
+Monday (5/27)
 
-    menu load?
-    checkout?
+    Holiday
 
-Thursday
+Tuesday (5/28)
+    
+    Check on AZA (plan deploy)
+    Check on the status of Mystic Aquarium
+    Check on more FedEx Rising Star Feedback
+    Prep page menu tweaks for deployment on Wednesday (test!)
+    Start last tweaks/feats/fixes for Store Checkout
+    
+Wednesday (5/29)   
 
-    menu load?
-    checkout?
+    Deploy AZA (if ready)
+    Store Checkout
+    Any FedEx Rising Star fixes
+    Merge SiteFiles for Rising Star?
+    
+Thursday (5/30)
+    
+    FedEx Rising Star Meeting
+    Store Checkout
+
+Friday (5/31)  
+    
+    Store Checkout
+    Weekly Report
