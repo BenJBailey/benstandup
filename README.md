@@ -15,7 +15,7 @@ Tuesday (5/28)
     
     Check on AZA (plan deploy)
     Check on the status of Mystic Aquarium
-    Check on more FedEx Rising Star Feedback
+    FedEx Rising Star changes
     Prep page menu tweaks for deployment on Wednesday (test!)
     Start last tweaks/feats/fixes for Store Checkout
     
