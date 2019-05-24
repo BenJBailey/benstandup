@@ -21,6 +21,7 @@ Tuesday (5/28)
     
 Wednesday (5/29)   
 
+    Work Monday AM hour
     Deploy AZA (if ready)
     Store Checkout
     Any FedEx Rising Star fixes
