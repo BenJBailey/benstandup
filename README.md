@@ -13,7 +13,8 @@ Today
 Wednesday (5/29)   
 
     Work Monday AM hour
-    Deploy page changes
+    Deploy page menu changes
+    Deploy https://app.buddy.works/speakcreative/sitewrench-git/repository/content/branch/fix%2F13213577-secure-cookies
     Deploy AZA (if ready)
     Store Checkout
     Any FedEx Rising Star fixes
