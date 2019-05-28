@@ -13,6 +13,7 @@ Today
 Wednesday (5/29)   
 
     Work Monday AM hour
+    Deploy page changes
     Deploy AZA (if ready)
     Store Checkout
     Any FedEx Rising Star fixes
