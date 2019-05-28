@@ -2,18 +2,9 @@
 My daily standups
 
 Today
-
-    FedEx Rising Star brand fixes
-    Planning for next week
-    Weekly Report
-
-Monday (5/27)
-
-    Holiday
-
-Tuesday (5/28)
     
     Check on AZA (plan deploy)
+    Delete old AZA records from Animal Exchange (2 years or older)
     Check on the status of Mystic Aquarium
     FedEx Rising Star changes
     Prep page menu tweaks for deployment on Wednesday (test!)
