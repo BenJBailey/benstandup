@@ -3,21 +3,17 @@ My daily standups
 
 Today
     
-    Attempt deploy of site page menu
-    Fix site page menu
-    FedEx Rising Star Meeting
-    Meeting follow up
-    FedEx items
-    Store Checkout
+    Site menu deploy
+    store checkout
+    fedex final items
 
-Friday (5/31)  
+Wednesday (6/5)  
     
-    FedEx Items
-    Store Checkout
-    Weekly Report
-
-Monday (6/3)
-    
-    Deploy page menu changes (again :p )
     FedEx Items?
+    FedEx deploy?
     Store Checkout
+
+Thursday (6/6)
+    
+    FedEx meeting
+    FedEx past winners update from latest quarter
