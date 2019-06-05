@@ -3,17 +3,18 @@ My daily standups
 
 Today
     
-    Site menu deploy
-    store checkout
-    fedex final items
+    Fix form bug
+    Fix breadcrumb bug
+    Round off FedEx fixes
+    Store
 
-Wednesday (6/5)  
-    
-    FedEx Items?
-    FedEx deploy?
-    Store Checkout
+Thursday (6/6) 
 
-Thursday (6/6)
-    
+    Deploy yesterday's fixes
+    Deploy to FedEx
     FedEx meeting
     FedEx past winners update from latest quarter
+
+Friday (6/7)
+    
+    Store
