@@ -3,28 +3,23 @@ My daily standups
 
 Today
     
-    Deploy fixes for site page menu
-    Deploy to FedEx
-    FedEx meeting
-    FedEx past winners update from latest quarter
-    FedEx changes
-    Form fix
-
-Friday (6/7)
-    
     Weekly Report
     Check time
-    Form fix?
+    Form fix
     Home page breadcrumb bug fix
-    FedEx items?
-    Import FedEx spreadsheet?
+    Import FedEx spreadsheet
+    Deploy FedEx Sitefiles?
     Store
 
 Monday (6/10)
     
     Deploy form fix
     Deploy home page breadcrumb fix
-    Deploy FedEx changes from Thursday
+    Deploy FedEx prod
+    Deploy FedEx Sitefiles?
     Standups
-    Import FedEx spreadsheet?
+    Store
+
+Tuesday (6/11)
+    
     Store
