@@ -3,13 +3,17 @@ My daily standups
 
 Today
     
-    Deploy FedEx sitefiles (after nikki gets last item)
+    FedEx IE 11 Fixes
     Store
     
- Wednesday (6/12)
+ Thursday (6/13)
  
-    Deploy form fix?
+    FedEx meeting?
+    Deploy form fix/IE11 fix?
     Deploy to FedEx?
+    Deploy sitefiles
     Store
  
- 
+ Friday (6/14)
+    
+    Store
