@@ -2,15 +2,15 @@
 My daily standups
 
 Today
-    
-    Alex's Deploy
-    Store
-    Standups
-    
-Tuesday (6/17)
 
     Store
+    FedEx Feedback/changes?
     
 Wednesday (6/18)
 
     Store
+
+Thursday (6/19)
+
+    Store
+    FedEx meeting?
