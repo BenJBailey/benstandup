@@ -4,13 +4,13 @@ My daily standups
 Today
 
     Store
-    FedEx Feedback/changes?
-    
-Wednesday (6/18)
-
-    Store
+    Deploy FedEx sitefiles
 
 Thursday (6/19)
 
     Store
     FedEx meeting?
+
+Friday (6/20)
+    
+    Store
