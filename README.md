@@ -4,13 +4,13 @@ My daily standups
 Today
 
     Store
-    Deploy FedEx sitefiles
-
-Thursday (6/19)
-
-    Store
+    FedEx sitefiles
     FedEx meeting?
 
 Friday (6/20)
     
+    Store
+    
+Monday (6/23)
+
     Store
