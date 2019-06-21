@@ -2,16 +2,16 @@
 My daily standups
 
 Today
-
-    Store
-    FedEx sitefiles
-    FedEx meeting?
-
-Friday (6/20)
     
-    Store
+    FedEx Troubleshooting (nomination process)
+    FedEx fixes
     
 Monday (6/23)
 
-    Deploy FedEx fix
+    Standups
+    Deploy FedEx fix?
+    Store
+
+Tuesday (6/24)
+    
     Store
