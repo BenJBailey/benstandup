@@ -3,6 +3,7 @@ My daily standups
 
 Today
     
+    DNS Change
     FedEx Troubleshooting (nomination process)
     FedEx fixes
     
