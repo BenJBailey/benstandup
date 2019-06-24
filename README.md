@@ -2,17 +2,24 @@
 My daily standups
 
 Today
-    
-    DNS Change
-    FedEx Troubleshooting (nomination process)
-    FedEx fixes
-    
-Monday (6/23)
 
     Standups
-    Deploy FedEx fix?
+    FedEx research/fix after email reply?
     Store
 
 Tuesday (6/24)
     
     Store
+
+Wednesday (6/25)
+
+    Store
+    
+Thursday (6/26)
+
+    Store
+    Vacation (afternoon)
+
+Friday (6/27)
+
+    Vacation
