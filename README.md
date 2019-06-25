@@ -2,17 +2,13 @@
 My daily standups
 
 Today
-
-    Standups
-    FedEx research/fix after email reply?
-    Store
-
-Tuesday (6/24)
     
+    FedEx advance fix
     Store
 
 Wednesday (6/25)
 
+    Deploy FedEx fix?
     Store
     
 Thursday (6/26)
