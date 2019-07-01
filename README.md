@@ -3,11 +3,18 @@ My daily standups
 
 Today
 
+    FedEx
+        Moderator view fix
+        Slow down Employee search
+    Standups
     Store
-    Fedex Fix 👍
-    FedEx Meeting?
-    Vacation (afternoon)
+    Staff Meeting
+    
+Tuesday (7/2)
+    
+    Release FedEx fixes?
+    Store
 
-Friday (6/27)
+Wednesday (7/3)
 
-    Vacation
+    Store
