@@ -2,20 +2,21 @@
 My daily standups
 
 Today
-
-    FedEx
-        Moderator view fix
+    
+    FedEx fixes
         Slow down Employee search
         ZIndex issu
-    Standups
-    Store
-    Staff Meeting
-    
-Tuesday (7/2)
-    
-    Release FedEx fixes?
     Store
 
 Wednesday (7/3)
 
+    Release FedEx fixes
     Store
+    
+Thursday (7/4)
+    
+    Vacation
+
+Friday (7/5)
+
+    Vacation
