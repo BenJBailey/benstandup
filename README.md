@@ -4,7 +4,9 @@ My daily standups
 Today
 
     Release FedEx fixes
-    Store
+    Test store checkout
+    Test store admin
+    Check test site for 503s
     
 Thursday (7/4)
     
