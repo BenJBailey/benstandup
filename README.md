@@ -3,15 +3,18 @@ My daily standups
 
 Today
 
-    Release FedEx fixes
     Test store checkout
     Test store admin
     Check test site for 503s
+    Vacation in afternoon
     
-Thursday (7/4)
+Tuesday (7/9)
     
-    Vacation
+    Store meeting
+    Store testing/tightening up
 
-Friday (7/5)
+Wednesday (7/10)
 
-    Vacation
+    Store?
+    Other?
+    FedEx?
