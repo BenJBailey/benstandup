@@ -4,12 +4,13 @@ My daily standups
 Today
 
     Store
-    
-Thursday (7/11)
-
-    Store
     Forms?
     
-Friday
+Friday (7/12)
     
+    Store?
+    Forms?
+
+Monday (7/13)
+
     Forms?
