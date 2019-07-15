@@ -14,7 +14,7 @@ Tuesday (7/16)
     Clean up SW Project
     Recurring Payments
     
-Wednesday (7/16)
+Wednesday (7/17)
     
     Recurring Payments
 
