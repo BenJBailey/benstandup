@@ -9,8 +9,10 @@ Today
     Start on recurring payments
 
 Tuesday (7/16)
+    
     Recurring Payments
     
 Wednesday (7/16)
+    
     Recurring Payments
 
