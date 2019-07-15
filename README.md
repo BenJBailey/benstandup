@@ -3,14 +3,12 @@ My daily standups
 
 Today
 
-    Store
-    Forms?
-    
-Friday (7/12)
-    
-    Store?
-    Forms?
+    Store wrap
+    Store tests
+    ???
 
-Monday (7/13)
-
-    Forms?
+Tuesday (7/16)
+    ???
+    
+Wednesday (7/16)
+    ???
