@@ -10,6 +10,8 @@ Today
 
 Tuesday (7/16)
     
+    Store testing
+    Clean up SW Project
     Recurring Payments
     
 Wednesday (7/16)
