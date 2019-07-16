@@ -2,13 +2,6 @@
 My daily standups
 
 Today
-
-    Store wrap
-    Store tests
-    Clean up SW Project
-    Start on recurring payments
-
-Tuesday (7/16)
     
     Store testing
     Clean up SW Project
@@ -16,5 +9,9 @@ Tuesday (7/16)
     
 Wednesday (7/17)
     
+    Recurring Payments
+
+Thursday (7/18)
+
     Recurring Payments
 
