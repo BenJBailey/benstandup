@@ -3,15 +3,15 @@ My daily standups
 
 Today
     
+    Finish toggle change
     Store testing
-    Clean up SW Project
-    Recurring Payments
-    
-Wednesday (7/17)
-    
     Recurring Payments
 
 Thursday (7/18)
+
+    Recurring Payments
+
+Friday (7/19)
 
     Recurring Payments
 
