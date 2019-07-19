@@ -2,16 +2,15 @@
 My daily standups
 
 Today
-    
-    Finish toggle change
-    Store testing
-    Recurring Payments
 
-Thursday (7/18)
+    Store Refactoring
+    Recurring Payments Discussion
 
-    Recurring Payments
+Monday (7/23)
 
-Friday (7/19)
+    Store Refactoring
+    Recurring Payments?
 
-    Recurring Payments
+Tuesday (7/24)
 
+    Recurring Payments?
