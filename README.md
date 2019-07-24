@@ -3,14 +3,14 @@ My daily standups
 
 Today
 
-    Store Refactoring
-    Recurring Payments?
-    Mid-Year Review
-    
-Wednesday (7/25)
-
+    Store Testing
     Recurring Payments
 
 Thursday (7/26)
 
     Recurrng Payments
+
+Friday (7/27)
+
+    Recurring Payments
+    Store release plan?
