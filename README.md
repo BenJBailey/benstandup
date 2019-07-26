@@ -3,14 +3,14 @@ My daily standups
 
 Today
 
-    Store Testing
-    Recurring Payments
+    Recurring Payments for forms
 
-Thursday (7/26)
+Monday
 
-    Recurrng Payments
+    Recurring Payments for forms
+    Standups
+    Store checkout meeting
+    
+Tuesday
 
-Friday (7/27)
-
-    Recurring Payments
-    Store release plan?
+    Recurring Payments for forms
