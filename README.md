@@ -22,3 +22,4 @@ IF NEED WORK
     Form updates
         max entries
         open/cose date
+        payment info in email notificaitons
