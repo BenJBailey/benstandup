@@ -3,19 +3,18 @@ My daily standups
 
 Today
 
-    Recurring Payments for forms
-    Planning for deployment of Alex's work
-    Send Store email via mbs's mass mail from dev team reply to dev team
-    Sick Time
-    Staff Meeting
-
-Tuesday
-
     Recurring Payments for forms?
+    Alex's work
 
 Wednesday 
 
     Recurring Payments for forms?
+    Alex's work
+
+Thursday
+
+    Recurring Payments for forms?
+    Alex's work
 
 IF NEED WORK
     
