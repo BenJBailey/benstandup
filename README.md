@@ -6,12 +6,12 @@ Today
     Recurring Payments for forms?
     Alex's work
 
-Wednesday 
+Thursday
 
     Recurring Payments for forms?
     Alex's work
 
-Thursday
+Friday
 
     Recurring Payments for forms?
     Alex's work
