@@ -1,20 +1,20 @@
 # benstandup
 My daily standups
 
-Today
+Toda
 
-    Recurring Payments for forms?
-    Alex's work
-
-Thursday
-
-    Recurring Payments for forms?
+    Recurring Payments for forms
     Alex's work
 
 Friday
 
-    Recurring Payments for forms?
-    Alex's work
+    Recurring Payments for forms
+    
+Monday
+    
+    Standups
+    Deploy store changes to prod
+    Recurring Payments
 
 IF NEED WORK
     
