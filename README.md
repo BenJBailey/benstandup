@@ -4,12 +4,13 @@ My daily standups
 Today
     
     Standups
-    Deploy store changes to prod
     Recurring Payments
+    Styleguide?
 
 Tuesday
     
     Recurring Payments
+    Deploy store changes to prod
 
 Wednesday
     
