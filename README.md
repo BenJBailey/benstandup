@@ -4,6 +4,7 @@ My daily standups
 Today
     
     Store change fixes
+    cal fix
     Recurring Payments?
     FedEx data import
    
