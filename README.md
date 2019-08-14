@@ -3,17 +3,17 @@ My daily standups
 
 Today
     
-    Standups
-    Recurring Payments
-    Styleguide?
+    Store change fixes
+    Recurring Payments?
+    FedEx data import
+   
+Thursday
 
-Tuesday
-    
+    Deploy store fixes
     Recurring Payments
-    Deploy store changes to prod
-
-Wednesday
     
+Friday
+
     Recurring Payments
 
 IF NEED WORK
