@@ -3,18 +3,18 @@ My daily standups
 
 Today
     
-    Store change fixes
-    cal fix
-    Recurring Payments?
-    FedEx data import
-   
-Thursday
+   Deploy
+      Store 404 fix
+      Alex's AZA fix
+   Stand ups
+   Recurring Payments (form admin)
 
-    Deploy store fixes
+Tuesday
+    
     Recurring Payments
     
-Friday
-
+Wednesday
+    
     Recurring Payments
 
 IF NEED WORK
