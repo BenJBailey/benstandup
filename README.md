@@ -2,14 +2,14 @@
 My daily standups
 
 Today
-    
-    Recurring Payments
-    
-Wednesday
-    
+
     Recurring Payments
     
 Thursday
+
+    Recurring Payments
+
+Friday
 
     Recurring Payments
 
