@@ -4,14 +4,16 @@ My daily standups
 Today
 
     Recurring Payments
-    
-Thursday
-
-    Recurring Payments
 
 Friday
 
     Recurring Payments
+    Weekly Report
+    Vacation Prep
+    
+Monday-Friday
+
+    🌃 Vacation
 
 IF NEED WORK
     
