@@ -3,10 +3,7 @@ My daily standups
 
 Today
 
-    Recurring Payments
-
-Friday
-
+    Store checkout fix
     Recurring Payments
     Weekly Report
     Vacation Prep
