@@ -3,14 +3,15 @@ My daily standups
 
 Today
 
-    Store checkout fix
-    Recurring Payments
-    Weekly Report
-    Vacation Prep
-    
-Monday-Friday
+    Recurring Payments in forms
 
-    🌃 Vacation
+Wednesday
+
+    Recurring Payments in forms
+    
+Thursday
+
+    Recurring Payments in forms
 
 IF NEED WORK
     
