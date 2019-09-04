@@ -5,11 +5,11 @@ Today
 
     Recurring Payments in forms
 
-Wednesday
+Thursday
 
     Recurring Payments in forms
     
-Thursday
+Friday
 
     Recurring Payments in forms
 
