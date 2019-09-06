@@ -4,14 +4,19 @@ My daily standups
 Today
 
     Recurring Payments in forms
+    Weekly Report
 
-Thursday
+Monday
 
     Recurring Payments in forms
+    Standups
+    Familiarize with Root changes?
+    Staff Meeting
     
-Friday
+Tuesday
 
     Recurring Payments in forms
+
 
 IF NEED WORK
     
