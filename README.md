@@ -12,6 +12,7 @@ Today
 Tuesday
 
     Recurring Payments in forms
+    Schedule FedEx Rising Star changes
     
 Wednesday
     
