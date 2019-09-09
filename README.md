@@ -4,17 +4,17 @@ My daily standups
 Today
 
     Recurring Payments in forms
-    Weekly Report
-
-Monday
-
-    Recurring Payments in forms
     Standups
+    Dentist
     Familiarize with Root changes?
     Staff Meeting
     
 Tuesday
 
+    Recurring Payments in forms
+    
+Wednesday
+    
     Recurring Payments in forms
 
 
