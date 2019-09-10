@@ -4,17 +4,15 @@ My daily standups
 Today
 
     Recurring Payments in forms
-    Standups
-    Dentist
     Familiarize with Root changes?
-    Staff Meeting
-    
-Tuesday
-
-    Recurring Payments in forms
-    Schedule FedEx Rising Star changes
+    Wait to hear back on FedEx Rising Star changes
+    Vacation
     
 Wednesday
+    
+    Recurring Payments in forms
+    
+Thursday
     
     Recurring Payments in forms
 
