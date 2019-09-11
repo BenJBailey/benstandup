@@ -5,14 +5,12 @@ Today
 
     Recurring Payments in forms
     Familiarize with Root changes?
-    Wait to hear back on FedEx Rising Star changes
-    Vacation
     
-Wednesday
+Thursday
     
     Recurring Payments in forms
     
-Thursday
+Friday
     
     Recurring Payments in forms
 
