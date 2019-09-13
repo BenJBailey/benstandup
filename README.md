@@ -2,17 +2,17 @@
 My daily standups
 
 Today
+    
+    Recurring Payments in forms
+    
+Monday
+ 
+    Recurring Payments in forms
+
+Tuesday
 
     Recurring Payments in forms
-    Familiarize with Root changes?
-    
-Thursday
-    
-    Recurring Payments in forms
-    
-Friday
-    
-    Recurring Payments in forms
+
 
 
 IF NEED WORK
