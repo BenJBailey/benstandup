@@ -8,6 +8,8 @@ Today
 Monday
  
     Recurring Payments in forms
+    Standups
+    FedEx template change
 
 Tuesday
 
