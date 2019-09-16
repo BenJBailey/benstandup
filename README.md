@@ -3,7 +3,7 @@ My daily standups
 
 Today
  
-    ~Recurring Payments in forms~
+    ~~Recurring Payments in forms~~
     Fix for store checkout
     FedEx template change
     Standups
