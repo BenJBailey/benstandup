@@ -8,8 +8,10 @@ Today
     
 Thursday
   
-    Deploy FedEx email changes
-    Send FedEx email instructions
+    Deploy (RS, FedEx and Azure):
+        fix/14088758-order-email
+        feat/14064869-fedex-rs-email-temp
+    Send FedEx email instructions (already written)
     Recurring Payments in forms
 
 Friday
