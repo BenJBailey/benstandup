@@ -2,20 +2,19 @@
 My daily standups
 
 Today
- 
-    Deploy fix for store checkout on RS env
-    FedEx template change
-    Recurring Payments in forms
-
-Wednesday 
 
     Recurring Payments in forms
     Test FedEx email changes
     
-Wednesday
-
+Thursday
+  
+    Deploy FedEx email changes
+    Send FedEx email instructions
     Recurring Payments in forms
 
+Friday
+ 
+    Recurring Payments in forms
 
 
 
