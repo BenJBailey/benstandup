@@ -2,11 +2,6 @@
 My daily standups
 
 Today
-
-    Recurring Payments in forms
-    Test FedEx email changes
-    
-Thursday
   
     Deploy (RS, FedEx and Azure):
         fix/14088758-order-email
