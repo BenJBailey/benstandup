@@ -2,10 +2,6 @@
 My daily standups
 
 Today
- 
-    Recurring Payments in forms
-
-Monday
 
     Recurring Payments in forms
     Standups
@@ -13,6 +9,11 @@ Monday
 Tuesday
 
     Recurring Payments in forms
+    Semi Annual Review
+    
+Wednesday
+
+    Recurring Payments in forms ??
 
 
 
