@@ -2,24 +2,13 @@
 My daily standups
 
 Today
-
-    Recurring Payments in forms
-    Standups
-
-Tuesday
-
-    Recurring Payments in forms
+    Recurring Payments in forms - cancel/renew payments
     Semi Annual Review
     
 Wednesday
 
-    Recurring Payments in forms ??
-
-
-
-IF NEED WORK
+    Recurring Payments in forms ?
     
-    Form updates
-        max entries
-        open/cose date
-        payment info in email notificaitons
+Thursday
+
+    ROOT?
