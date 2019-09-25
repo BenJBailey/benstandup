@@ -3,13 +3,17 @@ My daily standups
 
 Today
 
-    Recurring Payments in forms - cancel/renew payments
-    Semi Annual Review
-    
-Wednesday
-
-    Recurring Payments in forms ?
+    Write tests for Recurring Payments
+    Refactor anything for Recurring Payments?
+    Release Recurring Payments to dev
+    Prep for code review
     
 Thursday
 
+    Tweak/fix Recurring Payments
     ROOT?
+    
+Friday 
+    
+    ROOT
+    Prep for Recurring Payments release?
