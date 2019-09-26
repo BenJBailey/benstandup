@@ -4,17 +4,19 @@
 
 ### Today
 
-    Write tests for Recurring Payments
-    Refactor anything for Recurring Payments?
-    Release Recurring Payments to dev
-    Prep for code review
-    
-### Thursday
-
-    Tweak/fix Recurring Payments
-    ROOT?
+    FedEx Meeting
+    Root meeting
+    Server issues
+    Site creation fix
+    execution timeout fix
     
 ### Friday 
     
-    ROOT
-    Prep for Recurring Payments release?
+    Deploy execution timeout and site creation fix
+    FedEx fixes for email
+    Recurring payments to dev
+
+### Monday
+
+    Root?
+    Recurring payments?
