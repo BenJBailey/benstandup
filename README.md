@@ -10,5 +10,7 @@
 
 ### Monday
 
+    Test store fixes in dev for release
+    Recurring payments in dev
+    FedEx fixes
     Root?
-    Recurring payments?
