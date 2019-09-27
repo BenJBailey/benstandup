@@ -3,14 +3,6 @@
 ## My daily standups
 
 ### Today
-
-    FedEx Meeting
-    Root meeting
-    Server issues
-    Site creation fix
-    execution timeout fix
-    
-### Friday 
     
     Deploy execution timeout and site creation fix
     FedEx fixes for email
