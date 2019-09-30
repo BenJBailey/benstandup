@@ -12,8 +12,9 @@
 
 ### Tuesday
 
-    Root?
+    Deploy store fixes
     Deploy FedEx fixes?
+    Root?
     
 ### Wednesday
     
