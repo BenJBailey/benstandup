@@ -18,7 +18,6 @@
 ### Wednesday
     
     Root?
-    Vacation
     
 ### Thursday
 
