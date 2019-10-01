@@ -4,20 +4,15 @@
 
 ### Today
     
-    Test store fixes in dev for release
-    Stand Ups
+    Release store fixes in dev for release
     FedEx fixes
-    Recurring payments in dev
-    Root?
-
-### Tuesday
-
-    Deploy store fixes
-    Deploy FedEx fixes?
-    Root?
+    Recurring payments tested
+    Root? (progress released by end of next week)
     
 ### Wednesday
     
+    Recurring payments release?
+    FedEx fix Release?
     Root?
     
 ### Thursday
