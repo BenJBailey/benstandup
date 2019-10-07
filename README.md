@@ -12,9 +12,11 @@
     
 ### Tuesday
 
-    - Release recurring payments/forms upgrades
+    - Release recurring payments/forms upgrades 
+        - other things going with it
+    - commissary js changes
+    - calendar (just get back to it)
     - idx changes?
-    - calendar admin upgrades
     
 ### Wednesday
 
