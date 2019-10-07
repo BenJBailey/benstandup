@@ -4,15 +4,28 @@
 
 ### Today
 
-    --
+    - Research and Schedule change for list of areas on M&B
+    - Schedule release for Recurring Payments/Forms admin update
+    - Calendar admin upgrades
+    - Standups
+    - Staff Meeting
     
+### Tuesday
+
+    - Release recurring payments/forms upgrades
+    - idx changes?
+    - calendar admin upgrades
+    
+### Wednesday
+
+    - calendar admin upgrades in dev
+
 ### Thursday
 
-    Vacation
-    Recurring payment testing fixes
-    Root - simplest cal changes to get out next week
+    - release first set of calendar admin upgrades
+    - calendar admin upgrades
     
 ### Friday
 
-    Weekly Report
-    Root?
+    - calendar admin upgrades
+    - weekly report
