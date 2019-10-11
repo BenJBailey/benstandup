@@ -2,32 +2,10 @@
 
 ## My daily stand-ups
 
-### Today
-
-    - Research and Schedule change for list of areas on M&B
-    - Schedule release for Recurring Payments/Forms admin update
-    - Calendar admin upgrades
-    - Standups
-    - Staff Meeting
+### Monday
+    
+    - Vacation
     
 ### Tuesday
 
-    - Release recurring payments/forms upgrades 
-        - other things going with it
-    - commissary js changes
-    - calendar (just get back to it)
-    - idx changes?
-    
-### Wednesday
-
-    - calendar admin upgrades in dev
-
-### Thursday
-
-    - release first set of calendar admin upgrades
-    - calendar admin upgrades
-    
-### Friday
-
-    - calendar admin upgrades
-    - weekly report
+    - Calendar improvements
