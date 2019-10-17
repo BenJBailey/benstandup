@@ -2,10 +2,6 @@
 
 ## My daily stand-ups
 
-### Monday
+### Friday
     
-    - Vacation
-    
-### Tuesday
-
-    - Calendar improvements
+    - Form Sections
