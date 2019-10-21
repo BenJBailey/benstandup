@@ -2,6 +2,18 @@
 
 ## My daily stand-ups
 
-### Friday
+### Today
     
-    - Form Sections
+    - Release form fixes
+    - Test Form Sections
+    - Standups
+    - More Root Features
+    
+### Tuesday
+
+    - Release Form Sections
+    - More Root Features
+
+### Wednesday
+
+    - More Root Features
