@@ -2,18 +2,19 @@
 
 ## My daily stand-ups
 
-### Today
-    
-    - Release form fixes
-    - Test Form Sections
+### Monday (10/28)
+
+    - release
+        - fix/14333892-store-item-details-error
+        - feat/14333892-order-loc-exp
+    - Root calendar filter
     - Standups
-    - More Root Features
+ 
+### Tuesday (10/29)
+
+    - Root calendar filter
     
-### Tuesday
+### Wednesday (10/30)
 
-    - Release Form Sections
-    - More Root Features
-
-### Wednesday
-
-    - More Root Features
+   - Root calendar filter
+   - Location filter for store?
