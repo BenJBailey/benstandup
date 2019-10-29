@@ -2,15 +2,7 @@
 
 ## My daily stand-ups
 
-### Monday (10/28)
-
-    - release
-        - fix/14333892-store-item-details-error
-        - feat/14333892-order-loc-exp
-    - Root calendar filter
-    - Standups
- 
-### Tuesday (10/29)
+### Today
 
     - Root calendar filter
     
@@ -18,3 +10,9 @@
 
    - Root calendar filter
    - Location filter for store?
+
+### Thursday
+
+   - Release something?
+   - location filter?
+   - Root calendar filter
