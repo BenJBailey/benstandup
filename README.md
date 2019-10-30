@@ -4,10 +4,6 @@
 
 ### Today
 
-    - Root calendar filter
-    
-### Wednesday (10/30)
-
    - Root calendar filter
    - Location filter for store?
 
@@ -15,4 +11,8 @@
 
    - Release something?
    - location filter?
+   - Root calendar filter
+   
+### Friday
+
    - Root calendar filter
