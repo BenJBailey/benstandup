@@ -5,14 +5,11 @@
 ### Today
 
    - Root calendar filter
-   - Location filter for store?
 
-### Thursday
+### Monday
 
-   - Release something?
-   - location filter?
    - Root calendar filter
    
-### Friday
+### Tuesday
 
    - Root calendar filter
