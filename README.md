@@ -6,10 +6,18 @@
 
    - Root calendar filter
 
-### Monday
+### Tuesday
 
    - Root calendar filter
    
 ### Tuesday
 
    - Root calendar filter
+   
+### Wednesday
+
+   - Root calendar 
+   
+### Thursday - Friday
+
+   - Vacation
