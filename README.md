@@ -4,20 +4,13 @@
 
 ### Today
 
-   - Root calendar filter
+   - Root calendar filter - places
+   - Standups
 
 ### Tuesday
 
-   - Root calendar filter
-   
-### Tuesday
-
-   - Root calendar filter
+   - Root calendar filter - places
    
 ### Wednesday
 
-   - Root calendar 
-   
-### Thursday - Friday
-
-   - Vacation
+   - Root calendar filter - Sort by
