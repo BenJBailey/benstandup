@@ -2,15 +2,8 @@
 
 ## My daily stand-ups
 
-### Today
-
-   - Root calendar filter - places
-   - Standups
-
-### Tuesday
-
-   - Root calendar filter - places
-   
-### Wednesday
-
-   - Root calendar filter - Sort by
+### Today (WED)
+ 
+   - Release calendar palces
+   - Root calendar filter - Sort by 
+      - add ui sort element
