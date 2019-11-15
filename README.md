@@ -2,8 +2,31 @@
 
 ## My daily stand-ups
 
-### Today (WED)
+### Today
  
-   - Release calendar palces
-   - Root calendar filter - Sort by 
-      - add ui sort element
+    - Root: Map View
+    - Weekly Report
+
+### Monday
+
+    - Root: Map View
+    - Standups
+    
+### Tuesday
+
+    - Root: Map View
+ 
+### Wednesday
+
+    - Root: Map View
+    
+### Thursday
+
+   - Release what you can for Root
+   - Root: Map View
+   - Store location upgrade?
+
+### Friday
+
+   - Root: Map View?
+   - Store location upgrade?
