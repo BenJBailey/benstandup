@@ -22,11 +22,11 @@
     
 ### Thursday
 
-   - Release what you can for Root
-   - Root: Map View
-   - Store location upgrade?
+    - Release what you can for Root
+    - Root: Map View
+    - Store location upgrade?
 
 ### Friday
 
-   - Root: Map View?
-   - Store location upgrade?
+    - Root: Map View?
+    - Store location upgrade?
