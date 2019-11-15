@@ -5,7 +5,7 @@
 ### Today
  
     - Root: Map View
-    - Weekly Report
+    - ~~Weekly Report~~
 
 ### Monday
 
