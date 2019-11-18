@@ -3,11 +3,6 @@
 ## My daily stand-ups
 
 ### Today
- 
-    - Root: Map View
-    - ~~Weekly Report~~
-
-### Monday
 
     - Root: Map View
     - Standups
