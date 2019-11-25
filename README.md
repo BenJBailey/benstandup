@@ -2,14 +2,12 @@
 
 ## My daily stand-ups
 
-### Today
-
-    - Root: Map View
-    - Standups
-    
 ### Tuesday
 
+    - FedEx VP Screenshots for Aitza
     - Root: Map View
+    - Any PSP follow up?
+    - Truncating calendar event titles with default CSS? (dont' spend too long on this)
  
 ### Wednesday
 
@@ -17,11 +15,8 @@
     
 ### Thursday
 
-    - Release what you can for Root
-    - Root: Map View
-    - Store location upgrade?
+    - Out 🦃
 
 ### Friday
 
-    - Root: Map View?
-    - Store location upgrade?
+    - Out 🦃
