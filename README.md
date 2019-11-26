@@ -4,11 +4,11 @@
 
 ### Today
 
-    ~~FedEx VP Screenshots for Aitza~~
+    ✅ FedEx VP Screenshots for Aitza
     Root: Map View
-    ~~Any PSP follow up?~~
+    ✅ Any PSP follow up?
     Truncating calendar event titles with default CSS? (dont' spend too long on this)
-    ~~LittleRockZoo: check in with Lauren if we can remove the domain from the SW site~~
+    ✅ LittleRockZoo: check in with Lauren if we can remove the domain from the SW site
  
 ### Wednesday
 
