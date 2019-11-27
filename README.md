@@ -4,15 +4,9 @@
 
 ### Today
 
-    ✅ FedEx VP Screenshots for Aitza
-    Root: Map View
-    ✅ Any PSP follow up?
-    Truncating calendar event titles with default CSS? (dont' spend too long on this)
-    ✅ LittleRockZoo: check in with Lauren if we can remove the domain from the SW site
- 
-### Wednesday
-
-    Root: Map View
+    FedEx Rising Star - Notification fixes
+    Deploy ☝
+    Map view of Calendar
     
 ### Thursday
 
