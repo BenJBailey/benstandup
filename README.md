@@ -4,8 +4,8 @@
 
 ### Today
 
-    FedEx Rising Star - Notification fixes
-    Deploy ☝
+    ✅ FedEx Rising Star - Notification fixes
+    ✅ Deploy ☝
     Map view of Calendar
     
 ### Thursday
