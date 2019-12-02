@@ -16,4 +16,5 @@
 
 ### Wednesday
 
+    Restart FedEx server early
     Map view of Calendar
