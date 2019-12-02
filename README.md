@@ -4,14 +4,16 @@
 
 ### Today
 
-    ✅ FedEx Rising Star - Notification fixes
-    ✅ Deploy ☝
     Map view of Calendar
+    Standups
+    December Staff Meeting
+    FedEx - figure out how to restart server to deploy SW App
+    Rising Start Changes - make a plan
     
-### Thursday
+### Tuesday
 
-    Out 🦃
+    Map view of Calendar
 
-### Friday
+### Wednesday
 
-    Out 🦃
+    Map view of Calendar
