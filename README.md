@@ -5,16 +5,18 @@
 ### Today
 
     Map view of Calendar
-    Standups
-    December Staff Meeting
-    FedEx - figure out how to restart server to deploy SW App
-    Rising Start Changes - make a plan
-    
-### Tuesday
-
-    Map view of Calendar
+    Release Map view of Calendar?
+    Coordinate with Nikki on Root?
+    Other?
 
 ### Wednesday
 
     Restart FedEx server early
-    Map view of Calendar
+    FedEx meeting?
+    ?
+    
+### Thursday
+
+    ?
+    
+    
