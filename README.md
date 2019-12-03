@@ -12,7 +12,8 @@
 ### Wednesday
 
     Restart FedEx server early
-    FedEx meeting?
+    Root planning meeting
+    FedEx meeting
     ?
     
 ### Thursday
