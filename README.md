@@ -4,20 +4,16 @@
 
 ### Today
 
-    Map view of Calendar
-    Release Map view of Calendar?
-    Coordinate with Nikki on Root?
-    Other?
-
-### Wednesday
-
-    Restart FedEx server early
+    ✅ Restart FedEx server early
     Root planning meeting
     FedEx meeting
-    ?
+    Calendar Map fixes
     
 ### Thursday
 
+    Deploy calendar map
+    
+### Friday
+
     ?
-    
-    
+    Weekly Update
