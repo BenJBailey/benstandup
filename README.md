@@ -4,18 +4,12 @@
 
 ### Today
 
-    ✅ Restart FedEx server early
-    Root planning meeting
-    FedEx meeting
-    Calendar Map fixes
-    Form Response Limits
-    
-### Thursday
-
     Deploy calendar map
+    Admin login page
     Form Response Limits
     
 ### Friday
 
+    Admin login page
     Form Response Limits
     Weekly Update
