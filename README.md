@@ -8,8 +8,7 @@
     Admin login page
     Form Response Limits
     
-### Friday
+### Tuesday
 
     Admin login page
     Form Response Limits
-    Weekly Update
