@@ -6,7 +6,7 @@
 
     ✅ Send Sarah notes
     ✅ Send [a version] of notes to FedEx
-    Fix calendar grid and respond to tickets
+    ✅ Fix calendar grid and respond to tickets
     Fix calendar filter and respond to tickets
     Handle FedEx Rising Star requests (2)
     Admin login page
