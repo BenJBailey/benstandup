@@ -4,9 +4,7 @@
 
 ### Today
 
-    ✅ Fix calendar filter and respond to tickets
     Root calendar current position
-    ✅ Comissary store report (by EOD)
     Handle FedEx Rising Star requests (1)
     Admin login page
     Form Response Limits?
