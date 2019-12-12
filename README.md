@@ -4,14 +4,13 @@
 
 ### Today
 
-    Root calendar current position
+    Root matrix change (template for place/place list)
+    Select all for calendar event editing
     Handle FedEx Rising Star requests (1)
-    Admin login page
-    Form Response Limits?
     
 ### Friday
     
     FedEx PSP changes
     Weekly summary
-    Admin login page
+    Admin login page?
     Form Response Limits?
