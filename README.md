@@ -3,14 +3,11 @@
 ## My daily stand-ups
 
 ### Today
-
+    
+    FedEx PSP changes
     Root matrix change (template for place/place list)
     Select all for calendar event editing
     Handle FedEx Rising Star requests (1)
-    
-### Friday
-    
-    FedEx PSP changes
     Weekly summary
     Admin login page?
     Form Response Limits?
