@@ -6,7 +6,7 @@
     
     ✅ More FedEx PSP changes
     ✅ Select all for calendar event editing
-    Handle FedEx Rising Star requests (1)
+    ✅ Handle FedEx Rising Star requests (1)
     Look @ http://api.sitewrench.com/hangfire/jobs/details/1634120
     Form Response Limits
 
