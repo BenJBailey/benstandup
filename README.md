@@ -13,4 +13,21 @@
 ### Tomorrow
 
     Release Select all for claendar event editing (and css?)
+    PSP Revisions
+    Look @ http://api.sitewrench.com/hangfire/jobs/details/1634120 (and azure api calls)
+    Form Response Limits
     
+### Wednesday
+
+    Form Response Limits?
+    
+### Thursday
+
+    Form Response Limits?
+
+### Friday
+    
+    Weekly Report
+    Set up auto-response
+    Anything for Speak Week?
+    Form Response Limits?
