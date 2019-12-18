@@ -3,24 +3,18 @@
 ## My daily stand-ups
 
 ### Today
-
-    ✅ Test & Release Select all for calendar event editing (and css?)
-    ✅ PSP Revisions
-    ✅ Respond to FedEx RS emails
-    ✅ Look @ http://api.sitewrench.com/hangfire/jobs/details/1634120 (and azure api calls)
-    Form Response Limits
     
-### Wednesday
-
-    Form Response Limits?
+    Collections Alt Tags
+    Respond to FedEx
     
 ### Thursday
 
-    Form Response Limits?
+    Collections Alt Tags
 
 ### Friday
     
     Weekly Report
     Set up auto-response
+    Collections Alt Tags
     Anything for Speak Week?
     Form Response Limits?
