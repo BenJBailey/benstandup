@@ -5,10 +5,9 @@
 ### Today
 
     ✅ Collections Alt Tags
-    Rising Star Items
-    Add groups to matrix
-    Add drive spreadsheet type/json source to matrix (needed?)
-
+    ✅ Rising Star Items
+    Products change for results
+    Fix store product page part sorting (and other thing)
 
 ### Friday
     
