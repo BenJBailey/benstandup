@@ -4,14 +4,24 @@
 
 ### Today
 
-    Collections Alt Tags
-    Release Collection Alt Tags?
-    Respond to FedEx
+    ✅ Collections Alt Tags
+    Rising Star Items
+    Add groups to matrix
+    Add drive spreadsheet type/json source to matrix (needed?)
+
 
 ### Friday
     
     Weekly Report
     Set up auto-response
-    Collections Alt Tags
     Anything for Speak Week?
-    Form Response Limits?
+    Add groups to matrix
+    Add drive spreadsheet type/json source to matrix (needed?)
+
+### 12/29-1/3
+
+    Release collections alt tags
+    Add groups to matrix
+    Add drive spreadsheet type/json source to matrix (needed?)
+    Rising Star discussion
+    Holiday on the 1st
