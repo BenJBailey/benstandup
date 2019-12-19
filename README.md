@@ -3,13 +3,10 @@
 ## My daily stand-ups
 
 ### Today
-    
-    Collections Alt Tags
-    Respond to FedEx
-    
-### Thursday
 
     Collections Alt Tags
+    Release Collection Alt Tags?
+    Respond to FedEx
 
 ### Friday
     
