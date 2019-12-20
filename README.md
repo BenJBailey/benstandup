@@ -3,13 +3,6 @@
 ## My daily stand-ups
 
 ### Today
-
-    ✅ Collections Alt Tags
-    ✅ Rising Star Items
-    Products change for results
-    Fix store product page part sorting (and other thing)
-
-### Friday
     
     Weekly Report
     Set up auto-response
@@ -20,6 +13,7 @@
 ### 12/29-1/3
 
     Release collections alt tags
+    Release store front widget sort fix 
     Add groups to matrix
     Add drive spreadsheet type/json source to matrix (needed?)
     Rising Star discussion
