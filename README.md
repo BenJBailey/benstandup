@@ -3,18 +3,28 @@
 ## My daily stand-ups
 
 ### Today
-    
-    Weekly Report
-    Set up auto-response
-    Anything for Speak Week?
-    Add groups to matrix
-    Add drive spreadsheet type/json source to matrix (needed?)
-
-### 12/29-1/3
 
     Release collections alt tags
     Release store front widget sort fix 
-    Add groups to matrix
     Add drive spreadsheet type/json source to matrix (needed?)
+    Add groups to matrix
+    
+### Tuesday
+    
+    Add drive spreadsheet type/json source to matrix (needed?)
+    Add groups to matrix
+    
+### Wednesday
+
+    New Years Day Holiday
+
+### Thursday
+    
+    Add drive spreadsheet type/json source to matrix (needed?)
+    Add groups to matrix
+
+### Friday
+
     Rising Star discussion
-    Holiday on the 1st
+    Add drive spreadsheet type/json source to matrix (needed?)
+    Add groups to matrix
