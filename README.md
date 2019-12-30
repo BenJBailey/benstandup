@@ -8,12 +8,15 @@
     Release store front widget sort fix 
     Update blogs for 365 devos
     Add drive spreadsheet type/json source to matrix (needed?)
-    Add groups to matrix
+    Add tags to matrix
     
 ### Tuesday
-    
+   
+    Release collections alt tags
+    Release store front widget sort fix 
+    Update blogs for 365 devos
     Add drive spreadsheet type/json source to matrix (needed?)
-    Add groups to matrix
+    Add tags to matrix
     
 ### Wednesday
 
