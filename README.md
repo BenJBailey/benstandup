@@ -7,11 +7,14 @@
     ✅ Update 31st for 365 devos
     Add drive spreadsheet type/json source to matrix (needed?)
     Add profile tags to matrix
-    Save off blog script
-    Write up answers to question for DM-Dev chat
     
 ### Friday
-
+    
+    Save off blog script
+    Figure out adding profile percentages to commercial filters
+    Reply to FedEx?
+    Write up answers to question for DM-Dev chat
     Weekly Report
     Add drive spreadsheet type/json source to matrix (needed?)
     Add profile tags to matrix
+    Plan on releasing matrix api data after speak week
