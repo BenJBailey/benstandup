@@ -4,21 +4,14 @@
 
 ### Thursday 
 
-    Update blogs for 365 devos
+    Rising Star discussion?
+    Update 31st for 365 devos
     Add drive spreadsheet type/json source to matrix (needed?)
-    Add tags to matrix
+    Add profile tags to matrix
     
-### Wednesday
-
-    New Years Day Holiday
-
-### Thursday
-    
-    Add drive spreadsheet type/json source to matrix (needed?)
-    Add groups to matrix
-
 ### Friday
 
-    Rising Star discussion
+    Rising Star discussion?
+    Weekly Report
     Add drive spreadsheet type/json source to matrix (needed?)
-    Add groups to matrix
+    Add profile tags to matrix
