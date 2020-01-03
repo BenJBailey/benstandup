@@ -5,7 +5,7 @@
 ### Today 
     
     ✅ Root < > issue
-    Weekly Report
+    ✅ Weekly Report
     ✅ Figure out how to respond to Caleb
     Reply to Jennifer FedEx
     Write up answers to question for DM-Dev chat
