@@ -10,7 +10,7 @@
     ✅ Reply to Jennifer FedEx
     ✅ Write up answers to question for DM-Dev chat
     Figure out adding profile percentages to commercial filters
-    Save off blog script
+    ✅ Save off blog script
     
 ### Next Week
 
