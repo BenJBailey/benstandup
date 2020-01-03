@@ -8,7 +8,7 @@
     ✅ Weekly Report
     ✅ Figure out how to respond to Caleb
     ✅ Reply to Jennifer FedEx
-    Write up answers to question for DM-Dev chat
+    ✅ Write up answers to question for DM-Dev chat
     Figure out adding profile percentages to commercial filters
     Save off blog script
     
