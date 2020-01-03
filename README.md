@@ -4,6 +4,7 @@
 
 ### Today 
     
+    Root < > issue
     Weekly Report
     Figure out how to respond to Caleb
     Reply to Jennifer FedEx
