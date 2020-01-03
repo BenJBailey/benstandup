@@ -2,19 +2,19 @@
 
 ## My daily stand-ups
 
-### Thursday 
-
-    ✅ Update 31st for 365 devos
-    Add drive spreadsheet type/json source to matrix (needed?)
-    Add profile tags to matrix
+### Today 
     
-### Friday
-    
-    Save off blog script
-    Figure out adding profile percentages to commercial filters
-    Reply to FedEx?
-    Write up answers to question for DM-Dev chat
     Weekly Report
-    Add drive spreadsheet type/json source to matrix (needed?)
-    Add profile tags to matrix
-    Plan on releasing matrix api data after speak week
+    Figure out how to respond to Caleb
+    Reply to Jennifer FedEx
+    Write up answers to question for DM-Dev chat
+    Figure out adding profile percentages to commercial filters
+    Save off blog script
+    
+### Next Week
+
+    Speak Week
+    
+### The Next Week
+
+    Matrix - api data - test and release
