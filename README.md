@@ -7,7 +7,7 @@
     ✅ Root < > issue
     ✅ Weekly Report
     ✅ Figure out how to respond to Caleb
-    Reply to Jennifer FedEx
+    ✅ Reply to Jennifer FedEx
     Write up answers to question for DM-Dev chat
     Figure out adding profile percentages to commercial filters
     Save off blog script
