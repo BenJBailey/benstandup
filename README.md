@@ -21,3 +21,4 @@
     Matrix - api data - test and release
     Get wolfriver to transfer hosting
     Get JS out of not-inside-html in sw
+    Enforce secure checkout for new clients
