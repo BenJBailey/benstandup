@@ -2,14 +2,19 @@
 
 ## My daily stand-ups
 
-### This Week
+### Today
 
-    Speak Week
-    
-### The Next Week
-
-    Matrix - api data - test and release
-    Get wolfriver to transfer hosting
-    Get JS out of not-inside-html in sw
-    Plan to build deprecate page part feature as next item
     Enforce secure checkout for new clients
+    Follow up on Speak Week (training?)
+    Standups
+    Get wolfriver to transfer hosting
+    Deprecate page part feature
+    Matrix - api data - test/document/code review and release
+
+### Tuesday
+
+    Forms
+
+### Wednesday
+
+    Forms
