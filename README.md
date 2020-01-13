@@ -7,6 +7,7 @@
     Enforce secure checkout for new clients
     Follow up on Speak Week (training?)
     Standups
+    Brush up on FedEx Rising Star stuff
     Get wolfriver to transfer hosting
     Deprecate page part feature
     Matrix - api data - test/document/code review and release
@@ -14,6 +15,8 @@
 
 ### Tuesday
 
+    Read up on RS prior to meeting
+    RS Meeting (9-10)
     Admin login UI/RSS
     Forms
     
