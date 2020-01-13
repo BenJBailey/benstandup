@@ -16,6 +16,8 @@
 
 ### Tuesday
 
+    Content importer - fix map path stuff
+    Get caleb his estimate
     Read up on RS prior to meeting
     RS Meeting (9-10)
     Admin login UI/RSS
