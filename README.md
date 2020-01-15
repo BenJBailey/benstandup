@@ -4,20 +4,10 @@
 
 ### Today
 
-    ✅ Read up on RS prior to meeting
-    ✅ RS Meeting (9-10)
     Content importer - fix map path stuff
-    Deprecate page part feature
-    Matrix - api data - test/document/code review and release
     Shelby Farms DP estimate
-    Admin login UI/RSS
     Rising Star estimates
+    Matrix - api data - test/document/code review and release
+    Deprecate page part feature
+    Admin login UI/RSS
     Calendar fix?
-
-### Wednesday
-
-    Forms
-
-### Thursday
-
-    Forms
