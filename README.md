@@ -4,7 +4,7 @@
 
 ### Today
 
-    Content importer - fix map path stuff
+    ✅ Content importer - fix map path stuff
     Shelby Farms DP estimate
     Rising Star estimates
     Matrix - api data - test/document/code review and release
