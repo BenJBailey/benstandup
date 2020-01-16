@@ -7,6 +7,7 @@
     ✅ Root help
     PSP IE checking
     Root events styling
+    Rising Star changes/email
     Matrix - api data 
         - fix remaining issues
         - document
