@@ -5,15 +5,15 @@
 ### Today
     
     ✅ Root help
-    PSP IE checking
-    Root events styling
-    Rising Star changes/email
+    ✅ PSP IE checking
+    ✅ Root events styling
+    ✅ Rising Star changes/email
+    Rising Star estimates
     Matrix - api data 
         - fix remaining issues
         - document
         - code review
         - testing
-    Rising Star estimates
     Deprecate page part feature
     Admin login UI/RSS
     Calendar fix?
