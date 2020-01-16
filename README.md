@@ -3,11 +3,16 @@
 ## My daily stand-ups
 
 ### Today
-
-    ✅ Content importer - fix map path stuff
-    ✅ Shelby Farms DP estimate
-    Matrix - api data - test/document/code review and release
-    Deprecate page part feature
+    
+    Root help
+    Root events styling
+    PSP IE checking
+    Matrix - api data 
+        - fix remaining issues
+        - document
+        - code review
+        - testing
     Rising Star estimates
+    Deprecate page part feature
     Admin login UI/RSS
     Calendar fix?
