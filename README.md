@@ -4,9 +4,9 @@
 
 ### Today
     
-    Root help
-    Root events styling
+    ✅ Root help
     PSP IE checking
+    Root events styling
     Matrix - api data 
         - fix remaining issues
         - document
