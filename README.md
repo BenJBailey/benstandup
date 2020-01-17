@@ -9,7 +9,7 @@
     ✅ Root events styling
     ✅ Rising Star changes/email
     PSP Changes/Respond to email
-    RS Emails
+    ✅ RS Emails
     Rising Star estimates
     Matrix - api data 
         - fix remaining issues
