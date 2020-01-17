@@ -2,12 +2,11 @@
 
 ## My daily stand-ups
 
-### Today
+### Monday
 
-    Deploy PSP Changes
     Rising Star estimates
         - Review
-        Send out questions
+        - Send out questions
     Matrix - api data 
         - fix remaining issues
         - document
