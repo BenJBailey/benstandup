@@ -3,14 +3,11 @@
 ## My daily stand-ups
 
 ### Today
-    
-    ✅ Root help
-    ✅ PSP IE checking
-    ✅ Root events styling
-    ✅ Rising Star changes/email
-    PSP Changes/Respond to email
-    ✅ RS Emails
+
+    Deploy PSP Changes
     Rising Star estimates
+        - Review
+        Send out questions
     Matrix - api data 
         - fix remaining issues
         - document
