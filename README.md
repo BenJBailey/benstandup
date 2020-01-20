@@ -18,6 +18,7 @@
     
 ### Tuesday
 
+    Process Rising Star answers
     Release FedEx RS fix (if other things ready to release)
     Release Matrix api data?
     
