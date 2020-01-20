@@ -15,3 +15,12 @@
     Deprecate page part feature
     Admin login UI/RSS
     Calendar fix?
+    
+### Tuesday
+
+    Release FedEx RS fix (if other things ready to release)
+    Release Matrix api data?
+    
+### Wednesday
+
+    
