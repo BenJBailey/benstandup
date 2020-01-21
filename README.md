@@ -2,11 +2,10 @@
 
 ## My daily stand-ups
 
-### Monday
+### Today
 
-    Rising Star estimates
-        - Review
-        - Send out questions
+    Process Rising Star answers
+    Release FedEx RS fix (if other things ready to release)
     Matrix - api data 
         - fix remaining issues
         - document
@@ -15,13 +14,4 @@
     Deprecate page part feature
     Admin login UI/RSS
     Calendar fix?
-    
-### Tuesday
-
-    Process Rising Star answers
-    Release FedEx RS fix (if other things ready to release)
-    Release Matrix api data?
-    
-### Wednesday
-
     
