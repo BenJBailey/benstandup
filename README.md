@@ -4,8 +4,7 @@
 
 ### Today
 
-    Process Rising Star answers
-    Release FedEx RS fix (if other things ready to release)
+    🛑 Process Rising Star answers
     Matrix - api data 
         - fix remaining issues
         - document
@@ -15,3 +14,6 @@
     Admin login UI/RSS
     Calendar fix?
     
+### Wednesday
+
+    Release FedEx RS fix (if other things ready to release)
