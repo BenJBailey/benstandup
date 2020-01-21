@@ -17,3 +17,16 @@
 ### Wednesday
 
     Release FedEx RS fix (if other things ready to release)
+    Process Rising Star answers
+    Matrix - api data 
+        - code review
+        - testing
+    Deploy Matrix features
+    Deprecate page part feature
+    Vacation Email Responder
+    Admin login UI/RSS
+    Calendar fix?
+
+### Thursday/Friday
+
+    Vacation
