@@ -4,8 +4,8 @@
 
 ### Today
 
-    PSP Meeting
-    Process Rising Star answers
+    ✅ PSP Meeting
+    ✅ Process Rising Star answers
     Matrix - api data 
         - code review
         - testing
