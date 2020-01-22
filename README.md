@@ -4,24 +4,12 @@
 
 ### Today
 
-    🛑 Process Rising Star answers
-    Matrix - api data 
-        - fix remaining issues
-        - document
-        - code review
-        - testing
-    Deprecate page part feature
-    Admin login UI/RSS
-    Calendar fix?
-    
-### Wednesday
-
-    Release FedEx RS fix (if other things ready to release)
+    PSP Meeting
     Process Rising Star answers
     Matrix - api data 
         - code review
         - testing
-    Deploy Matrix features
+    Deploy Matrix features (and FedEx after if we do)
     Deprecate page part feature
     Vacation Email Responder
     Admin login UI/RSS
