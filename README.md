@@ -4,11 +4,11 @@
 
 ### Today
 
-    Matrix - api data 
-        - headers
+    ✅ Matrix - api data 
+        - ✅ headers
         - code review
         - testing
-    Stand ups
+    ✅ Stand ups
     Deploy Matrix features
     Deprecate page part feature
     Admin login UI/RSS
