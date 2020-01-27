@@ -4,17 +4,12 @@
 
 ### Today
 
-    ✅ PSP Meeting
-    ✅ Process Rising Star answers
     Matrix - api data 
+        - headers
         - code review
         - testing
-    Deploy Matrix features (and FedEx after if we do)
+    Stand ups
+    Deploy Matrix features
     Deprecate page part feature
-    Vacation Email Responder
     Admin login UI/RSS
     Calendar fix?
-
-### Thursday/Friday
-
-    Vacation
