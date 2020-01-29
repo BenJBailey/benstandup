@@ -4,18 +4,6 @@
 
 ### Today
 
-    ✅ Matrix - api data 
-        - ✅ headers
-        - code review
-        - testing
-    ✅ Stand ups
-    Deploy Matrix features
-    Deprecate page part feature
-    Admin login UI/RSS
-    Calendar fix?
-
-### Wednesday
-
     Matrix - add support for custom profile fields
     Matrix - refactor from code review
     Matrix - testing
