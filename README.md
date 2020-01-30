@@ -4,9 +4,8 @@
 
 ### Today
 
-    Matrix - add support for custom profile fields
-    Matrix - refactor from code review
-    Matrix - testing
+    Matrix - fix bug with api data // release
+    CF - update js to have search for custom sizes
     Page Parts - update list for installing pages
     Page Parts - test
     Page Parts - code review
