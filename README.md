@@ -6,6 +6,7 @@
 
     Matrix - fix bug with api data // release
     CF - update js to have search for custom sizes
+    Store checkout - $0 charges going through PG
     Page Parts - update list for installing pages
     Page Parts - test
     Page Parts - code review
