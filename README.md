@@ -4,11 +4,18 @@
 
 ### Today
 
-    Matrix - fix bug with api data // release
     CF - update js to have search for custom sizes
+    FedEx - create admin for RS
+    Check for errors in SWEventLogs regarding matrix
     Store checkout - $0 charges going through PG
+    
+### Monday
+
+    Stand ups
     Page Parts - update list for installing pages
     Page Parts - test
     Page Parts - code review
+    Help with assets service
+    Staff meeting
     Admin Login?
     Calendar Fix?
