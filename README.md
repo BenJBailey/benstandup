@@ -4,9 +4,10 @@
 
 ### Today
 
-    Stand ups
-    FedEx - create admin for RS
+    ✅ Stand ups
+    ✅ FedEx - create admin for RS
     Store checkout - $0 charges going through PG
+    FedEx question
     Page Parts - update list for installing pages
     Page Parts - test
     Page Parts - code review
