@@ -12,5 +12,6 @@
     Page Parts - code review
     Help with assets service
     Staff meeting
+    Training planning
     Admin Login?
     Calendar Fix?
