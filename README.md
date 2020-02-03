@@ -4,14 +4,9 @@
 
 ### Today
 
-    CF - update js to have search for custom sizes
-    FedEx - create admin for RS
-    Check for errors in SWEventLogs regarding matrix
-    Store checkout - $0 charges going through PG
-    
-### Monday
-
     Stand ups
+    FedEx - create admin for RS
+    Store checkout - $0 charges going through PG
     Page Parts - update list for installing pages
     Page Parts - test
     Page Parts - code review
