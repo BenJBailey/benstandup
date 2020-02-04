@@ -4,7 +4,7 @@
 
 ### Today
 
-    Commercial Filter - plan meeting
+    ✅ Commercial Filter - plan meeting
     Release notes from last deploy
     FedEx question
     Store checkout - $0 charges going through PG - test/release?
