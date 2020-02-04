@@ -6,13 +6,15 @@
 
     ✅ Stand ups
     ✅ FedEx - create admin for RS
-    Store checkout - $0 charges going through PG
+    Commercial Filter - plan meeting
+    Release notes from last deploy
     FedEx question
+    Store checkout - $0 charges going through PG - test/release?
+    Commercial Filter - meeting
     Page Parts - update list for installing pages
     Page Parts - test
     Page Parts - code review
     Help with assets service
-    Staff meeting
     Training planning
     Admin Login?
     Calendar Fix?
