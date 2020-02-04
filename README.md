@@ -4,8 +4,6 @@
 
 ### Today
 
-    ✅ Stand ups
-    ✅ FedEx - create admin for RS
     Commercial Filter - plan meeting
     Release notes from last deploy
     FedEx question
