@@ -9,7 +9,7 @@
     ✅ Review
     ✅  Training Planning
     ✅  Page Parts - update list for installing pages
-    Admin Login
+    Training
 
 ### Thursday
 
