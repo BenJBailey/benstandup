@@ -9,17 +9,13 @@
     ✅ Review
     ✅  Training Planning
     ✅  Page Parts - update list for installing pages
-    Page Parts - test
-    Page Parts - code review
-    Help with assets service
-    Admin Login?
-    Calendar Fix?
+    Admin Login
 
 ### Thursday
 
     Store checkout - $0 charges going through PG - deploy to down node
-    Page Parts - test
-    Page Parts - code review
-    Help with assets service
+    Help with assets service (w/Grayson before 10)
+    Page Parts - test feedback?
+    Page Parts - code review feedback?
     Admin Login?
     Calendar Fix?
