@@ -5,6 +5,7 @@
 ### Wednesday
 
     Store checkout - $0 charges going through PG - test/release?
+    Answer FedEx email
     Review
     Training Planning
     Page Parts - update list for installing pages
