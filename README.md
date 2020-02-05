@@ -4,10 +4,12 @@
 
 ### Wednesday
 
-    ✅ Store checkout - $0 charges going through PG - test/release?
+    ✅ Store checkout - $0 charges going through PG - test
+    Store checkout - $0 charges going through PG - code review
+    Store checkout - $0 charges going through PG - release
     ✅ Answer FedEx email
-    Review
-    Training Planning
+    ✅ Review
+    ✅  Training Planning
     Page Parts - update list for installing pages
     Page Parts - test
     Page Parts - code review
