@@ -2,17 +2,9 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Today
 
-    ✅ Store checkout - $0 charges going through PG - test
-    ✅ Answer FedEx email
-    ✅ Review
-    ✅  Training Planning
-    ✅  Page Parts - update list for installing pages
-    Training
-
-### Thursday
-
+    Fedex Matrix fix
     Store checkout - $0 charges going through PG - deploy to down node
     Help with assets service (w/Grayson before 10)
     Page Parts - test feedback?
