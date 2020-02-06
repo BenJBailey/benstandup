@@ -4,10 +4,14 @@
 
 ### Today
 
-    Fedex Matrix fix
+    ✅ Fedex Matrix fix
     Store checkout - $0 charges going through PG - deploy to down node
-    Help with assets service (w/Grayson before 10)
-    Page Parts - test feedback?
+    Page Parts - test/feedback?
     Page Parts - code review feedback?
-    Admin Login?
-    Calendar Fix?
+    Calendar bug - pagination
+    Calendar bug - import
+
+### Friday
+   
+    Weekly Update
+    Form upgrades
