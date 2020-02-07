@@ -3,17 +3,8 @@
 ## My daily stand-ups
 
 ### Today
-
-    ✅ Fedex Matrix fix
-    ✅ Forms estimate for Spectracell
-    ✅ Store checkout - $0 charges going through PG - deploy to down node
-    Page Parts - test/feedback?
-    Page Parts - code review feedback?
-    ✅ Calendar bug - pagination
-    ✅ Calendar bug - import
-
-### Friday
    
+    Root Help
     Weekly Update
     Calendar bug fixes - test
     Page Parts - code review feedback
