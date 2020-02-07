@@ -4,14 +4,14 @@
 
 ### Today
    
-    Root Help
+    ✅ Root Help
     Weekly Update
-    Calendar bug fixes - test
-    Page Parts - code review feedback
-    Page Parts - test feedback
+    ✅ Calendar bug fixes - test
+    ✅ Page Parts - code review feedback
     Form upgrades
     
 ### Monday
 
+    Page Parts - test feedback
     Calendar bug fixes - release
     Page Part deprecation - release
