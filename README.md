@@ -5,8 +5,7 @@
 ### Today
    
     Root CSS home stuff
-    JS malware cleanup
-    Page Parts - test feedback
     Calendar bug fixes - release
     Page Part deprecation - release
+    JS malware cleanup
     Form upgrades
