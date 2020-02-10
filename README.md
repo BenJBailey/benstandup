@@ -5,7 +5,7 @@
 ### Today
    
     ✅ Root CSS home stuff
-    Calendar bug fixes - release
-    Page Part deprecation - release
-    JS malware cleanup
+    ✅ Calendar bug fixes - release
+    ✅ Page Part deprecation - release
+    ✅ JS malware cleanup
     Form upgrades
