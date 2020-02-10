@@ -4,7 +4,7 @@
 
 ### Today
    
-    Root CSS home stuff
+    ✅ Root CSS home stuff
     Calendar bug fixes - release
     Page Part deprecation - release
     JS malware cleanup
