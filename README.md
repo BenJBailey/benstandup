@@ -10,4 +10,6 @@
 
 ### Thursday
 
+    Check reports and run failed reports
+    Deploy fix for reports
     Form Upgrades
