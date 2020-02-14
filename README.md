@@ -4,6 +4,5 @@
 
 ### Today
 
-    Check reports and run failed reports
-    Deploy fix for reports
-    Form Upgrades
+    Form response limit - figure out how to limit access to the editor
+    Weekly Report
