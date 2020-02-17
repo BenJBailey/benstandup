@@ -2,10 +2,11 @@
 
 ## My daily stand-ups
 
-### Today
+### Tuesday
 
-    Root Fixes
+    Fix Sites saving
+    Root css Fixes
+    Calendar map load - serialize
     Form response limit - clean up and test
     Form response limit - code review?
     Other form features?
-    Serialize calendar map?
