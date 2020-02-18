@@ -10,12 +10,9 @@
         ✅ - full bleed headers
         - header on events view to event search
         - other tasks
-    FedEx item
+    ✅ FedEx item
     Calendar map load - serialize
-    Form response limit - clean up and test
-    Form response limit - code review?
-    Other form features?
-
+    
 ### Wednesday
 
     Meet with Matt about SSH Keys for Rocketfuel
@@ -25,6 +22,6 @@
         - when clicking on duplicate search focus on search
         - items in teamwork
     Calendar map load - serialize
-    Form response limit - follow up on testing
+    Form response limit - get testing rolling
     Form response limit - code review?
     Other form features?
