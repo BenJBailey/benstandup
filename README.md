@@ -8,6 +8,7 @@
     Root css Fixes
         - event list - today labels
         - full bleed headers
+        - header on events view to event search
         - other tasks
     FedEx item
     Calendar map load - serialize
