@@ -10,11 +10,14 @@
         ✅ - fix places padding
         ✅ - when clicking on duplicate search focus on search
         ✅ - items in teamwork
-    Rocketfuel script
+    ✅ Rocketfuel script
+    Calendar map load - serialize
     
 ### Thursday
 
+    FedEx request
     Calendar map load - serialize
+    Spectracell @ 1:30
     Form response limit - fix this!
     Form response limit - code review?
     Other form features?
