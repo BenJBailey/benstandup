@@ -2,18 +2,7 @@
 
 ## My daily stand-ups
 
-### Tuesday
-
-    ✅ [Fix Sites saving](https://projects.madebyspeak.com/#/tasks/15198178)
-    Root css Fixes
-        ✅ - event list - today labels
-        ✅ - full bleed headers
-        - header on events view to event search
-        - other tasks
-    ✅ FedEx item
-    Calendar map load - serialize
-    
-### Wednesday
+### Today
 
     Meet with Matt about SSH Keys for Rocketfuel
     Rising Star Meeting
