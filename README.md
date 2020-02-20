@@ -4,17 +4,6 @@
 
 ### Today
 
-    ✅ Meet with Matt about SSH Keys for Rocketfuel
-    ✅ Rising Star Meeting
-    ✅ Root css Fixes
-        ✅ - fix places padding
-        ✅ - when clicking on duplicate search focus on search
-        ✅ - items in teamwork
-    ✅ Rocketfuel script
-    Calendar map load - serialize
-    
-### Thursday
-
     FedEx request
     Calendar map load - serialize
     Spectracell @ 1:30
