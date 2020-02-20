@@ -4,9 +4,9 @@
 
 ### Today
 
-    FedEx request
-    Calendar map load - serialize
-    Spectracell @ 1:30
+    ✅ FedEx request
+       Calendar map load - serialize
+    ✅ Spectracell @ 1:30
     Form response limit - fix this!
     Form response limit - code review?
     Other form features?
