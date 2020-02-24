@@ -4,12 +4,7 @@
 
 ### Today
 
-    Weekly Report
-    Calendar map load - serialize
-  
-    
-### Monday
-    
+    Calendar map load
     Form response limit - finish, test and write testing instructions
     Standups
     Form response limit - code review?
