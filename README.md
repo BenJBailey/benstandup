@@ -6,11 +6,11 @@
     
     Calendar perf
     Form upgrades
-    FedEx RS fixes?
     Amro internal discovery
     
 ### Thursday
 
-    Form upgrades
+    Release calendar perf improvements?
+    store/ma themes?
     FedEx RS fixes?
     Amro Meeting
