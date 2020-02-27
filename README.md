@@ -12,4 +12,4 @@
 ### Friday
 
     store/ma themes?
-    FedEx RS fixes?
+    FedEx RS fixes (issue w/managers)
