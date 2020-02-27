@@ -5,12 +5,11 @@
 ### Today
     
     Calendar perf
-    Form upgrades
-    Amro internal discovery
+    ✅ Amro Meeting
+    ✅ Living PSP
+    ✅ Technical Difficulties
     
-### Thursday
+### Friday
 
-    Release calendar perf improvements?
     store/ma themes?
     FedEx RS fixes?
-    Amro Meeting
