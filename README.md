@@ -5,11 +5,9 @@
 ### Today
     
     Calendar perf
-    ✅ Amro Meeting
-    ✅ Living PSP
-    ✅ Technical Difficulties
-    
-### Friday
-
+    Weekly Update
+    Page Parts to not recommend list 
     store/ma themes?
+    Forms upgrade
+    Forms Article
     FedEx RS fixes (issue w/managers)
