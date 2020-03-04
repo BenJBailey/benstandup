@@ -6,8 +6,8 @@
     
     ✅ Root tulsa item
     ✅ RS Estimate answers
-    ✋🏼 DOD
-    FedEx nominee item
+    ✅ DOD
+    ✅ FedEx nominee item
     FedEx fix for manager selection
     Other FedEx fixes?
     Calendar perf
