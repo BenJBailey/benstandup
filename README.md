@@ -4,11 +4,14 @@
 
 ### Today
     
+    Root tulsa item
+    FedEx nominee item
+    DOD
+    FedEx fix for manager selection
+    Other FedEx fixes?
     Calendar perf
-    Weekly Update
     Page Parts to not recommend list 
-    store/ma themes?
+    store/ma themes
     Forms upgrade
     Forms Article
     FedEx RS fixes (issue w/managers)
-    DOD
