@@ -17,3 +17,7 @@
     store/ma themes
     Forms upgrade
     Forms Article
+    
+ ### Thursday
+ 
+    LASCO locator map estimate: https://projects.madebyspeak.com/#/notebooks/166491
