@@ -4,7 +4,7 @@
 
 ### Today
     
-    Root tulsa item
+    ✅ Root tulsa item
     RS Estimate answers
     FedEx nominee item
     DOD
