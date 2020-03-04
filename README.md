@@ -8,7 +8,7 @@
     ✅ RS Estimate answers
     ✅ DOD
     ✅ FedEx nominee item
-    FedEx fix for manager selection
+    FedEx fix for manager selection (in dev)
     Calendar perf
     Form Limit - test/release
     Other FedEx item?
