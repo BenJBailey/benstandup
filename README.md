@@ -11,10 +11,9 @@
     FedEx fix for manager selection (in dev)
     Calendar perf
     Form Limit - test/release
-    Other FedEx item?
+    FedEx request in email
     Other FedEx fixes?
     Page Parts to not recommend list 
     store/ma themes
     Forms upgrade
     Forms Article
-    FedEx RS fixes (issue w/managers)
