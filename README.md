@@ -5,7 +5,7 @@
 ### Today
  
     ✋🏼 LASCO locator map estimate: https://projects.madebyspeak.com/#/notebooks/166491
-    FedEx request in email
+    ✅ FedEx request in email
     Calendar perf
     Form Limit - test/release
     Plan relese for FedEx fix for manager selection (in dev)
