@@ -8,16 +8,17 @@
     ✅ RS Estimate answers
     ✅ DOD
     ✅ FedEx nominee item
-    FedEx fix for manager selection (in dev)
-    Calendar perf
-    Form Limit - test/release
-    FedEx request in email
-    Other FedEx fixes?
-    Page Parts to not recommend list 
-    store/ma themes
-    Forms upgrade
-    Forms Article
+   
     
  ### Thursday
  
-    LASCO locator map estimate: https://projects.madebyspeak.com/#/notebooks/166491
+    ✋🏼 LASCO locator map estimate: https://projects.madebyspeak.com/#/notebooks/166491
+    FedEx request in email
+    Calendar perf
+    Form Limit - test/release
+    Plan relese for FedEx fix for manager selection (in dev)
+    Other FedEx fixes?
+    store/ma themes
+    Page Parts to not recommend list 
+    Forms upgrade
+    Forms Article
