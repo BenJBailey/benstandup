@@ -6,19 +6,21 @@
  
     ✋🏼 LASCO locator map estimate: https://projects.madebyspeak.com/#/notebooks/166491
     ✅ FedEx request in email
-    ✋🏼 Calendar perf
-    Form Limit - test/release
-    Plan relese for FedEx fix for manager selection (in dev)
-    Other FedEx fixes?
-    store/ma themes
-    Page Parts to not recommend list 
-    Forms upgrade
-    Forms Article
+    ✅ Calendar perf
+    
 
 ### Friday
    
     Weekly Report
+    Form Limit - test/release
+    Other FedEx fixes?
+    Lasco?
+    store/ma themes
+    Forms upgrade
+    Forms Article
+    Page Parts to not recommend list 
     
 ### Monday
 
     Release calendar improvements
+    RS Email Items?
