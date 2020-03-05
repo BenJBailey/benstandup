@@ -3,14 +3,6 @@
 ## My daily stand-ups
 
 ### Today
-    
-    ✅ Root tulsa item
-    ✅ RS Estimate answers
-    ✅ DOD
-    ✅ FedEx nominee item
-   
-    
- ### Thursday
  
     ✋🏼 LASCO locator map estimate: https://projects.madebyspeak.com/#/notebooks/166491
     FedEx request in email
