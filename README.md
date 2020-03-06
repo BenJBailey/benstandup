@@ -4,9 +4,10 @@
 
 ### Today
    
-    Weekly Report
+    ✅ Weekly Report
     Form Limit - test and prep for release
     Form Limit - code review
+    Root item
     Themes on store pages
     Other FedEx fixes?
     Forms upgrade
