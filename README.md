@@ -3,19 +3,12 @@
 ## My daily stand-ups
 
 ### Today
- 
-    ✋🏼 LASCO locator map estimate: https://projects.madebyspeak.com/#/notebooks/166491
-    ✅ FedEx request in email
-    ✅ Calendar perf
-    
-
-### Friday
    
     Weekly Report
-    Form Limit - test/release
+    Form Limit - test and prep for release
+    Form Limit - code review
+    Themes on store pages
     Other FedEx fixes?
-    Lasco?
-    store/ma themes
     Forms upgrade
     Forms Article
     Page Parts to not recommend list 
@@ -24,3 +17,4 @@
 
     Release calendar improvements
     RS Email Items?
+    Lasco Meeting?
