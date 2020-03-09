@@ -3,19 +3,16 @@
 ## My daily stand-ups
 
 ### Today
-   
-    ✅ Weekly Report
+
+    Release calendar improvements
+    Root item
     Form Limit - test and prep for release
     Form Limit - code review
-    Root item
+    RS Email Items?
+    Lasco Meeting?
     Themes on store pages
     Other FedEx fixes?
     Forms upgrade
     Forms Article
     Page Parts to not recommend list 
     
-### Monday
-
-    Release calendar improvements
-    RS Email Items?
-    Lasco Meeting?
