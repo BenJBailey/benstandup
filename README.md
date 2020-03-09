@@ -7,12 +7,17 @@
     Release calendar improvements
     Root item
     Form Limit - test and prep for release
-    Form Limit - code review
-    RS Email Items?
-    Lasco Meeting?
-    Themes on store pages
-    Other FedEx fixes?
-    Forms upgrade
+    
+### Tuesday
+
+    Fix view for dev (and fix in repo)
+    Release fix for calendar locations
+    Release twitter fix for Shopkit
+    Form Limit - test feedback
+    Form Limit - Code Review Feedback
+    FedEx email items
+    Themes on Store pages
+    FedEx RS Items
+    Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
-    
