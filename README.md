@@ -5,8 +5,8 @@
 ### Today
 
     ✅ Fix view for dev (and fix in repo)
-    Release fix for calendar locations
-    Release twitter fix for Shopkit
+    ✅ Release fix for calendar locations
+    ✅ Release twitter fix for Shopkit
     Form Limit - test feedback
     Form Limit - Code Review Feedback
     FedEx email items
