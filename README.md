@@ -4,13 +4,7 @@
 
 ### Today
 
-    Release calendar improvements
-    Root item
-    Form Limit - test and prep for release
-    
-### Tuesday
-
-    Fix view for dev (and fix in repo)
+    ✅ Fix view for dev (and fix in repo)
     Release fix for calendar locations
     Release twitter fix for Shopkit
     Form Limit - test feedback
