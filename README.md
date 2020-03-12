@@ -2,15 +2,17 @@
 
 ## My daily stand-ups
 
-### Today
-
-    FedEx RS Items
+### Friday
+    
+    Weekly Report
+    FedEx RS [Free] Items
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
-    ✅ Form Limit - test feedback
-    ✅ Form Limit - Code Review Feedback
-    ✅ Form Limit - release
     Root item - test feedback
     Root item - Code Review
    
+### Monday
+
+    Release form fix [15371237](https://projects.madebyspeak.com/#/tasks/15371237)
+    
