@@ -4,8 +4,6 @@
 
 ### Today
 
-    ✅ Themes on Store pages
-    ✅ Lasco map questions
     FedEx RS Items
     Forms Upgrades
     Forms Article
