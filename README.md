@@ -2,10 +2,11 @@
 
 ## My daily stand-ups
 
-### Friday
+### Today
     
     Weekly Report
     FedEx RS [Free] Items
+    Next Day Access - Launch Hand off meeting
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
@@ -15,4 +16,5 @@
 ### Monday
 
     Release form fix [15371237](https://projects.madebyspeak.com/#/tasks/15371237)
+    Deploy SAML support meeting
     
