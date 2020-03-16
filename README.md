@@ -7,6 +7,8 @@
     Release form fix [15371237](https://projects.madebyspeak.com/#/tasks/15371237)
     Standups
     Deploy SAML support meeting
+    FedEx Rising Star [Free] items
+    Getting Said up and running
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
