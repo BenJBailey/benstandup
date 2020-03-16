@@ -8,7 +8,7 @@
     ✅ Standups
     ✅ Deploy SAML support meeting
     FedEx Rising Star [Free] items
-    Animal Exchange estimate
+    ✅ Animal Exchange estimate
     Root item - test feedback
     Root item - Code Review
     Forms Upgrades
