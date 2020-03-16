@@ -3,18 +3,13 @@
 ## My daily stand-ups
 
 ### Today
-    
-    Weekly Report
-    FedEx RS [Free] Items
-    Next Day Access - Launch Hand off meeting
+
+    Release form fix [15371237](https://projects.madebyspeak.com/#/tasks/15371237)
+    Standups
+    Deploy SAML support meeting
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
     Root item - test feedback
     Root item - Code Review
-   
-### Monday
-
-    Release form fix [15371237](https://projects.madebyspeak.com/#/tasks/15371237)
-    Deploy SAML support meeting
     
