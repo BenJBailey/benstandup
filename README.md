@@ -4,13 +4,9 @@
 
 ### Today
 
-    ✅ Release form fix [15371237](https://projects.madebyspeak.com/#/tasks/15371237)
-    ✅ Standups
-    ✅ Deploy SAML support meeting
-    FedEx Rising Star [Free] items
-    ✅ Animal Exchange estimate
+    FedEx Rising Star [Free] item
+    Root item - Code Review feedback
     Root item - test feedback
-    Root item - Code Review
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
