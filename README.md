@@ -4,9 +4,10 @@
 
 ### Today
 
-    FedEx Rising Star [Free] item
-    Root item - Code Review feedback
-    Root item - test feedback
+    ✅ FedEx Rising Star [Free] item
+    ✅ Root item - Code Review feedback
+    ✅ Root item - test feedback
+    Test fedex items in dev
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
