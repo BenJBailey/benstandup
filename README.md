@@ -2,7 +2,7 @@
 
 ## My daily stand-ups
     
-### Thursday
+### Today
 
     Finish FedEx Rising Star VP allocaitons item
     Test FedEx Rising Star VP allocations item
