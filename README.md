@@ -4,7 +4,7 @@
     
 ### Today
 
-    Weekly Report
+    ✅ Weekly Report
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
