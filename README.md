@@ -4,9 +4,7 @@
     
 ### Today
 
-    ✅ Finish FedEx Rising Star VP allocaitons item
-    ✅ Test FedEx Rising Star VP allocations item
-    ✅ Release FedEx Rising Star VP allocations item
+    Weekly Report
     Forms Upgrades
     Forms Article
     Page Parts to not recommend list 
