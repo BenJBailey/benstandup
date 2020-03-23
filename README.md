@@ -4,7 +4,7 @@
     
 ### Today
     
-    Page Parts to not recommend list 
+    ✅ Page Parts to not recommend list 
     AZA Existing scope
     LHMC [once I have access]
     AZA new scope [once approved]
