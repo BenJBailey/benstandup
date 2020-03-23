@@ -3,8 +3,8 @@
 ## My daily stand-ups
     
 ### Today
-
-    ✅ Weekly Report
-    Forms Upgrades
-    Forms Article
+    
     Page Parts to not recommend list 
+    AZA Existing scope
+    LHMC [once I have access]
+    AZA new scope [once approved]
