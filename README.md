@@ -2,9 +2,8 @@
 
 ## My daily stand-ups
     
-### Today
+### Wednesday
     
     AZA Existing scope
-    Flex from 9:45-11:30
     AZA new scope [once approved]
     LHMC
