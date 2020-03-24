@@ -4,7 +4,7 @@
     
 ### Today
     
-    ✅ Page Parts to not recommend list 
     AZA Existing scope
-    LHMC [once I have access]
+    Flex from 9:45-11:30
     AZA new scope [once approved]
+    LHMC
