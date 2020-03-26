@@ -2,7 +2,7 @@
 
 ## My daily stand-ups
     
-### Wednesday
+### Thursday
     
     AZA Existing scope
     AZA new scope [once approved]
