@@ -2,8 +2,19 @@
 
 ## My daily stand-ups
     
-### Thursday
+### Friday
     
     AZA Existing scope
-    AZA new scope [once approved]
+    Weekly Report
     LHMC
+    AZA new scope [once approved]
+
+### Monday
+
+    Standups
+    Staff Meeting
+    LHMC
+
+### Tuesday
+
+    FedEx Items
