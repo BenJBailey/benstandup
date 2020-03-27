@@ -10,7 +10,8 @@
     AZA new scope [once approved]
 
 ### Monday
-
+    
+    AZA - allow admin to see inactive listing
     Standups
     Staff Meeting
     LHMC
