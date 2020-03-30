@@ -4,7 +4,7 @@
     
 ### Friday
     
-    AZA - allow admin to see inactive listing
+    ✅ AZA - allow admin to see inactive listing
     AZA - finish testing
     AZA - Deploy
     ✅Standups
