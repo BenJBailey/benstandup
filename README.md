@@ -6,9 +6,9 @@
     
     AZA - allow admin to see inactive listing
     AZA - finish testing
-    AZA - Code review
-    Standups
-    Staff Meeting
+    AZA - Deploy
+    ✅Standups
+    P3 meeting
     LHMC
 
 ### Tuesday
