@@ -4,14 +4,9 @@
     
 ### Friday
     
-    AZA Existing scope
-    Weekly Report
-    LHMC
-    AZA new scope [once approved]
-
-### Monday
-    
     AZA - allow admin to see inactive listing
+    AZA - finish testing
+    AZA - Code review
     Standups
     Staff Meeting
     LHMC
