@@ -4,6 +4,6 @@
  
 ### Wednesday
 
-    Release prod to azure (has RS fix)
+    Release master to azure (has RS fix)
     LHMC
     Look at AZA options?
