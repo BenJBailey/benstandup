@@ -2,15 +2,10 @@
 
 ## My daily stand-ups
     
-### Friday
-    
-    ✅ AZA - allow admin to see inactive listing
-    AZA - finish testing
-    AZA - Deploy
-    ✅Standups
-    P3 meeting
-    LHMC
+### Today
 
-### Tuesday
-
+    ✅ Lasco Help
+    ✅ Jacob SQL
     FedEx Items
+    LHMC
+    AZA Meeting (11)
