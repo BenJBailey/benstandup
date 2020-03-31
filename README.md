@@ -12,6 +12,7 @@
 
 ### Wednesday
 
+    Release prod to azure (has RS fix)
     P3 meeting
     Look at AZA options?
     LHMC
