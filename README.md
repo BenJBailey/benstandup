@@ -5,11 +5,12 @@
 ### Today
 
     LHMC
+    Move RF v1 build process to BitBucket
 
 ### Friday
  
     Weekly Report
-    LHMC
+    Move RF v1 build process to BitBucket
 
 ### Monday
 
