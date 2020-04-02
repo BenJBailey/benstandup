@@ -2,8 +2,23 @@
 
 ## My daily stand-ups
  
-### Wednesday
+### Today
 
     Release master to azure (has RS fix)
     LHMC
     Look at AZA options?
+
+### Friday
+ 
+    Weekly Report
+    LHMC
+
+### Monday
+
+    Standups
+    LHMC
+
+### Tuesday
+
+    FedEx items
+    LHMC
