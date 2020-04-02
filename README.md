@@ -4,9 +4,7 @@
  
 ### Today
 
-    Release master to azure (has RS fix)
     LHMC
-    Look at AZA options?
 
 ### Friday
  
