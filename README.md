@@ -14,9 +14,9 @@
 ### Monday
 
     Standups
-    LHMC
+    Rising Star
 
 ### Tuesday
 
-    FedEx items
-    LHMC
+    FedEx [Email] items
+    Rising Star
