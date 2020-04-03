@@ -3,12 +3,9 @@
 ## My daily stand-ups
  
 ### Today
-
-    LHMC
-    Move RF v1 build process to BitBucket
-
-### Friday
  
+    LHMC
+    RETS fix
     Weekly Report
     Move RF v1 build process to BitBucket
 
