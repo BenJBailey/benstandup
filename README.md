@@ -8,6 +8,8 @@
     RETS fix
     Weekly Report
     Move RF v1 build process to BitBucket
+    Wiseacre - update on change vs blur
+    Forms - payments - show obvious payment not working & payment error
 
 ### Monday
 
