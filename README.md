@@ -11,8 +11,11 @@
 
 ### Monday
 
+    Review AZA Scope
+    Move RF v1 build process to BitBucket
     Standups
     Rising Star
+    Staff Meeting
 
 ### Tuesday
 
