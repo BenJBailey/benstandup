@@ -4,15 +4,7 @@
  
 ### Today
 
-    ✅ Review AZA Scope
     Move RF v1 build process to BitBucket
-    Wiseacre - update on change vs blur
-    Forms - payments - show obvious payment not working & payment error
-    Standups
-    Rising Star
-    Staff Meeting
-
-### Tuesday
-
     FedEx [Email] items
+    Wiseacre - update on change vs blur
     Rising Star
