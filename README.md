@@ -4,13 +4,4 @@
  
 ### Today
 
-    ✅ Move RF v1 build process to BitBucket
-    ✅ FedEx [Email] items
-    ✅ Wiseacre - update on change vs blur
-    ✅ Root items
-    Rising Star
-    Respond to LASCO question?
-
-### Wednesday
-
-    Respond to LASCO question
+    Rising star
