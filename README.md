@@ -4,5 +4,6 @@
  
 ### Today
 
+    Lasco Mock Up
     Rising star
-    Lasco Mock Up?
+    Stand Ups
