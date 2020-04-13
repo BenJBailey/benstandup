@@ -7,3 +7,8 @@
     Lasco Mock Up
     Rising star
     Stand Ups
+    
+### Tuesday
+
+    Rising Star items from Email
+    Rising star
