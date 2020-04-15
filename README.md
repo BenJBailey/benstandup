@@ -4,5 +4,4 @@
  
 ### Today
 
-    ✅ Rising Star items from Email
     Rising star
