@@ -4,10 +4,7 @@
  
 ### Today
 
-    Rising star
-
-### Thursday
-
     Rising Star - write tests on things you put in EF
     Rising Star - refactor what you can to be somewhat reusable (w/o killing yourself)
     Meeting @ 9 with Andrew about Comm filter instructions
+    Speak Staff meeting
