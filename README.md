@@ -11,4 +11,7 @@
 
 ### Friday
  
-    Figure out when you are goign to do Lasco
+    Figure out when you are going to do Lasco
+    Weekly Report
+    Lasco?
+    Rising Star?
