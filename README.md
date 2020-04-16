@@ -8,3 +8,7 @@
     Rising Star - refactor what you can to be somewhat reusable (w/o killing yourself)
     Meeting @ 9 with Andrew about Comm filter instructions
     Speak Staff meeting
+
+### Friday
+ 
+    Figure out when you are goign to do Lasco
