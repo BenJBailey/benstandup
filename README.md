@@ -5,5 +5,5 @@
 ### Today
  
     ✅ Figure out when you are going to do Lasco
-    Weekly Report
+    ✅ Weekly Report
     Rising Star
