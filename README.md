@@ -3,17 +3,12 @@
 ## My daily stand-ups
  
 ### Today
- 
-    ✅ Figure out when you are going to do Lasco
-    ✅ Weekly Report
-    Rising Star
-
-### Monday
-
-    Rising Star - evaluate request from email
+   
+    ✅ Rising Star - evaluate request from email
     Rising Star - test data
     Rising Star - test management noms
-    Standups
-    Lasco - get SWX running
+    ✅ Standups
+    ✅ Lasco - get SWX running
+    ✅ Finish Dev for Lasco
     Rising Star - limit superiors to nominating managers
     Rising Star ...
