@@ -10,4 +10,4 @@
     Rising Star - limit superiors to nominating managers
     Rising Star ...
     Lasco change title 
-    Lasco update test data
+    Lasco import data (once file is available)
