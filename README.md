@@ -2,13 +2,10 @@
 
 ## My daily stand-ups
  
-### Today
-   
-    ✅ Rising Star - evaluate request from email
+### Tuesday
+
+    Release Media Archive fix
     Rising Star - test data
     Rising Star - test management noms
-    ✅ Standups
-    ✅ Lasco - get SWX running
-    ✅ Finish Dev for Lasco
     Rising Star - limit superiors to nominating managers
     Rising Star ...
