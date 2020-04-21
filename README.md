@@ -9,3 +9,4 @@
     Rising Star - test management noms
     Rising Star - limit superiors to nominating managers
     Rising Star ...
+    Lasco changes
