@@ -2,11 +2,8 @@
 
 ## My daily stand-ups
  
-### Tuesday
-
-    ✅ Release Media Archive fix
-    ✅ Form fix - test and release
-    Rising Star - test data
-    Review Infosec quote
-    ✅ Lasco change title 
-    Lasco import data (once file is available)
+### Thursday
+    
+    Meeting - Ervin - Infosec
+    Rising Star - test managment views
+    Lasco ?? 
