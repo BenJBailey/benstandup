@@ -5,7 +5,7 @@
 ### Tuesday
 
     ✅ Release Media Archive fix
-    Form fix - test and release
+    ✅ Form fix - test and release
     Rising Star - test data
     Review Infosec quote
     ✅ Lasco change title 
