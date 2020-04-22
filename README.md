@@ -4,10 +4,9 @@
  
 ### Tuesday
 
-    Release Media Archive fix
+    ✅ Release Media Archive fix
+    Form fix - test and release
     Rising Star - test data
-    Rising Star - test management noms
-    Rising Star - limit superiors to nominating managers
-    Rising Star ...
-    Lasco change title 
+    Review Infosec quote
+    ✅ Lasco change title 
     Lasco import data (once file is available)
