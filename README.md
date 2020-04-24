@@ -4,6 +4,6 @@
  
 ### Thursday
     
-    ✅ Meeting - Ervin - Infosec
+    Weekly Report
     Rising Star - test managment views
     Lasco ?? 
