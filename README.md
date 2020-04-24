@@ -2,8 +2,8 @@
 
 ## My daily stand-ups
  
-### Thursday
+### Monday
     
-    Weekly Report
-    Rising Star - test managment views
-    Lasco ?? 
+    Release Lasco (once they get back to us)
+    Standups
+    Rising Star - Winner Announced/Winners changes
