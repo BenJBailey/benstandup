@@ -2,13 +2,9 @@
 
 ## My daily stand-ups
  
-### Today
-    
-    Rising Star - Winner Announced/Winners changes
-    Standups
-    Release Lasco (once they get back to us)?
-
 ### Tuesday
 
+    Rising star - finish tests for winner milestone
     Rising Star - get changes to fedEx dev?
+    Lasco feedback?
     
