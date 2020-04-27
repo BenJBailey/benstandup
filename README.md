@@ -2,8 +2,13 @@
 
 ## My daily stand-ups
  
-### Monday
+### Today
     
-    Release Lasco (once they get back to us)
-    Standups
     Rising Star - Winner Announced/Winners changes
+    Standups
+    Release Lasco (once they get back to us)?
+
+### Tuesday
+
+    Rising Star - get changes to fedEx dev?
+    
