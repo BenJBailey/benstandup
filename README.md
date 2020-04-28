@@ -4,8 +4,8 @@
  
 ### Tuesday
 
-    Blog doc
-    InfoSec estimate/schedule meeting
+    ✅ Blog doc
+    ✅ InfoSec estimate/schedule meeting
     Rising star - finish tests for winner milestone
     Rising Star - get changes to fedEx dev?
     Lasco feedback?
