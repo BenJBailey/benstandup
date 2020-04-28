@@ -8,5 +8,12 @@
     ✅ InfoSec estimate/schedule meeting
     Rising star - finish tests for winner milestone
     Rising Star - get changes to fedEx dev?
-    Lasco feedback?
+    ✅ Lasco feedback?
     
+    
+### Wednesday
+
+    Lasco release
+    RS Email
+    Rising star - finish tests for winner milestone
+    Rising Star - get changes to fedEx dev
