@@ -13,7 +13,7 @@
     
 ### Wednesday
 
-    Lasco release
+    Lasco release?
     RS Email
     Rising star - finish tests for winner milestone
     Rising Star - get changes to fedEx dev
