@@ -2,18 +2,10 @@
 
 ## My daily stand-ups
  
-### Tuesday
+### Thursday
 
-    ✅ Blog doc
-    ✅ InfoSec estimate/schedule meeting
-    Rising star - finish tests for winner milestone
-    Rising Star - get changes to fedEx dev?
-    ✅ Lasco feedback?
-    
-    
-### Wednesday
-
+    Rising star - Copy sitefiles to dev
+    Rising star - Test/Get milestones setup
+    Rising Star - Send email regarding testing
+    Rising Star - next feature
     Lasco release?
-    RS Email
-    Rising star - finish tests for winner milestone
-    Rising Star - get changes to fedEx dev
