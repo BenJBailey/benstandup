@@ -7,5 +7,6 @@
     Rising star - Copy sitefiles to dev
     Rising star - Test/Get milestones setup
     Rising Star - Send email regarding testing
+    Rising Star - check thing for Grant
     Rising Star - next feature
     Lasco release?
