@@ -4,9 +4,9 @@
  
 ### Today
 
-    Weekly Report
-    Rising Star - confirm manager can find manager
+    ✅ Weekly Report
+    ✅ Rising Star - confirm manager can find manager
     Rising Star - check thing for Grant
-    Wisacre store - look at products causing issue
+    ✅ Wisacre store - look at products causing issue
     Rising Star - next feature
     Lasco release?
