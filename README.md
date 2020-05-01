@@ -2,11 +2,11 @@
 
 ## My daily stand-ups
  
-### Thursday
+### Today
 
-    Rising star - Copy sitefiles to dev
-    Rising star - Test/Get milestones setup
-    Rising Star - Send email regarding testing
+    Weekly Report
+    Rising Star - confirm manager can find manager
     Rising Star - check thing for Grant
+    Wisacre store - look at products causing issue
     Rising Star - next feature
     Lasco release?
