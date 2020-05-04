@@ -9,6 +9,7 @@
     Check in on next day access dns -  find out if you need to meet with IT folks first or not
     Standups
     Rising Star - next item on list
+    Schedule forms documentation
     Lasco release?
 
 ### Tuesday
