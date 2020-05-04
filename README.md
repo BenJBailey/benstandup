@@ -5,6 +5,7 @@
 ### Today
 
     Rising Star - finish adding nominator data
+    Check in on next day access dns
     Standups
     Rising Star - next item on list
     Lasco release?
