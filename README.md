@@ -4,7 +4,8 @@
  
 ### Wednesday
 
-    Rising Star - finish tests for nomiantion status
+    ✅ Rising Star - finish tests for nomiantion status
     Rising Star - next item on list
     More forms documentation
-    Lasco release?
+    ✅ Lasco release
+    Schedule FedEx Training
