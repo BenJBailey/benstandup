@@ -2,10 +2,8 @@
 
 ## My daily stand-ups
  
-### Wednesday
+### Today
 
-    ✅ Rising Star - finish tests for nomiantion status
-    Rising Star - next item on list
+    Rising Star - confirm all correct nominations are coming through for managements
     More forms documentation
-    ✅ Lasco release
     Schedule FedEx Training
