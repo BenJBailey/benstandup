@@ -4,6 +4,14 @@
  
 ### Today
 
-    Rising Star - confirm all correct nominations are coming through for managements
-    More forms documentation
-    Schedule FedEx Training
+    Weekly Report
+    Rising Star - next item
+    More forms documentation?
+    
+### Monday
+  
+    Rising Star
+    Standups - 7:15 am
+    RS Testing Training Call - 9 am
+    Rising Star
+    Form docs?
