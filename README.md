@@ -3,12 +3,6 @@
 ## My daily stand-ups
  
 ### Today
-
-    Weekly Report
-    Rising Star - next item
-    More forms documentation?
-    
-### Monday
   
     Rising Star
     Standups - 7:15 am
