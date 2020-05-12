@@ -2,14 +2,13 @@
 
 ## My daily stand-ups
  
-### Today
-  
-    ✅ Release Form admin fix
-    Rising Star
-    ✅ Rising Star - Test IC -> VP in dev (add to LDAP)
+### Wednesday
+
+    Discuss Forms in zapier - 7:30
     Rising Star - look at messed up VP profile
-    Rising Star - Add nomnees through process
-    Forms in zapier for Jacob
+    Rising Star - Next
+    Rising Star - local testing
+    Rising Star - FedEx Deploy
     Form docs?
     
     Release the page manager
