@@ -6,7 +6,7 @@
 
     ✅ Rising Star - Fix nomination issue 
     ✅ Rising Star - Double check that adding nominees is happening in correct instances
-    Rising Star - get in FedEx dev
+    ✅ Rising Star - get in FedEx dev
     Rising Star - Final list availble prior to WGB
     Rising Star - Past Winners changes
     Rising Star - VP Allocations visible whole time
