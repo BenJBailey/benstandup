@@ -4,13 +4,12 @@
  
 ### Today
 
-    Weekly Report
-    Rising Star - Final list availble prior to WGB
     Rising Star - Past Winners changes
+    Standups
     Rising Star - VP Allocations visible whole time
     Rising Star - write tests for manged nom query (as time allows)
     Form docs?
     
-    Root - Calendar - remove map scroll to top
+    Root - Calendar - remove map scroll to top?
     
     Release the page manager
