@@ -4,12 +4,11 @@
  
 ### Today
 
-    Rising Star - Past Winners changes
-    Standups
+    Rising Star - Past Winners changes ?
     Rising Star - VP Allocations visible whole time
     Rising Star - write tests for manged nom query (as time allows)
     Form docs?
     
     Root - Calendar - remove map scroll to top?
-    
+    Form - webhooks
     Release the page manager
