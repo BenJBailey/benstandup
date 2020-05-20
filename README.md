@@ -4,8 +4,11 @@
  
 ### Today
 
-    Rising Star - Past Winners changes ?
+    MAAR Meeting
+    Help with Matrix issues
+    Deploy down node (if orders are processing just fine)
     Rising Star - VP Allocations visible whole time
+    Rising Star - test in dev
     Rising Star - write tests for manged nom query (as time allows)
     Form docs?
     
