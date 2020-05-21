@@ -2,9 +2,9 @@
 
 ## My daily stand-ups
  
-### Today
+### Friday
 
-    ✅ Matrix issues
+    Weekly Report
     Rising Star - VP Allocations visible whole time
     Rising Star - fix tests (make sure commented out tests are passing and make it to dev)
     Rising Star - test in dev
