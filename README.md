@@ -4,14 +4,11 @@
  
 ### Today
 
-    MAAR Meeting
-    Help with Matrix issues
-    Deploy down node (if orders are processing just fine)
+    Matrix issues
     Rising Star - VP Allocations visible whole time
+    Rising Star - fix tests (make sure commented out tests are passing and make it to dev)
     Rising Star - test in dev
     Rising Star - write tests for manged nom query (as time allows)
     Form docs?
-    
-    Root - Calendar - remove map scroll to top?
     Form - webhooks
     Release the page manager
