@@ -2,13 +2,11 @@
 
 ## My daily stand-ups
  
-### Friday
+### Tuesday
 
-    ✅ Weekly Report
-    Rising Star - VP Allocations visible whole time
-    Rising Star - fix tests (make sure commented out tests are passing and make it to dev)
-    Rising Star - test in dev
-    Rising Star - write tests for manged nom query (as time allows)
+    Rising Star - deploy fix for admin (already in Speak Dev)
+    Rising Star - Build up past winners for VP so they can export
+    Rising Star - evaluate budget and see if time to write tests for manged nom query
     Form docs?
     Form - webhooks
     Release the page manager
