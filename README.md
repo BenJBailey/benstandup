@@ -4,9 +4,9 @@
  
 ### Today
 
-    Rising Star - deploy fix for admin (already in Speak Dev)
-    Rising Star - Build up past winners for VP so they can export
-    Rising Star - evaluate budget and see if time to write tests for manged nom query
-    Form docs?
-    Form - webhooks
+    ✅ Rising Star - deploy fix for admin (already in Speak Dev)
+    ✅ Rising Star - Build up past winners for VP so they can export
+    ✅ Rising Star - evaluate budget and see if time to write tests for manged nom query
     Release the page manager
+    Form - webhooks
+    Form docs?
