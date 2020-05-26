@@ -2,7 +2,7 @@
 
 ## My daily stand-ups
  
-### Tuesday
+### Today
 
     Rising Star - deploy fix for admin (already in Speak Dev)
     Rising Star - Build up past winners for VP so they can export
