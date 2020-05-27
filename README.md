@@ -2,7 +2,7 @@
 
 ## My daily stand-ups
  
-### Wednesday
+### Today
 
     Blog api changes
     Release the page manager
@@ -10,7 +10,8 @@
     Form docs?
     
 ### Priorities
-
+ 
+    - [Pending] Rising Star feedback
     - Blog api changes
     - Form webhook
     - Release page manager
