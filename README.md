@@ -8,7 +8,14 @@
     Release the page manager
     Form - webhooks
     Form docs?
-    
+
+### Friday
+   
+    Run store order index query
+    Weekly Report
+    FedEx feedback?
+    ?
+
 ### Priorities
  
     - [Pending] Rising Star feedback
