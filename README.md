@@ -11,7 +11,7 @@
 
 ### Friday
    
-    Run store order index query
+    Run store order index query (Tweak query to not create existing indexes)
     Weekly Report
     FedEx feedback?
     ?
