@@ -4,10 +4,10 @@
  
 ### Today
    
-    Run store order index query (Tweak query to not create existing indexes)
+    ✅ Run store order index query (Tweak query to not create existing indexes)
     Weekly Report
-    FedEx feedback
-    Blog api changes
+    ✅ FedEx feedback
+    ✅ Blog api changes
     Release the page manager
     Form - webhooks
     Form docs?
@@ -15,7 +15,6 @@
 ### Priorities
  
     - [Pending] Rising Star feedback
-    - Blog api changes
     - Form webhook
     - Release page manager
     - Calendar ajaxification
