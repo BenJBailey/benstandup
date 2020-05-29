@@ -3,18 +3,14 @@
 ## My daily stand-ups
  
 ### Today
-
+   
+    Run store order index query (Tweak query to not create existing indexes)
+    Weekly Report
+    FedEx feedback
     Blog api changes
     Release the page manager
     Form - webhooks
     Form docs?
-
-### Friday
-   
-    Run store order index query (Tweak query to not create existing indexes)
-    Weekly Report
-    FedEx feedback?
-    ?
 
 ### Priorities
  
