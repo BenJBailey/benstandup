@@ -18,6 +18,7 @@
     - Form webhook
     - Release page manager
     - Calendar ajaxification
+    - Form submission window
     - Form documentation
       - Finish docs
       - Make donations page part feature called SF donations
