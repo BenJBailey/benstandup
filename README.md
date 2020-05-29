@@ -5,7 +5,7 @@
 ### Today
    
     ✅ Run store order index query (Tweak query to not create existing indexes)
-    Weekly Report
+    ✅ Weekly Report
     ✅ FedEx feedback
     ✅ Blog api changes
     Release the page manager
