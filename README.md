@@ -3,18 +3,16 @@
 ## My daily stand-ups
  
 ### Today
-   
-    ✅ Run store order index query (Tweak query to not create existing indexes)
-    ✅ Weekly Report
-    ✅ FedEx feedback
-    ✅ Blog api changes
+    
+    Standups
+    Rising Star fixes
     Release the page manager
     Form - webhooks
     Form docs?
 
 ### Priorities
  
-    - [Pending] Rising Star feedback
+    - Rising Star feedback
     - Form webhook
     - Release page manager
     - Calendar ajaxification
