@@ -3,9 +3,11 @@
 ## My daily stand-ups
  
 ### Today
-    
-    Standups
-    Rising Star fixes
+
+    ✅ Rising Star fixes
+    ✅ RS - Release to FedEx dev
+    FedEx item
+    Rocketfuel pipeline
     Release the page manager
     Form - webhooks
     Form docs?
