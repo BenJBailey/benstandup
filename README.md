@@ -6,14 +6,15 @@
 
     ✅ Rocketfuel pipeline
     ✅ FedEx RS Email item
-    FedEx RS UI thing
+    ✅ FedEx RS UI thing
+    LASCO help
     IDX Estimate
     Form - webhooks
     Form docs?
 
 ### Priorities
  
-    - Rising Star feedback
+    - Rising Star - deploy
     - Form webhook
     - Release page manager
     - Third party form submission page part not working
