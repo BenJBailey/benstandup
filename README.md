@@ -10,6 +10,11 @@
     ✅ LASCO help
     ✅ IDX Estimate
     Form - webhooks
+    
+### Thursday
+ 
+    FedEx Rising Star - Implement UI changes and deploy
+    Form - webhooks
     Form docs?
 
 ### Priorities
