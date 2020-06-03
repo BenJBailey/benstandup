@@ -4,11 +4,9 @@
  
 ### Today
 
-    ✅ Rising Star fixes
-    ✅ RS - Release to FedEx dev
-    FedEx item
     Rocketfuel pipeline
-    Release the page manager
+    FedEx RS Email item
+    FedEx RS UI thing
     Form - webhooks
     Form docs?
 
