@@ -4,8 +4,8 @@
  
 ### Today
  
-    FedEx Rising Star - Implement UI changes and deploy
-    FedEx email item
+    ✅ FedEx Rising Star - Implement UI changes and deploy
+    ✅ FedEx email item
     Form - webhooks
     Form docs?
 
