@@ -3,17 +3,9 @@
 ## My daily stand-ups
  
 ### Today
-
-    ✅ Rocketfuel pipeline
-    ✅ FedEx RS Email item
-    ✅ FedEx RS UI thing
-    ✅ LASCO help
-    ✅ IDX Estimate
-    Form - webhooks
-    
-### Thursday
  
     FedEx Rising Star - Implement UI changes and deploy
+    FedEx email item
     Form - webhooks
     Form docs?
 
