@@ -4,11 +4,15 @@
  
 ### Today
  
-    ✅ FedEx Rising Star - Implement UI changes and deploy
-    ✅ FedEx email item
+    FedEx Rising Star - fix all email templates
+    Weekly Report
     Form - webhooks
     Form docs?
+    
+### Monday
 
+    - Deploy FedEx Upgrades
+    
 ### Priorities
  
     - Rising Star - deploy
