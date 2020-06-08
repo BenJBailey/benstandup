@@ -3,15 +3,9 @@
 ## My daily stand-ups
  
 ### Today
- 
-    FedEx Rising Star - fix all email templates
-    Weekly Report
-    Form - webhooks
-    Form docs?
-    
-### Monday
 
     - Deploy FedEx Upgrades
+    - Form webhook
     
 ### Priorities
  
@@ -20,6 +14,7 @@
     - Release page manager
     - Third party form submission page part not working
     - Calendar ajaxification
+    - Form From email (w/SPF records)
     - Form submission window
     - Form documentation
       - Finish docs
