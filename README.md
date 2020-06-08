@@ -10,8 +10,10 @@
     
 ### Tuesday
     
+    - Test Store ReCaptcha fix
+      - Deploy if ready
+    - Form ReCaptcha?
     - Deploy fix for FedEx Rising Star speed
-    - Deploy store fix?
     - Form webhook
     
 ### Priorities
