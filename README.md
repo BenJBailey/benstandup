@@ -8,6 +8,12 @@
     - Form webhook
     - Show new work for M&B
     
+### Tuesday
+    
+    - Deploy fix for FedEx Rising Star speed
+    - Deploy store fix?
+    - Form webhook
+    
 ### Priorities
  
     - Rising Star - deploy
