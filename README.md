@@ -4,10 +4,13 @@
  
 ### Today
     
-    - Test Store ReCaptcha fix
-      - Deploy if ready
-    - Deploy fix for FedEx Rising Star speed
+    - ✅ Test Store ReCaptcha fix
+      - ✅  Deploy if ready
     - Form webhook
+    
+### Wednesday
+
+    - Deploy fix for FedEx Rising Star speed
     
 ### Priorities
  
