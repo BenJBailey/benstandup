@@ -3,14 +3,9 @@
 ## My daily stand-ups
  
 ### Today
-    
-    - ✅ Test Store ReCaptcha fix
-      - ✅  Deploy if ready
-    - Form webhook
-    
-### Wednesday
 
     - Deploy fix for FedEx Rising Star speed
+    - Finish form webhooks and test and deploy?
     
 ### Priorities
  
