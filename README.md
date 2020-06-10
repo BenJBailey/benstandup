@@ -7,11 +7,16 @@
     - Deploy fix for FedEx Rising Star speed
     - Finish form webhooks and test and deploy?
     
-### Priorities
- 
-    - Rising Star - deploy
+### Thursday
+   
+    - M&B JS Changes
+    - Testing webhooks
+    - Deploy Webhooks?
+    - Calendar Ajaxification
+    
+### Priorities 
+
     - Form webhook
-    - Release page manager
     - Third party form submission page part not working
     - Calendar ajaxification
     - Form From email (w/SPF records)
