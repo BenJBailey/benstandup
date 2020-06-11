@@ -12,9 +12,9 @@
 ### Priorities 
 
     - Form webhook
-    - Commercial Filter
     - Third party form submission page part not working
     - Calendar ajaxification
+    - Commercial Filter
     - Form From email (w/SPF records)
     - Form submission window
     - Form documentation
