@@ -3,11 +3,6 @@
 ## My daily stand-ups
  
 ### Today
-
-    - Deploy fix for FedEx Rising Star speed
-    - Finish form webhooks and test and deploy?
-    
-### Thursday
    
     - M&B JS Changes
     - Testing webhooks
