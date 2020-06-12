@@ -4,10 +4,12 @@
  
 ### Today
    
-    - M&B JS Changes
+    - Weekly Review
     - Testing webhooks
-    - Deploy Webhooks?
     - Calendar Ajaxification
+    
+### Monday
+    - Deploy webhooks
     
 ### Priorities 
 
