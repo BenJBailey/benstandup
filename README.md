@@ -4,13 +4,11 @@
  
 ### Today
    
-    - Weekly Review
-    - Testing webhooks
+    - ✅ Weekly Review
+    - Testing/Deploying webhooks
+    - Third Party form submission fix
     - Calendar Ajaxification
-    
-### Monday
-    - Deploy webhooks
-    
+ 
 ### Priorities 
 
     - Form webhook
