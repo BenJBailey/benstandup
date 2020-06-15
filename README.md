@@ -5,6 +5,8 @@
 ### Today
    
     - ✅ Weekly Review
+    - ✅ Standups
+    - Meet about paid memberships
     - Testing/Deploying webhooks
     - Third Party form submission fix
     - Calendar Ajaxification
