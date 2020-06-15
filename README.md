@@ -8,6 +8,8 @@
     - ✅ Standups
     - ✅ Meet about paid memberships
     - Testing/Deploying webhooks
+    - Fix routing issue in form admin
+    - Fix not saving default value from query string
     - Third Party form submission fix
     - Calendar Ajaxification
  
