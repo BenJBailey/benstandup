@@ -5,13 +5,17 @@
 ### Tuesday
 
     - ✅ AZA Meeting (8am)
-    - Communicate with Said about routing issue in form admin
-    - Deploy webhook/Teo's login changes
+    - ✅ Communicate with Said about routing issue in form admin
+    - ✅ Deploy webhook/Teo's login changes
+    - ✅ Third Party form submission fix
+    - ✅ . () etc in form inputs for webhooks
+
+### Wednesday
+
+    - form webhooks - prompt to update webhook when changing form element
+    - test form - webhooks - fix EnablePayments being nullable or fix in webhook check for any nullable field
     - FedEx Email Items
-    - Third Party form submission fix
     - Calendar Ajaxification
-    - . () etc in form inputs for webhooks
-    - form - webhooks - fix EnablePayments being nullable or fix in webhook check for any nullable field
     - test/deploy fix for external forms 
  
 ### Priorities 
