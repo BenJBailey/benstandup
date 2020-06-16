@@ -4,7 +4,7 @@
  
 ### Tuesday
 
-    - AZA Meeting (8am)
+    - ✅ AZA Meeting (8am)
     - Communicate with Said about routing issue in form admin
     - Deploy webhook/Teo's login changes
     - FedEx Email Items
