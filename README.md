@@ -6,7 +6,6 @@
 
     - AZA Meeting (8am)
     - Communicate with Said about routing issue in form admin
-    - Fix not saving default value from query string
     - Deploy webhook/Teo's login changes
     - FedEx Email Items
     - Third Party form submission fix
