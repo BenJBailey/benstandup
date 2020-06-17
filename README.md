@@ -2,15 +2,7 @@
 
 ## My daily stand-ups
  
-### Tuesday
-
-    - ✅ AZA Meeting (8am)
-    - ✅ Communicate with Said about routing issue in form admin
-    - ✅ Deploy webhook/Teo's login changes
-    - ✅ Third Party form submission fix
-    - ✅ . () etc in form inputs for webhooks
-
-### Wednesday
+### Today
 
     - form webhooks - prompt to update webhook when changing form element
     - test form - webhooks - fix EnablePayments being nullable or fix in webhook check for any nullable field
