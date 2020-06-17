@@ -4,7 +4,6 @@
  
 ### Today
 
-    - form webhooks - prompt to update webhook when changing form element
     - test form - webhooks - fix EnablePayments being nullable or fix in webhook check for any nullable field
     - External forms - include js file in csproj
     - FedEx Email Items
