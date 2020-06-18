@@ -4,16 +4,10 @@
  
 ### Today
 
-    - ✅ test form - webhooks - fix EnablePayments being nullable or fix in webhook check for any nullable field
-    - ✅ External forms - include js file in csproj
-    - ✅ FedEx Email Items
-    - ✅ test/deploy fix for external forms 
     - Calendar Ajaxification
  
 ### Priorities 
 
-    - Form webhook
-    - Third party form submission page part not working
     - Calendar ajaxification
     - Commercial Filter
     - Form From email (w/SPF records)
