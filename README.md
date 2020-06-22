@@ -1,13 +1,14 @@
 # ![me](https://avatars2.githubusercontent.com/u/5232044?s=50&v=4) ben's stand up
 
 ## My daily stand-ups
- 
-### Today
 
-    - Calendar Ajaxification
-    - Standups
-    - Check on access to admin for Aitza
-    - test Said's update to forms (confrim on element change)
+### Tuesday
+   
+    - Reset/check Aitza's password (would prod deploy help with this?)
+    - FedEx email request (discuss with Erv about pushback)
+    - test said's update to forms    
+    - test/tweak Calendar Ajaxification
+
  
 ### Priorities 
 
