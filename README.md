@@ -7,6 +7,7 @@
     - Calendar Ajaxification
     - Standups
     - Check on access to admin for Aitza
+    - test Said's update to forms (confrim on element change)
  
 ### Priorities 
 
