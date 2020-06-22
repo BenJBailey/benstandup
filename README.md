@@ -5,6 +5,8 @@
 ### Today
 
     - Calendar Ajaxification
+    - Standups
+    - Check on access to admin for Aitza
  
 ### Priorities 
 
