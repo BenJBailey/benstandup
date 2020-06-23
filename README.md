@@ -4,8 +4,8 @@
 
 ### Tuesday
    
-    - Reset/check Aitza's password (would prod deploy help with this?)
-    - FedEx email request (discuss with Erv about pushback)
+    - ✅ Reset/check Aitza's password (would prod deploy help with this?)
+    - ✅ FedEx email request (discuss with Erv about pushback)
     - test said's update to forms    
     - test/tweak Calendar Ajaxification
 
