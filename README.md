@@ -5,7 +5,7 @@
 ### Today
 
     - test/tweak Calendar Ajaxification
-    - Commercial filter changes (4 hrs)
+    - Commercial filter changes (4 hrs)?
 
  
 ### Priorities 
