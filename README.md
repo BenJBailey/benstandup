@@ -2,12 +2,10 @@
 
 ## My daily stand-ups
 
-### Tuesday
-   
-    - ✅ Reset/check Aitza's password (would prod deploy help with this?)
-    - ✅ FedEx email request (discuss with Erv about pushback)
-    - ✅ test said's update to forms    
+### Today
+
     - test/tweak Calendar Ajaxification
+    - Commercial filter changes (4 hrs)
 
  
 ### Priorities 
