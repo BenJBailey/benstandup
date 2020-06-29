@@ -4,8 +4,10 @@
 
 ### Today
 
-    - test/tweak Calendar Ajaxification
     - Commercial filter changes (4 hrs)?
+    - release Calendar Ajaxification once tested
+    - Get form documentation ready to be finished
+    - Form upgrades
 
  
 ### Priorities 
