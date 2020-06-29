@@ -4,7 +4,9 @@
 
 ### Today
 
-    - release Calendar Ajaxification once tested
+    - Time
+    - CF changes
+    - test/release Calendar Ajaxification once tested
     - Write docs for Commercial filter changes (4 hrs)?
     - Get form documentation ready to be finished
     - Form upgrades
