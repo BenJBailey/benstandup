@@ -4,8 +4,8 @@
 
 ### Today
 
-    - Commercial filter changes (4 hrs)?
     - release Calendar Ajaxification once tested
+    - Write docs for Commercial filter changes (4 hrs)?
     - Get form documentation ready to be finished
     - Form upgrades
 
