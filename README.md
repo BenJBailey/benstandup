@@ -4,10 +4,10 @@
 
 ### Today
 
-    - ✅ Time
-    - ✅ CF changes
-    - ✅ test/release Calendar Ajaxification once tested
-    - ✅ Write docs for Commercial filter changes (4 hrs)?
+    - Test scroll change for calendar
+    - Deploy down node
+    - Root calendar - changes affected UI - change or assign
+    - Other calendars affected?
     - Get form documentation ready to be finished
     - Form upgrades
 
