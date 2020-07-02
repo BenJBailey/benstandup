@@ -2,9 +2,11 @@
 
 ## My daily stand-ups
 
-### Today
+### Monday
 
     - ✅ Test scroll change for calendar
+    - Results GABB 
+    - Document GABB update
     - look into news change?
     - unhide option in MA
     - Deploy down node
