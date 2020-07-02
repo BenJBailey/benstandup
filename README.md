@@ -4,7 +4,8 @@
 
 ### Today
 
-    - Test scroll change for calendar
+    - ✅ Test scroll change for calendar
+    - unhide option in MA
     - Deploy down node
     - Root calendar - changes affected UI - change or assign
     - Other calendars affected?
