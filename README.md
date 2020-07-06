@@ -10,10 +10,12 @@
     - ✅ test unhide option in MA
     - Merge and test Said's changes
     - Deploy what is ready
-    - look into news change?
     - Other calendars affected?
-    - Get form documentation ready to be finished
     - Form upgrades
+    
+### Tuesday
+   
+    - Check in on Commercial Filter
 
  
 ### Priorities 
