@@ -8,9 +8,9 @@
     - ✅ Document GABB update
     - ✅ Cal - test moving out of container
     - ✅ test unhide option in MA
-    - Merge and test Said's changes
+    - ✅ Merge and test Said's changes
     - Deploy what is ready
-    - Other calendars affected?
+        - look @ ticket calendars again, to be sure
     - Form upgrades
     
 ### Tuesday
