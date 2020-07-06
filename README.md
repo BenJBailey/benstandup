@@ -7,8 +7,9 @@
     - ✅ Results GABB 
     - ✅ Document GABB update
     - ✅ Cal - test moving out of container
-    - test/deploy unhide option in MA
+    - ✅ test unhide option in MA
     - Merge and test Said's changes
+    - Deploy what is ready
     - look into news change?
     - Other calendars affected?
     - Get form documentation ready to be finished
