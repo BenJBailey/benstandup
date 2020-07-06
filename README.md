@@ -4,9 +4,8 @@
 
 ### Monday
 
-    - ✅ Test scroll change for calendar
-    - Results GABB 
-    - Document GABB update
+    - ✅ Results GABB 
+    - ✅ Document GABB update
     - Cal - test moving out of container
     - test/deploy unhide option in MA
     - look into news change?
