@@ -2,21 +2,11 @@
 
 ## My daily stand-ups
 
-### Monday
-
-    - ✅ Results GABB 
-    - ✅ Document GABB update
-    - ✅ Cal - test moving out of container
-    - ✅ test unhide option in MA
-    - ✅ Merge and test Said's changes
-    - Deploy what is ready
-        - look @ ticket calendars again, to be sure
-    - Form upgrades
-    
 ### Tuesday
    
-    - Check in on Commercial Filter
-
+    - ✅ Check in on Commercial Filter
+    - Fix MA
+    - Form submission window
  
 ### Priorities 
 
