@@ -2,12 +2,12 @@
 
 ## My daily stand-ups
 
-### Tuesday
-   
-    - ✅ Check in on Commercial Filter
-    - Fix MA
-    - Form submission window
+###  Wednesday
+
     - Test Said's work - form feature
+    - Form - submission window - apply to public side
+           - Test
+    - Form - from email
  
 ### Priorities 
 
