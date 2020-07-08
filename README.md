@@ -5,12 +5,16 @@
 ###  Wednesday
 
     - ✅ Test Said's work - form feature
-    - Template fix for amro
+    - ✅ Template fix for amro
     - Form - submission window - apply to public side
            - Test
     - Form - from email
     - Commercial Filter matrix change
  
+### Thursday
+    
+    - Test/Release calendar event query fix
+
 ### Priorities 
 
     - Calendar ajaxification
