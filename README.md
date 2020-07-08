@@ -14,6 +14,7 @@
 ### Thursday
     
     - Test/Release calendar event query fix
+    - Figure out plan for western avenue form conversion
 
 ### Priorities 
 
