@@ -4,10 +4,11 @@
 
 ###  Wednesday
 
-    - Test Said's work - form feature
+    - ✅ Test Said's work - form feature
     - Form - submission window - apply to public side
            - Test
     - Form - from email
+    - Commercial Filter matrix change
  
 ### Priorities 
 
