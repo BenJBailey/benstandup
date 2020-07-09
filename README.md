@@ -6,6 +6,8 @@
     
     - ✅ Test/Release calendar event query fix
     - ✅ Figure out plan for western avenue form conversion
+    - Fix store order by details
+    - Commercial filter changes
     - Form - submission window
         - merge to dev
         - test in dev
