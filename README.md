@@ -4,8 +4,8 @@
 
 ### Thursday
     
-    - Test/Release calendar event query fix
-    - Figure out plan for western avenue form conversion
+    - ✅ Test/Release calendar event query fix
+    - ✅ Figure out plan for western avenue form conversion
     - Form - submission window
         - merge to dev
         - test in dev
