@@ -11,6 +11,12 @@
     - Form - submission window
         - test in dev
     - Form - from email
+    
+    
+### Monday
+
+    - deploy https://projects.madebyspeak.com/#/tasks/16056451 (fix/forms-default-value-from-qs)
+    
 
 ### Priorities 
 
