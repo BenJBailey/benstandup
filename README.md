@@ -2,14 +2,13 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Firday
     
-    - ✅ Test/Release calendar event query fix
-    - ✅ Figure out plan for western avenue form conversion
-    - Fix store order by details
+    - Weekly Update
+    - Communicate with CBS about error
     - Commercial filter changes
+    - Fix store order by details
     - Form - submission window
-        - merge to dev
         - test in dev
     - Form - from email
 
