@@ -4,9 +4,9 @@
 
 ### Firday
     
-    - Weekly Update
-    - Communicate with CBS about error
-    - Commercial filter changes
+    - ✅ Weekly Update
+    - ✅ Communicate with CBS about error
+    - ✅ Commercial filter changes
     - Fix store order by details
     - Form - submission window
         - test in dev
