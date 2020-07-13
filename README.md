@@ -6,7 +6,7 @@
 
     - ✅ deploy https://projects.madebyspeak.com/#/tasks/16056451 (fix/forms-default-value-from-qs)
     - ✅ Fix store order by details
-    - Form - submission window
+    - ✅ Form - submission window
         - test in dev
     - Form - from email
     
