@@ -13,8 +13,6 @@
 
 ### Priorities 
 
-    - Calendar ajaxification
-    - Commercial Filter
     - Form From email (w/SPF records)
     - Form submission window
     - Form documentation
