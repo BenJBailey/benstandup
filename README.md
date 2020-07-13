@@ -11,6 +11,10 @@
     - Form - from email
     - Quick checkin with FedEx
     
+ ### Tuesday 
+ 
+    - Try to login to FedEx
+    
 
 ### Priorities 
 
