@@ -5,9 +5,10 @@
 ### Monday
 
     - ✅ Try to login to FedEx
+    - Communicate/fix FedEx ?
+    - Video Platform - meet about and execute on?
     - Confirm testing for form window
     - Form - from email
-    - Quick checkin with FedEx
 
 ### Priorities 
 
