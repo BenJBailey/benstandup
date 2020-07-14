@@ -2,13 +2,11 @@
 
 ## My daily stand-ups
     
-### Monday
+### Wednesday
 
-    - ✅ Try to login to FedEx
+    - TEA FeulEd Video platform
+        - figure out state management
     - Communicate/fix FedEx ?
-    - Video Platform - meet about and execute on?
-    - Confirm testing for form window
-    - Form - from email
 
 ### Priorities 
 
