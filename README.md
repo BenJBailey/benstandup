@@ -4,17 +4,10 @@
     
 ### Monday
 
-    - ✅ deploy https://projects.madebyspeak.com/#/tasks/16056451 (fix/forms-default-value-from-qs)
-    - ✅ Fix store order by details
-    - ✅ Form - submission window
-        - test in dev
+    - ✅ Try to login to FedEx
+    - Confirm testing for form window
     - Form - from email
     - Quick checkin with FedEx
-    
- ### Tuesday 
- 
-    - Try to login to FedEx
-    
 
 ### Priorities 
 
