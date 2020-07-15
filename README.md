@@ -6,7 +6,7 @@
 
     - TEA FeulEd Video platform
         - figure out state management
-    - Communicate/fix FedEx ?
+    - ✅ Communicate/fix FedEx ?
 
 ### Priorities 
 
