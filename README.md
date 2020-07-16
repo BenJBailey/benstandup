@@ -9,6 +9,11 @@
     - get conversation scheduled for store analytics
     - Form docs?
 
+### Friday
+    
+    - TEA Video
+    - Calendar - classes for tags (to be released next week)
+
 ### Priorities 
 
     - Form From email (w/SPF records)
