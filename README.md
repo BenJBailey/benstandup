@@ -2,11 +2,11 @@
 
 ## My daily stand-ups
     
-### Wednesday
+### Thursday
 
     - TEA FeulEd Video platform
         - figure out state management
-    - ✅ Communicate/fix FedEx ?
+    - Form docs?
 
 ### Priorities 
 
