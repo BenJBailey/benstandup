@@ -6,6 +6,7 @@
 
     - TEA FeulEd Video platform
         - figure out state management
+    - get conversation scheduled for store analytics
     - Form docs?
 
 ### Priorities 
