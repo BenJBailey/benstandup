@@ -2,20 +2,17 @@
 
 ## My daily stand-ups
     
-### Thursday
-
-    - TEA FeulEd Video platform
-        - figure out state management
-    - get conversation scheduled for store analytics
-    - Form docs?
-
-### Friday
+### Monday
     
+    - Standups
+    - Release calendar classes for tags
+    - Store analytics?
     - TEA Video
-    - Calendar - classes for tags (to be released next week)
+
 
 ### Priorities 
-
+    
+    - TEA Video
     - Form From email (w/SPF records)
     - Form submission window
     - Form documentation
