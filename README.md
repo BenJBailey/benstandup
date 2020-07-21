@@ -2,11 +2,8 @@
 
 ## My daily stand-ups
     
-### Monday
-    
-    - Standups
-    - Release calendar classes for tags
-    - Store analytics?
+### Tuesday
+
     - TEA Video
 
 
