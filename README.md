@@ -2,16 +2,11 @@
 
 ## My daily stand-ups
     
-### Thursday
+### Monday
 
-    - Release
-        - Form date fix (if tested)
-        - Template query for 
     - TEA Video
-        - Resources
-        - Home
+        - Implement actual video structure
         - Readme.md
-    
 
 
 ### Priorities 
