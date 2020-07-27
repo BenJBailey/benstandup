@@ -7,7 +7,7 @@
     - TEA Video
         - Implement actual video structure
         - Readme.md
-
+    - Midyear review
 
 ### Priorities 
     
