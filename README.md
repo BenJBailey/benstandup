@@ -2,10 +2,9 @@
 
 ## My daily stand-ups
     
-### Monday
+### Tuesday
 
     - TEA Video
-        - Implement actual video structure
         - Readme.md
     - Midyear review
 
