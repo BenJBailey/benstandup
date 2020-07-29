@@ -2,11 +2,13 @@
 
 ## My daily stand-ups
     
-### Tuesday
-
-    - TEA Video
-        - Readme.md
-    - Midyear review
+### Wednesday
+    
+    - Fix form dates for submission window
+    - Help with TEA as needed
+    - G&L? 
+    - Form from email?
+    
 
 ### Priorities 
     
