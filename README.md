@@ -6,13 +6,11 @@
     
     - Fix form dates for submission window
     - Help with TEA as needed
-    - G&L? 
-    - Form from email?
+    - Form from email
     
 
 ### Priorities 
-    
-    - TEA Video
+   
     - Form From email (w/SPF records)
     - Form submission window
     - Form documentation
@@ -20,4 +18,6 @@
       - Make donations page part feature called SF donations
       - Move SF page parts
       - Deprecate donations/registrations
+    - G&L Items
+    - FedEx infosec?
       
