@@ -6,7 +6,7 @@
     
     - ✅ Finish app to export index
     - ✅ Test fix of form dates for submission window
-    - Check TEA analytics
+    - ✅ Check TEA analytics
     - Help with TEA as needed
     - Form from email
     
