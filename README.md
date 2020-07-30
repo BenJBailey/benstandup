@@ -14,7 +14,6 @@
 ### Priorities 
    
     - Form From email (w/SPF records)
-    - Form submission window
     - Form documentation
       - Finish docs
       - Make donations page part feature called SF donations
