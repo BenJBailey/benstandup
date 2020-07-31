@@ -2,13 +2,12 @@
 
 ## My daily stand-ups
     
-### Friday
+### Momdau
     
-    - ✅ Store test
-    - ✅ Weekly Report
-    - Matrix loading partials via http
-    - Test split up form
+    - Fix form split up not working in dev // test
     - Form from email
+    - Matrix loading partials via http
+    - Docs
     
 
 ### Priorities 
