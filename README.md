@@ -4,9 +4,9 @@
     
 ### Friday
     
-    - Store test
-    - Weekly Report
-    - Set split up form
+    - ✅ Store test
+    - ✅ Weekly Report
+    - Test split up form
     - Form from email
     
 
