@@ -6,6 +6,7 @@
     
     - ✅ Store test
     - ✅ Weekly Report
+    - Matrix loading partials via http
     - Test split up form
     - Form from email
     
