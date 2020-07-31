@@ -2,13 +2,12 @@
 
 ## My daily stand-ups
     
-### Thursday
+### Friday
     
-    - ✅ Finish app to export index
-    - ✅ Test fix of form dates for submission window
-    - ✅ Check TEA analytics
+    - Store test
+    - Weekly Report
+    - Set split up form
     - Form from email
-    - Get split up form to dev
     
 
 ### Priorities 
