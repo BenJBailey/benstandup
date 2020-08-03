@@ -2,7 +2,7 @@
 
 ## My daily stand-ups
     
-### Momdau
+### Monday
     
     - Fix form split up not working in dev // test
     - Form from email
