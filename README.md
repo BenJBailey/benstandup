@@ -5,7 +5,7 @@
 ### Monday
     
     - ✅ Fix form split up not working in dev // test
-    - Form from email
+    - Form from email - feat/16347456-matrix-http-partials
     - Matrix loading partials via http - Test
     - Form Docs
     
