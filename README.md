@@ -4,10 +4,13 @@
     
 ### Monday
     
+    - SF PP 
+    - Deprecate Registration/Donations
+    - Get Form Docs outlined and assigned
     - ✅ Fix form split up not working in dev // test
     - Form from email - feat/16347456-matrix-http-partials
     - Matrix loading partials via http - Test
-    - Form Docs
+    - Form v1 -> v2 swap with ability to toggle back (if you toggled forward)
     
 
 ### Priorities 
