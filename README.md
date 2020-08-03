@@ -4,10 +4,10 @@
     
 ### Monday
     
-    - Fix form split up not working in dev // test
+    - ✅ Fix form split up not working in dev // test
     - Form from email
-    - Matrix loading partials via http
-    - Docs
+    - Matrix loading partials via http - Test
+    - Form Docs
     
 
 ### Priorities 
