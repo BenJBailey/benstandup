@@ -7,6 +7,12 @@
     - SF PP 
     - Deprecate Registration/Donations
     - Get Form Docs outlined and assigned
+        - Outline Reg article
+        - Outline Donations article
+        - Outline Response limit article
+        - Outline Response Window article
+        - Assign
+        
     - ✅ Fix form split up not working in dev // test
     - Form from email - feat/16347456-matrix-http-partials
     - Matrix loading partials via http - Test
