@@ -5,8 +5,7 @@
 ### Monday
     
     - SF PP 
-    - Deprecate Registration/Donations
-    - Get Form Docs outlined and assigned
+    - ✅ Get Form Docs outlined and assigned
         - Outline Reg article
         - Outline Donations article
         - Outline Response limit article
