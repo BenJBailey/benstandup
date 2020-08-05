@@ -4,8 +4,8 @@
     
 ### Wednesday
     
-    - Release master
-    - Test all the things
+    - ✅ Release master
+    - ✅ Test all the things
     - Form v1 -> v2 swap with ability to toggle back (if you toggled forward)
     - Form from email
 
