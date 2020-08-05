@@ -2,25 +2,14 @@
 
 ## My daily stand-ups
     
-### Monday
+### Wednesday
     
-    - SF PP 
-    - ✅ Get Form Docs outlined and assigned
-        - Outline Reg article
-        - Outline Donations article
-        - Outline Response limit article
-        - Outline Response Window article
-        - Assign
-    - ✅ Fix form split up not working in dev // test
+    - Release master
+    - Test all the things
+    - SF page parts
     - Form v1 -> v2 swap with ability to toggle back (if you toggled forward)
     - Form from email - feat/16347456-matrix-http-partials
     - Matrix loading partials via http - Test
-    
-    
-### Tuesday
-
-    - Release feat/sf-donation
-    
 
 ### Priorities 
    
