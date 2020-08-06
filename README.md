@@ -5,7 +5,7 @@
 ### Thursday
     
     - ✅ release form version button w/
-    - Fix confirmation text
+    - ✅ Fix confirmation text (in dev)
     - Form from email
 
 ### Priorities 
