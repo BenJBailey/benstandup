@@ -8,6 +8,15 @@
     - ✅ Fix confirmation text (in dev)
     - Form from email
 
+
+### Friday
+    
+    - Weekly report
+
+### Monday
+
+    - Release form fix (don't break with script)
+
 ### Priorities 
    
     - Form From email (w/SPF records)
