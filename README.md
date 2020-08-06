@@ -4,7 +4,7 @@
     
 ### Thursday
     
-    - release form version button w/
+    - ✅ release form version button w/
     - Fix confirmation text
     - Form from email
 
