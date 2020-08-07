@@ -5,6 +5,7 @@
 ### Friday
     
     - Weekly report
+    - Recreate matrix import error
     - Form from email
 
 ### Monday
