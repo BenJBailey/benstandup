@@ -11,6 +11,8 @@
 ### Monday
 
     - Release form fix (don't break with script)
+    - Form from email
+    - Matrix import only csv files
 
 ### Priorities 
    
