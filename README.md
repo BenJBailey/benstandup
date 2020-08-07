@@ -11,6 +11,7 @@
 ### Monday
 
     - Release form fix (don't break with script)
+    - Deprecate form v1
     - Form from email
     - Recurring Payments in Authorize
 
