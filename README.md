@@ -13,6 +13,7 @@
     - Release form fix (don't break with script)
     - Deprecate form v1
     - Form from email
+    - Add generic rectangle loaders to form
     - Recurring Payments in Authorize
 
 ### Priorities 
