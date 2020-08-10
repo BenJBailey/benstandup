@@ -2,12 +2,6 @@
 
 ## My daily stand-ups
 
-### Friday
-    
-    - Weekly report
-    - Recreate matrix import error
-    - Form from email
-
 ### Monday
 
     - Release form fix (don't break with script)
