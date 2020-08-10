@@ -2,9 +2,9 @@
 
 ## My daily stand-ups
 
-### Monday
+### Tuesday
 
-    - Release form fix (don't break with script)
+    - Windows?
     - Deprecate form v1
         - Write up FAQ
     - Form from email
