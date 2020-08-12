@@ -2,11 +2,8 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-    - Windows?
-    - Deprecate form v1
-        - Write up FAQ
     - Form from email
     - Add generic rectangle loaders to form
     - Recurring Payments in Authorize
