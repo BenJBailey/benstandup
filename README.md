@@ -2,10 +2,9 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Thursday
 
-    - Form from email
-    - Add generic rectangle loaders to form
+    - Test form from email/name
     - Recurring Payments in Authorize
 
 ### Priorities 
