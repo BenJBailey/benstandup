@@ -5,6 +5,7 @@
 ### Monday
 
     - Test matrix pagination
+    - Fix commercial filter
     - Whatever priorities come up
     - Release form from email/name
     - Infosec?
