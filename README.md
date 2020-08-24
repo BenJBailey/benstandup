@@ -2,10 +2,12 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Monday
 
-    - Test form from email/name
-    - Recurring Payments in Authorize
+    - Whatever priorities come up
+    - Release form from email/name
+    - Infosec?
+    - Recurring Payments in Authorize?
 
 ### Priorities 
    
