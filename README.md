@@ -4,9 +4,8 @@
 
 ### Monday
 
-    - Test matrix pagination
-    - Fix commercial filter
-    - Whatever priorities come up
+    - ✅ Test matrix pagination
+    - ✅ Fix commercial filter
     - Release form from email/name
     - Infosec - get list of things that will/won't change for kick off
     - Recurring Payments in Authorize?
