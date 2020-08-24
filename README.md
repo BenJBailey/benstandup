@@ -8,7 +8,7 @@
     - Fix commercial filter
     - Whatever priorities come up
     - Release form from email/name
-    - Infosec?
+    - Infosec - get list of things that will/won't change for kick off
     - Recurring Payments in Authorize?
     - TEA Restore breaks if no question available
 
