@@ -6,6 +6,7 @@
 
     - ✅ Test matrix pagination
     - ✅ Fix commercial filter
+    - Fix asset update endpoint not returning updated TagIDs
     - Release form from email/name
     - Infosec - get list of things that will/won't change for kick off
     - Recurring Payments in Authorize?
