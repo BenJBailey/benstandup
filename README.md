@@ -6,10 +6,10 @@
 
     - ✅ Test matrix pagination
     - ✅ Fix commercial filter
-    - Fix asset update endpoint not returning updated TagIDs (https://projects.madebyspeak.com/#/tasks/16472186)
-    - Release form from email/name
-    - Test/Release calendar filter fix
-    - Test/Release asset api fix
+    - ✅ Fix asset update endpoint not returning updated TagIDs (https://projects.madebyspeak.com/#/tasks/16472186)
+    - ✅ Release form from email/name
+    - ✅ Test/Release calendar filter fix
+    - ✅ Test/Release asset api fix
     - Infosec - get list of things that will/won't change for kick off
     - Recurring Payments in Authorize?
     - TEA Restore breaks if no question available
