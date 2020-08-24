@@ -9,6 +9,7 @@
     - Release form from email/name
     - Infosec?
     - Recurring Payments in Authorize?
+    - TEA Restore breaks if no question available
 
 ### Priorities 
    
