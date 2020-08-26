@@ -2,9 +2,11 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Thursday
 
-    - Inofsec - architecture and api
+    - Form - change not null strings to null w/script
+    - Infosec - continue to move over
+    - TEA - watever is needed
 
 ### Priorities 
    
