@@ -4,9 +4,9 @@
 
 ### Friday
 
-    - Family Path Finders support
-    - Weekly Report
-    - Check what webhook permissions do for email a friend and then turn on for all (depending on when email is going out)
+    - ✅ Family Path Finders support
+    - ✅ Weekly Report
+    - ✅ Check what webhook permissions do for email a friend and then turn on for all (depending on when email is going out)
     - Infosec - copy paste
 
 ### Priorities 
