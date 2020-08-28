@@ -2,11 +2,12 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Friday
 
-    - Form - change not null strings to null w/script
-    - Infosec - continue to move over
-    - TEA - watever is needed
+    - Family Path Finders support
+    - Weekly Report
+    - Check what webhook permissions do for email a friend and then turn on for all (depending on when email is going out)
+    - Infosec - copy paste
 
 ### Priorities 
    
