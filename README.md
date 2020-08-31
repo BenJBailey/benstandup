@@ -2,15 +2,12 @@
 
 ## My daily stand-ups
 
-### Friday
+### Monday
 
-    - ✅ Family Path Finders support
-    - ✅ Weekly Report
-    - ✅ Check what webhook permissions do for email a friend and then turn on for all (depending on when email is going out)
     - Infosec - copy paste
+    - Figure out one off Registrations non-deprecation?
 
 ### Priorities 
    
-    - Form From email (w/SPF records)
     - Infosec
     - Recurring Payments in Authorize
