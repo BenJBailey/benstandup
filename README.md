@@ -2,10 +2,9 @@
 
 ## My daily stand-ups
 
-### Monday
+### Wednesday
 
-    - Infosec - copy paste
-    - Figure out one off Registrations non-deprecation?
+    - Infosec
 
 ### Priorities 
    
