@@ -2,12 +2,9 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-    - Infosec - Review email
-    - Infosec - finish error handling
     - Infosec - api integration
-    - Staff meeting
 
 ### Priorities 
    
