@@ -2,9 +2,10 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Thursday
 
     - Infosec - api integration
+    - Infosec - communcation
 
 ### Priorities 
    
