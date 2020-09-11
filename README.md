@@ -2,9 +2,16 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Friday
 
-    - Infosec - api integration
+    - Infosec - changs for infosec
+    - ✅ Infosec - communcation
+
+
+### Monday
+
+    - Infosec - changs for infosec
+    - Standups
     - Infosec - communcation
 
 ### Priorities 
