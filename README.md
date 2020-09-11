@@ -2,18 +2,12 @@
 
 ## My daily stand-ups
 
-### Friday
-
-    - Infosec - changs for infosec
-    - DP Iframe test (wolfriver)?
-    - ✅ Infosec - communcation
-
-
 ### Monday
 
     - Infosec - changs for infosec
     - Standups
-    - Infosec - communcation
+    - DP Iframe test (wolfriver)
+    - Infosec - communcation - follow up and ask about wgb qualities (?)
 
 ### Priorities 
    
