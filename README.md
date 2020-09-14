@@ -4,10 +4,10 @@
 
 ### Monday
 
-    - Infosec - changs for infosec
-    - Standups
     - DP Iframe test (wolfriver)
     - Infosec - communcation - follow up and ask about wgb qualities (?)
+    - Infosec - changes for infosec
+    - Standups
 
 ### Priorities 
    
