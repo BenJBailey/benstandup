@@ -4,10 +4,17 @@
 
 ### Monday
 
+    - ✅ Standups
     - DP Iframe test (wolfriver)
-    - Infosec - communcation - follow up and ask about wgb qualities (?)
-    - Infosec - changes for infosec
-    - Standups
+    - Infosec
+        - get Rising Star messaging as an example
+        - Copy CSS from RS site to part of Infosec site
+        - change WGB voting as not required for selection of winners in admin
+        - test in dev
+        - deploy to fedex dev
+        - ?
+    - Rising Star item (while in server)
+
 
 ### Priorities 
    
