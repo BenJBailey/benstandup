@@ -15,6 +15,7 @@
     
     - Meet with Devon about milestones for Infosec
     - Get Infosec ready to go for testing (last day!)
+    - Prep for demoing testing on Tuesday
 
 ### Priorities 
    
