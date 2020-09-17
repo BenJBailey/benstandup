@@ -2,20 +2,19 @@
 
 ## My daily stand-ups
 
-### Monday
+### Friday
 
-    - ✅ Standups
-    - DP Iframe test (wolfriver)
+    - Weekly report
     - Infosec
-        - get Rising Star messaging as an example
-    - Add placeholder to api for form fields
-    - Rising Star item (while in server)
+        - remove legacy past winners from past winners for recog
+        - fix css (consider resetting font-size, line-height so rem etc will work)
+        - test all milestones in dev
+        - get setup in FedEx dev
 
-### Tuesday
-
-    - Be sure ready for Infosec meeting
-    - Infosec meeting
-    - Get infosec ready
+### Monday
+    
+    - Meet with Devon about milestones for Infosec
+    - Get Infosec ready to go for testing (last day!)
 
 ### Priorities 
    
