@@ -8,6 +8,7 @@
     - Infosec
         - remove legacy past winners from past winners for recog
         - fix css (consider resetting font-size, line-height so rem etc will work)
+        - double check lanaguage holes and ask about them (nomination instructions etc)
         - test all milestones in dev
         - get setup in FedEx dev
 
