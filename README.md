@@ -2,20 +2,11 @@
 
 ## My daily stand-ups
 
-### Friday
-
-    - Weekly report
-    - Infosec
-        - remove legacy past winners from past winners for recog
-        - fix css (consider resetting font-size, line-height so rem etc will work)
-        - double check lanaguage holes and ask about them (nomination instructions etc)
-        - test all milestones in dev
-        - get setup in FedEx dev
-
 ### Monday
     
+    - Infosec - recreate VP milestone and scenario (w/o change orgs in the middle) and see if same problem happens w/ dir org chart
     - Meet with Devon about milestones for Infosec
-    - Get Infosec ready to go for testing (last day!)
+    - Deploy infosec to fedex dev
     - Prep for demoing testing on Tuesday
 
 ### Priorities 
