@@ -4,7 +4,10 @@
 
 ### Monday
     
-    - RS - Quickly look into issue and evaluate then talk about what needs to be done with team
+    - RS - Quickly look into issue and evaluate then talk about what needs to be done with team 
+        - test deferrals all the way through
+            - w/VP
+            - w/o VP
     - Infosec - recreate VP milestone and scenario (w/o change orgs in the middle) and see if same problem happens w/ dir org chart
     - Meet with Devon about milestones for Infosec
     - Deploy infosec to fedex dev
