@@ -2,16 +2,12 @@
 
 ## My daily stand-ups
 
-### Monday
+### Tuesday
     
-    - RS - Quickly look into issue and evaluate then talk about what needs to be done with team 
-        - test deferrals all the way through
-            - w/VP
-            - w/o VP
-    - Infosec - recreate VP milestone and scenario (w/o change orgs in the middle) and see if same problem happens w/ dir org chart
-    - Meet with Devon about milestones for Infosec
-    - Deploy infosec to fedex dev
-    - Prep for demoing testing on Tuesday
+    - Infosec demo
+    - Get infosec test environment ready to go
+    - Send instructions to infosec team
+    - ?
 
 ### Priorities 
    
