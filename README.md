@@ -2,11 +2,8 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Thursday
 
-    - ✅ Look into DP thing again
-    - ✅ Respond to Megan regarding forms for that site
-    - Look into history of form error for Said
     - Screenshots for Demetria
     - Look for places the system needs to say `InfoSec Shield Award`
     - Look at notes to see if infosec will use allocation form, if so execute on it
