@@ -6,17 +6,17 @@
 
     - ✅ Screenshots for Demetria
     - ✅ Send Demetria examples\
-    - Look at notes to see if infosec will use allocation form, if so execute on it
-    - Look for places the system needs to say `InfoSec Shield Award`\
+    - ✅ Look at notes to see if infosec will use allocation form, if so execute on it
+    - ✅ Look for places the system needs to say `InfoSec Shield Award`\
+    - Send screenshots to Demetria
     - test feat/forms-page-parts-impr
-    - Document things for infosec
+    - test and deploy FedEx changes
+    - Document all the things for infosec
     
 ### Priorities 
    
     - Infosec
-        - get Rising Star messaging as an example
-        - Copy CSS from RS site to part of Infosec site
-        - ?? change WGB voting as not required for selection of winners in admin
-        - test in dev
-        - deploy to fedex dev
+        - react to allocations form answer
+        - deploy recent changes to dev (use red green)
+        - 
     - Recurring Payments in Authorize
