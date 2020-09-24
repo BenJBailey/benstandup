@@ -10,8 +10,9 @@
     - ✅ Look for places the system needs to say `InfoSec Shield Award`\
     - ✅ Send screenshots to Demetria
     - ✅ test feat/forms-page-parts-impr
-    - test and deploy FedEx changes
-    - Document all the things for infosec
+    - ✅ test and deploy FedEx changes
+    - Write InfoSec Shield Award documentation
+    - Write internal documentation for Infosec Shield Award
     
 ### Priorities 
    
