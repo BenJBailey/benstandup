@@ -5,9 +5,10 @@
 ### Thursday
 
     - ✅ Screenshots for Demetria
-    - Send Demetria examples
-    - Look for places the system needs to say `InfoSec Shield Award`
+    - ✅ Send Demetria examples\
     - Look at notes to see if infosec will use allocation form, if so execute on it
+    - Look for places the system needs to say `InfoSec Shield Award`\
+    - test feat/forms-page-parts-impr
     - Document things for infosec
     
 ### Priorities 
