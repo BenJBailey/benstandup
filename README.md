@@ -8,6 +8,10 @@
     - Write InfoSec Shield Award documentation
     - Write internal documentation for Infosec Shield Award
     
+### Monday
+
+    - call Jackie Doyle, at 901.452.6500 x103 (wolf river)
+    
 ### Priorities 
    
     - Infosec
