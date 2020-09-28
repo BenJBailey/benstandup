@@ -2,14 +2,12 @@
 
 ## My daily stand-ups
 
-### Friday
-
-    - Review Said's updates
-    - Write InfoSec Shield Award documentation
-    - Write internal documentation for Infosec Shield Award
-    
 ### Monday
 
+    - Standups
+    - Write InfoSec Shield Award documentation
+    - Prep for InfoSec meeting?
+    - Write internal documentation for Infosec Shield Award
     - call Jackie Doyle, at 901.452.6500 x103 (wolf river)
     
 ### Priorities 
