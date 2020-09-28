@@ -4,11 +4,16 @@
 
 ### Monday
 
-    - Standups
-    - Write InfoSec Shield Award documentation
-    - Prep for InfoSec meeting?
+    - ✅ Standups
+    - ✅ Write InfoSec Shield Award documentation
+    - ✅ Prep for InfoSec meeting?
+    - ✅ call Jackie Doyle, at 901.452.6500 x103 (wolf river)
+### Tuesday
+   
+    - re-proof documentation and export for meeting
+    - InfoSec meeting
     - Write internal documentation for Infosec Shield Award
-    - call Jackie Doyle, at 901.452.6500 x103 (wolf river)
+    - add feature to change confirmation checkboxes to regular checkboxes
     
 ### Priorities 
    
