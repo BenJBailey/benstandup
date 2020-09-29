@@ -15,6 +15,7 @@
 ### Wednesday
 
     - fix intranet CSS for Emin
+    - RS item
     
 ### Priorities 
    
