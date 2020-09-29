@@ -4,11 +4,12 @@
 
 ### Tuesday
    
-    - re-proof documentation and export for meeting
-    - call Jackie Doyle again at 901.452.6500 x103 (wolf river)
-    - InfoSec meeting
-    - Write internal documentation for Infosec Shield Award
+    - ✅ re-proof documentation and export for meeting
+    - ✅ call Jackie Doyle again at 901.452.6500 x103 (wolf river)
+    - ✅ InfoSec meeting
+    - ✅ Write internal documentation for Infosec Shield Award
     - MDF images
+    - store limit with carts
     - add feature to change confirmation checkboxes to regular checkboxes
     
 ### Priorities 
