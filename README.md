@@ -2,20 +2,14 @@
 
 ## My daily stand-ups
 
-### Tuesday
-   
-    - ✅ re-proof documentation and export for meeting
-    - ✅ call Jackie Doyle again at 901.452.6500 x103 (wolf river)
-    - ✅ InfoSec meeting
-    - ✅ Write internal documentation for Infosec Shield Award
-    - MDF images
-    - store limit with carts
-    - add feature to change confirmation checkboxes to regular checkboxes
-    
 ### Wednesday
 
     - fix intranet CSS for Emin
+    - prep for pivot from infosec
     - RS item
+    - MDF images
+    - store limit with carts
+    - add feature to change confirmation checkboxes to regular checkboxes
     
 ### Priorities 
    
