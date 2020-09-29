@@ -12,6 +12,10 @@
     - store limit with carts
     - add feature to change confirmation checkboxes to regular checkboxes
     
+### Wednesday
+
+    - fix intranet CSS for Emin
+    
 ### Priorities 
    
     - Infosec
