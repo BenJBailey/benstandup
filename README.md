@@ -10,7 +10,11 @@
     - add feature to change confirmation checkboxes to regular checkboxes
     - ✅ RS item
     - ✅ fix intranet CSS for Emin
-    
+
+### Thursday
+
+    - More MDF stuff
+
 ### Priorities 
    
     - Infosec
