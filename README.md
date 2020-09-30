@@ -9,7 +9,7 @@
     - ✅ store limit with carts
     - add feature to change confirmation checkboxes to regular checkboxes
     - ✅ RS item
-    - fix intranet CSS for Emin
+    - ✅ fix intranet CSS for Emin
     
 ### Priorities 
    
