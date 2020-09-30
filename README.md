@@ -4,17 +4,15 @@
 
 ### Wednesday
 
-    - MDF images
-    - store limit with carts
+    - ✅ MDF images
+    - add super user
+    - ✅ store limit with carts
     - add feature to change confirmation checkboxes to regular checkboxes
-    - RS item
+    - ✅ RS item
     - fix intranet CSS for Emin
-    - prep for pivot from infosec
     
 ### Priorities 
    
     - Infosec
-        - react to allocations form answer
-        - deploy recent changes to dev (use red green)
-        - 
+        - might have to limit nominations
     - Recurring Payments in Authorize
