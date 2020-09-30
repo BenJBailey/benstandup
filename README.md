@@ -5,7 +5,7 @@
 ### Wednesday
 
     - ✅ MDF images
-    - add super user
+    - ✅ add super user
     - ✅ store limit with carts
     - add feature to change confirmation checkboxes to regular checkboxes
     - ✅ RS item
@@ -14,7 +14,10 @@
 ### Thursday
 
     - More MDF stuff
-
+    - test the other stuff form stuff for Said and merge to dev
+    - test form changes in dev (and prep for a release.. next week?)
+    - Recurring Payments in Authorize ?
+    
 ### Priorities 
    
     - Infosec
