@@ -2,15 +2,6 @@
 
 ## My daily stand-ups
 
-### Wednesday
-
-    - ✅ MDF images
-    - ✅ add super user
-    - ✅ store limit with carts
-    - add feature to change confirmation checkboxes to regular checkboxes
-    - ✅ RS item
-    - ✅ fix intranet CSS for Emin
-
 ### Thursday
 
     - More MDF stuff
