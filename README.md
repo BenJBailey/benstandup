@@ -2,16 +2,12 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Monday
 
-    - ✅ More MDF stuff
-    - ✅ test the other stuff form stuff for Said and merge to dev
-    - test form changes in dev (and prep for a release.. next week?)
-    
-### Friday
-
-    - Weekly report
-    - test form changes in dev (and prep for a release.. next week?)
+    - Infosec 
+        - test id and find ldap contact
+        - test secured pages
+    - test form changes in dev (and prep for a release..)
     - Recurring Payments in Authorize ?
     
 ### Priorities 
