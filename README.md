@@ -2,13 +2,12 @@
 
 ## My daily stand-ups
 
-### Monday
+### Tuesday
 
-    - ✅ Infosec 
-        - ✅ test id and find ldap contact
-        - ✅ test secured pages
-    - test form changes in dev (and prep for a release..)
-    - Recurring Payments in Authorize ?
+    - Infosec - prep for meeting
+    - Infosec - meeting at 8:15
+    - Infosec - feedback from meeting
+    - Recurring payments
     
 ### Priorities 
    
