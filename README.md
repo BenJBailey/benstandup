@@ -4,9 +4,9 @@
 
 ### Monday
 
-    - Infosec 
-        - test id and find ldap contact
-        - test secured pages
+    - ✅ Infosec 
+        - ✅ test id and find ldap contact
+        - ✅ test secured pages
     - test form changes in dev (and prep for a release..)
     - Recurring Payments in Authorize ?
     
