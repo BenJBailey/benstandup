@@ -4,6 +4,7 @@
 
 ### Wednesday
 
+    - SW - Release?
     - Infosec - add moderators and communicate
     - Infosec - send Tony link
     - Infosec - look into  Deteric Bowles approvals and respond
