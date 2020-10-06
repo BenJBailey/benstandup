@@ -2,15 +2,15 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-    - Infosec - prep for meeting
-    - Infosec - meeting at 8:15
-    - Infosec - feedback from meeting
-    - Recurring payments
+    - Infosec - add moderators and communicate
+    - Infosec - send Tony link
+    - Infosec - look into  Deteric Bowles approvals and respond
+    - Infosec - keep working on tests to shore up list of managements
+    - Infosec - step2 - step3 poll for status
     
 ### Priorities 
    
-    - Infosec
-        - might have to limit nominations
+    - InfoSec
     - Recurring Payments in Authorize
