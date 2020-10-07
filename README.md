@@ -2,12 +2,9 @@
 
 ## My daily stand-ups
 
-### Wednesday
-
-    - ✅ SW - Release?
-    - Infosec - add moderators and communicate
-    - Infosec - send Tony link
-    - Infosec - look into  Deteric Bowles approvals and respond
+### Thursday
+    
+    - Sincerely Hitlon - meeting @ 9:30
     - Infosec - keep working on tests to shore up list of managements
     - Infosec - step2 - step3 poll for status
     
