@@ -16,7 +16,7 @@
     - Standups
     - Infosec - feedback from testing
     - Infosec - circle up with Devon
-    - Infosec - Director list bug
+    - Infosec - test view of managements?
     - Infosec - show erorr proir to finishing nomination (poll status)
     
     
