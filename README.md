@@ -2,14 +2,28 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Firday
     
-    - Sincerely Hitlon - meeting @ 9 AM
     - Infosec - keep working on tests to shore up list of managements
     - Infosec - step2 - step3 poll for status
+    
+### Next Week
+
+    - Vacation
+
+### Monday 10/19
+
+    - Standups
+    - Infosec - feedback from testing
+    - Infosec - circle up with Devon
+    - Infosec - Director list bug
+    - Infosec - show erorr proir to finishing nomination (poll status)
+    
     
 ### Priorities 
    
     - InfoSec
+        - Director list bug
+        - nominations - show erorr proir to finishing nomination (poll status)
     - File movement api call
     - Recurring Payments in Authorize
