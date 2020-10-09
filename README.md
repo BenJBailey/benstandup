@@ -2,15 +2,6 @@
 
 ## My daily stand-ups
 
-### Firday
-    
-    - Infosec - keep working on tests to shore up list of managements
-    - Infosec - step2 - step3 poll for status
-    
-### Next Week
-
-    - Vacation
-
 ### Monday 10/19
 
     - Standups
