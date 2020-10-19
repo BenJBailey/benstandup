@@ -2,20 +2,20 @@
 
 ## My daily stand-ups
 
-### Monday 10/19
+### Tuesday
 
-    - Standups
-    - Infosec - feedback from testing
-    - Infosec - circle up with Devon
-    - Infosec - test view of managements?
-    - Infosec - show erorr proir to finishing nomination (poll status)
-    - G&L - pre built goals
-    - RS - timeout reports
+    - Infosec - plan for meeting
+    - Infosec - meet
+    - Infosec - test error showing during step 3 on dev
+    - Infosec - deploy changes
+    - RS - timeout reports?
+    - G&L ?
     
 ### Priorities 
    
     - InfoSec
         - Director list bug
         - nominations - show erorr proir to finishing nomination (poll status)
+    - G&L - pre built goals
     - File movement api call
     - Recurring Payments in Authorize
