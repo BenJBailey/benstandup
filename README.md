@@ -5,8 +5,6 @@
 ### Tuesday
 
     - Infosec - deploy changes
-    - Infosec - remove rs email in message
-    - RS - timeout reports?
     - G&L ?
     
 ### Priorities 
