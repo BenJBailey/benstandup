@@ -4,10 +4,8 @@
 
 ### Tuesday
 
-    - Infosec - plan for meeting
-    - Infosec - meet
-    - Infosec - test error showing during step 3 on dev
     - Infosec - deploy changes
+    - Infosec - remove rs email in message
     - RS - timeout reports?
     - G&L ?
     
