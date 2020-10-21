@@ -2,16 +2,13 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-    - Infosec - deploy changes
     - G&L ?
     
 ### Priorities 
    
     - InfoSec
-        - Director list bug
-        - nominations - show erorr proir to finishing nomination (poll status)
     - G&L - pre built goals
     - File movement api call
     - Recurring Payments in Authorize
