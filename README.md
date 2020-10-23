@@ -2,9 +2,11 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Monday
 
-    - G&L ?
+    - Standup
+    - InfoSec feedback?
+    - G&L pre built goals
     
 ### Priorities 
    
