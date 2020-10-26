@@ -4,6 +4,7 @@
 
 ### Monday
 
+    - Handle Leimome's feedback
     - Standup
     - InfoSec feedback?
     - G&L pre built goals
