@@ -8,6 +8,9 @@
     - Standup
     - InfoSec feedback?
     - G&L pre built goals
+
+### Tuesday
+    - Check in with Said to figure out fixing calendar (get latest code).
     
 ### Priorities 
    
