@@ -2,15 +2,11 @@
 
 ## My daily stand-ups
 
-### Monday
+### Wednesday
 
-    - Handle Leimome's feedback
-    - Standup
-    - InfoSec feedback?
+    - move the g&l image selector to repo
     - G&L pre built goals
-
-### Tuesday
-    - Check in with Said to figure out fixing calendar (get latest code).
+    - InfoSec feedback?
     
 ### Priorities 
    
