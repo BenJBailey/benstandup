@@ -2,9 +2,10 @@
 
 ## My daily stand-ups
 
-### Wednesday
-
-    - move the g&l image selector to repo
+### Friday
+    
+    - weekly report
+    - fix asset tree
     - G&L pre built goals
     - InfoSec feedback?
     
