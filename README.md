@@ -9,6 +9,10 @@
     - G&L pre built goals
     - InfoSec feedback?
     
+### Monday
+
+    - InfoSec deploy?
+    
 ### Priorities 
    
     - InfoSec
