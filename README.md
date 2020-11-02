@@ -4,9 +4,16 @@
 
 ### Monday
 
+    - Test form changes/fixes for deploy tomorrow
     - InfoSec deploy?
     - G&L pre built goals
     - InfoSec feedback?
+    
+### Tuesday
+
+    - Prep for InfoSec Meetign
+    - Handle InfoSec feedback
+    - deploy form fixes
     
 ### Priorities 
    
