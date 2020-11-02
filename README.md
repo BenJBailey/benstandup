@@ -2,16 +2,11 @@
 
 ## My daily stand-ups
 
-### Friday
-    
-    - weekly report
-    - fix asset tree
-    - G&L pre built goals
-    - InfoSec feedback?
-    
 ### Monday
 
     - InfoSec deploy?
+    - G&L pre built goals
+    - InfoSec feedback?
     
 ### Priorities 
    
