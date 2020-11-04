@@ -2,13 +2,10 @@
 
 ## My daily stand-ups
     
-### Tuesday
+### Wednesday
 
-    - Prep for InfoSec Meeting
-    - InfoSec meeting
-    - Handle InfoSec feedback
-    - deploy form fixes
     - Goal content types
+    - Goal tags
     
 ### Priorities 
    
