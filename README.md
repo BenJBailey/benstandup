@@ -7,6 +7,10 @@
     - Goal content types
     - Goal tags
     
+### Thursday
+    
+    - Do something with Rising Star?
+
 ### Priorities 
    
     - InfoSec
