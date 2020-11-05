@@ -2,14 +2,11 @@
 
 ## My daily stand-ups
     
-### Wednesday
-
-    - Goal content types
-    - Goal tags
-    
 ### Thursday
     
-    - Do something with Rising Star?
+    - Rising Star estimate
+    - Goal content types
+    - Goal tags
 
 ### Priorities 
    
