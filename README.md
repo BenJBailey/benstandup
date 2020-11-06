@@ -2,9 +2,8 @@
 
 ## My daily stand-ups
     
-### Thursday
+### Friday
     
-    - Rising Star estimate
     - Goal content types
     - Goal tags
 
