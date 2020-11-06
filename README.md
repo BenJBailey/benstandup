@@ -2,10 +2,11 @@
 
 ## My daily stand-ups
     
-### Friday
+### Monday
     
-    - Goal content types
+    - Goal content types - figure out profile elements that have profileId 0 - siteId or different object
     - Goal tags
+    - InfoSec?
 
 ### Priorities 
    
