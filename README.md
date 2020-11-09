@@ -2,8 +2,11 @@
 
 ## My daily stand-ups
     
-### Monday
+### Tuesday
     
+    - Prep for InfoSec Meeting
+    - InfoSec Meeting
+    - InfoSec follow up
     - Goal content types - figure out profile elements that have profileId 0 - siteId or different object
     - Goal tags
     - InfoSec?
