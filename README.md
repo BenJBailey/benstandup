@@ -4,14 +4,13 @@
     
 ### Tuesday
     
-    - Prep for InfoSec Meeting
-    - InfoSec Meeting
+    - ✅ Prep for InfoSec Meeting
+    - ✅ InfoSec Meeting
     - InfoSec follow up
         - update Demetrai's instance
         - send Emin Link and description of access limitations
     - Goal content types - figure out profile elements that have profileId 0 - siteId or different object
     - Goal tags
-    - InfoSec?
     
     
 ### Wednesday
