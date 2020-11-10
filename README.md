@@ -16,6 +16,8 @@
     
 ### Wednesday
 
+    - InfoSec email
+
 ### Thursday
 
     - Infosec - look for feedback on documentation and handle along with other changes
