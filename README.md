@@ -4,8 +4,12 @@
     
 ### Wednesday
         
-    - InfoSec email
-    - Find where import is requiring password
+    - ✅ InfoSec email
+    - ✅ Find where import is requiring password
+    - Infosec icons?
+        - invert
+        - smaller
+        - new icon
     - Goal content types - figure out profile elements that have profileId 0 - siteId or different object
     - Goal tags
 
