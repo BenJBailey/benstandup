@@ -5,13 +5,15 @@
 ### Thursday
     
     - ✅ Deploy fix for profiles
-    - ??? Infosec - look for feedback on documentation and handle along with other changes
-    - ??? Infosec icons?
-        - invert
-        - smaller
-        - new icon
+    - ✅ Review InfoSec feedback
+    - Password change for import
     - Goal content types - figure out profile elements that have profileId 0 - siteId or different object
     - Goal tags
+    
+### Friday
+
+    - Weekly Report
+    - Goals
 
 ### Priorities 
    
