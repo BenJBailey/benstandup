@@ -4,9 +4,9 @@
 
 ### Thursday
     
-    - Deploy fix for profiles
-    - Infosec - look for feedback on documentation and handle along with other changes
-    - Infosec icons?
+    - ✅ Deploy fix for profiles
+    - ??? Infosec - look for feedback on documentation and handle along with other changes
+    - ??? Infosec icons?
         - invert
         - smaller
         - new icon
