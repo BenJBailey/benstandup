@@ -12,6 +12,7 @@
     
 ### Friday
 
+    - Deploy profile password import change
     - Weekly Report
     - Goals
 
