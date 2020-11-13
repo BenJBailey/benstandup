@@ -2,19 +2,19 @@
 
 ## My daily stand-ups
 
-### Thursday
-    
-    - ✅ Deploy fix for profiles
-    - ✅ Review InfoSec feedback
-    - Password change for import
-    - Goal content types - figure out profile elements that have profileId 0 - siteId or different object
-    - Goal tags
-    
 ### Friday
 
     - Deploy profile password import change
     - Weekly Report
-    - Goals
+    - Goals - content
+    - Goals - tags
+
+### Monday
+
+    - https://projects.madebyspeak.com/#/tasks/17060982
+    - Stand ups
+    - InfoSec - meet and figure out priorities
+    - Root query string
 
 ### Priorities 
    
