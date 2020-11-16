@@ -2,13 +2,6 @@
 
 ## My daily stand-ups
 
-### Friday
-
-    - Deploy profile password import change
-    - Weekly Report
-    - Goals - content
-    - Goals - tags
-
 ### Monday
 
     - https://projects.madebyspeak.com/#/tasks/17060982
