@@ -2,12 +2,12 @@
 
 ## My daily stand-ups
 
-### Monday
+### Tuesday
 
     - https://projects.madebyspeak.com/#/tasks/17060982
-    - Stand ups
-    - InfoSec - meet and figure out priorities
+    - InfoSec - meeting
     - Root query string
+    - G&L 
 
 ### Priorities 
    
