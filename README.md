@@ -2,12 +2,14 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-    - https://projects.madebyspeak.com/#/tasks/17060982
-    - InfoSec - meeting
     - Root query string
     - G&L 
+    
+### Thursday
+
+    - InfoSec Icon changes
 
 ### Priorities 
    
