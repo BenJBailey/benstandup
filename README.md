@@ -4,8 +4,11 @@
 
 ### Wednesday
 
-    - Root query string
+    - Root
+      - clean up templates
     - G&L 
+      - other content
+      - tags
     
 ### Thursday
 
