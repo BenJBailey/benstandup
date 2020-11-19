@@ -2,17 +2,21 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Thursday
 
-    - Root
-      - clean up templates
     - G&L 
       - other content
       - tags
     
-### Thursday
+### Friday
 
-    - InfoSec Icon changes
+    - Weekly Update
+    
+### Monday
+
+### Teusday
+
+    - FedEx RS Meeting
 
 ### Priorities 
    
