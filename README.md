@@ -2,15 +2,14 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Friday
 
+    - Week update
+    - InfoSec - landing page
+    - InfoSec - icons ?
     - G&L 
       - other content
       - tags
-    
-### Friday
-
-    - Weekly Update
     
 ### Monday
 
