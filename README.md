@@ -2,20 +2,18 @@
 
 ## My daily stand-ups
 
-### Friday
+### Monday
 
-    - Week update
     - InfoSec - landing page
     - InfoSec - icons ?
     - G&L 
       - other content
       - tags
-    
-### Monday
 
 ### Teusday
 
-    - FedEx RS Meeting
+    - MS Foodbank launch
+    - FedEx RS Meeting?
 
 ### Priorities 
    
