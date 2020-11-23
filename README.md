@@ -10,8 +10,9 @@
       - other content
       - tags
 
-### Teusday
+### Tuesday
 
+    - Meet with InfoSec about landing page?
     - MS Foodbank launch
     - FedEx RS Meeting?
 
