@@ -12,6 +12,7 @@
 
 ### Tuesday
 
+    - Deploy fix for people import
     - Meet with InfoSec about landing page?
     - MS Foodbank launch
     - FedEx RS Meeting?
