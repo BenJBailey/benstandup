@@ -2,20 +2,17 @@
 
 ## My daily stand-ups
 
-### Monday
-
-    - InfoSec - landing page
-    - InfoSec - icons ?
-    - G&L 
-      - other content
-      - tags
-
 ### Tuesday
 
+    - If Grant still wants to meet, setup meeting
     - Deploy fix for people import
     - Meet with InfoSec about landing page?
     - MS Foodbank launch
     - FedEx RS Meeting?
+    - InfoSec - icons ?
+    - G&L 
+      - other content
+      - tags
 
 ### Priorities 
    
