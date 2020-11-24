@@ -14,6 +14,14 @@
       - other content
       - tags
 
+### Wednesday
+    
+    - InfoSec changes for landing
+    - InfoSec icon color changes?
+    - G&L 
+      - other content
+      - tags
+    
 ### Monday - 11/30
 
     - Get Rising Star estimate + summary of old maitenance agreement
