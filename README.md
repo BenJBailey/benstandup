@@ -4,11 +4,10 @@
 
 ### Tuesday
 
-    - If Grant still wants to meet, setup meeting
     - Deploy fix for people import
     - Meet with InfoSec about landing page?
     - MS Foodbank launch
-    - FedEx RS Meeting?
+    - FedEx RS Meeting
     - InfoSec - icons ?
     - G&L 
       - other content
