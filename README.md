@@ -14,6 +14,10 @@
       - other content
       - tags
 
+### Monday - 11/30
+
+    - Get Rising Star estimate + summary of old maitenance agreement
+    
 ### Priorities 
    
     - InfoSec
