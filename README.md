@@ -4,11 +4,12 @@
 
 ### Tuesday
 
-    - Deploy fix for people import
-    - Meet with InfoSec about landing page?
-    - MS Foodbank launch
+    - ✅ Deploy fix for people import
+    - ✅ Meet with InfoSec about landing page?
+    - ✅ MS Foodbank launch
+    - InfoSec - icons
+    - InfoSec - landing page images
     - FedEx RS Meeting
-    - InfoSec - icons ?
     - G&L 
       - other content
       - tags
