@@ -7,7 +7,7 @@
     
     - ✅ Standups
     - ✅ Discuss seamenschurch archive estimate
-    - Send Rising Star estimate + summary of old maitenance agreement
+    - ✅ Send Rising Star estimate + summary of old maitenance agreement to Roberts
     - ✅ Update InfoSec sitefiles in dev
     - G&L
       - other content
