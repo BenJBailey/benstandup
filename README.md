@@ -5,10 +5,10 @@
 ### Monday - 11/30
 
     
-    - Standups
-    - Discuss seamenschurch archive estimate
+    - ✅ Standups
+    - ✅ Discuss seamenschurch archive estimate
     - Send Rising Star estimate + summary of old maitenance agreement
-    - Update InfoSec sitefiles in dev
+    - ✅ Update InfoSec sitefiles in dev
     - G&L
       - other content
       - tags
