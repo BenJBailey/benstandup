@@ -15,10 +15,13 @@
       
 ### Tuesday
 
+    - InfoSec - Prep for admin training
 
 ### Wednesday
 
-    - InfoSec - Prep for demo for Telesa
+    - InfoSec - 8:30 AM - admin training
+    - InfoSec - Prep for demo for Teleesa
+    - InfoSec - 1 PM - Meeting with Teleesa
     
 ### Priorities 
    
