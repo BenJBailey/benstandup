@@ -2,29 +2,14 @@
 
 ## My daily stand-ups
 
-### Tuesday
-
-    - ✅ Deploy fix for people import
-    - ✅ Meet with InfoSec about landing page?
-    - ✅ MS Foodbank launch
-    - InfoSec - icons
-    - InfoSec - landing page images
-    - FedEx RS Meeting
-    - G&L 
-      - other content
-      - tags
-
-### Wednesday
-    
-    - InfoSec changes for landing
-    - InfoSec icon color changes?
-    - G&L 
-      - other content
-      - tags
-    
 ### Monday - 11/30
 
-    - Get Rising Star estimate + summary of old maitenance agreement
+    - Send Rising Star estimate + summary of old maitenance agreement
+    - Send InfoSec update on icon colors
+    - Standups
+    - G&L
+      - other content
+      - tags
     
 ### Priorities 
    
