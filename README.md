@@ -5,8 +5,7 @@
 ### Monday - 11/30
 
     - Send Rising Star estimate + summary of old maitenance agreement
-    - Compare InfoSec browsers
-    - Send InfoSec update on icon colors
+    - Update InfoSec sitefiles in dev
     - Standups
     - G&L
       - other content
