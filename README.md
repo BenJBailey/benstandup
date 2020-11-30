@@ -10,6 +10,13 @@
     - G&L
       - other content
       - tags
+      
+### Tuesday
+
+
+### Wednesday
+
+    - InfoSec - Prep for demo for Telesa
     
 ### Priorities 
    
