@@ -14,6 +14,7 @@
     - InfoSec - 8:30 AM - admin training
     - InfoSec - Prep for demo for Teleesa
     - InfoSec - 1 PM - Meeting with Teleesa
+    - InfoSec - plan for deploy to prod?
     - G&L
       - other content
       - tags
