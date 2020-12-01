@@ -9,12 +9,12 @@
     - ✅ Discuss seamenschurch archive estimate
     - ✅ Send Rising Star estimate + summary of old maitenance agreement to Roberts
     - ✅ Update InfoSec sitefiles in dev
+ 
+      
+### Tuesday
     - G&L
       - other content
       - tags
-      
-### Tuesday
-
     - InfoSec - Prep for admin training
 
 ### Wednesday
