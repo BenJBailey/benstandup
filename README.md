@@ -15,9 +15,10 @@
     - InfoSec - Prep for demo for Teleesa
     - InfoSec - 1 PM - Meeting with Teleesa
     - InfoSec - plan for deploy to prod?
-    - G&L
-      - other content
-      - tags
+    - InfoSec - landing page?
+    - G&L - Discuss ElementGuids w/Grayson
+    - G&L - Calendar events
+    - G&L - tags
     
 ### Priorities 
    
