@@ -6,14 +6,17 @@
     - G&L
       - other content
       - tags
-    - InfoSec - make changes to homepage per updates
-    - InfoSec - Prep for admin training
+    - ✅ InfoSec - make changes to homepage per updates
+    - ✅ InfoSec - Prep for admin training
 
 ### Wednesday
 
     - InfoSec - 8:30 AM - admin training
     - InfoSec - Prep for demo for Teleesa
     - InfoSec - 1 PM - Meeting with Teleesa
+    - G&L
+      - other content
+      - tags
     
 ### Priorities 
    
