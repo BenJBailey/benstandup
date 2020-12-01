@@ -16,6 +16,7 @@
     - InfoSec - 1 PM - Meeting with Teleesa
     - InfoSec - plan for deploy to prod?
     - InfoSec - landing page?
+    - Discuss SW Network with Grayson
     - G&L - Discuss ElementGuids w/Grayson
     - G&L - Calendar events
     - G&L - tags
