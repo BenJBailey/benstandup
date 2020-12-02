@@ -2,13 +2,6 @@
 
 ## My daily stand-ups
       
-### Tuesday
-    - G&L
-      - other content
-      - tags
-    - ✅ InfoSec - make changes to homepage per updates
-    - ✅ InfoSec - Prep for admin training
-
 ### Wednesday
 
     - InfoSec - 8:30 AM - admin training
