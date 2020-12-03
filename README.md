@@ -4,13 +4,16 @@
       
 ### Thursday
 
-    - InfoSec - deploy
-    - G&L - Discuss ElementGuids w/Grayson
+    - ✅ InfoSec - deploy
+    - InfoSec - live homepage
+    - InfoSec - prep for meeting tomorrow
+    - Log store stuffs
     - G&L - Calendar events
     - G&L - tags
     
 ### Friday
 
+    - weekly report
     - 9 Am - InfoSec Demo with Teleesa and Demetria
     
 ### Monday
