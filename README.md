@@ -2,18 +2,14 @@
 
 ## My daily stand-ups
       
-### Thursday
-
-    - ✅ InfoSec - deploy
-    - InfoSec/RS test/deploy fix
-    - InfoSec - live homepage
-    - InfoSec - prep for meeting tomorrow
-    - Log store stuffs
-    - G&L - Calendar events
-    - G&L - tags
-    
 ### Friday
 
+    - InfoSec - prod landing page homepage
+    - InfoSec - prep for meeting
+    - InfoSec - setup all content for page part for launch
+    - Log store checkout errors
+    - G&L - Calendar events
+    - G&L - tags
     - weekly report
     - 9 Am - InfoSec Demo with Teleesa and Demetria
     
