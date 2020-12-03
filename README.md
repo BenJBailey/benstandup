@@ -5,6 +5,7 @@
 ### Thursday
 
     - ✅ InfoSec - deploy
+    - InfoSec/RS test/deploy fix
     - InfoSec - live homepage
     - InfoSec - prep for meeting tomorrow
     - Log store stuffs
