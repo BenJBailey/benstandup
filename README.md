@@ -2,17 +2,22 @@
 
 ## My daily stand-ups
       
-### Wednesday
+### Thursday
 
-    - InfoSec - 8:30 AM - admin training
-    - InfoSec - Prep for demo for Teleesa
-    - InfoSec - 1 PM - Meeting with Teleesa
-    - InfoSec - plan for deploy to prod?
-    - InfoSec - landing page?
-    - Discuss SW Network with Grayson
+    - InfoSec - deploy
     - G&L - Discuss ElementGuids w/Grayson
     - G&L - Calendar events
     - G&L - tags
+    
+### Friday
+
+    - 9 Am - InfoSec Demo with Teleesa and Demetria
+    
+### Monday
+
+    - Stand ups  
+    - Staff Meeting
+    - Delete Matrix values for deleted fields script
     
 ### Priorities 
    
