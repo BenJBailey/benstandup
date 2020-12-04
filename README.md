@@ -5,7 +5,8 @@
 ### Friday
 
     - ✅ InfoSec - prod landing page homepage
-    - InfoSec - prep for meeting
+    - ✅ InfoSec - prep for meeting
+    - InfoSec - feedback from meeting
     - InfoSec - see why you can't nominate as Leimome or Myself
     - InfoSec - setup all content for page part for launch
       - messages
