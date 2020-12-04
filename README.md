@@ -4,9 +4,12 @@
       
 ### Friday
 
-    - InfoSec - prod landing page homepage
+    - ✅ InfoSec - prod landing page homepage
     - InfoSec - prep for meeting
     - InfoSec - setup all content for page part for launch
+      - messages
+      - next quarter  
+    - InfoSec - figure out how to train on current milestone for landing page
     - Log store checkout errors
     - G&L - Calendar events
     - G&L - tags
