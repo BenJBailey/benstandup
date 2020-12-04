@@ -6,6 +6,7 @@
 
     - ✅ InfoSec - prod landing page homepage
     - InfoSec - prep for meeting
+    - InfoSec - see why you can't nominate as Leimome or Myself
     - InfoSec - setup all content for page part for launch
       - messages
       - next quarter  
