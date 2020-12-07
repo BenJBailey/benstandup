@@ -1,13 +1,12 @@
 # ![me](https://avatars2.githubusercontent.com/u/5232044?s=50&v=4) ben's stand up
 
 ## My daily stand-ups
-      
-### Friday
+     
+### Monday
 
-    - ✅ InfoSec - prod landing page homepage
-    - ✅ InfoSec - prep for meeting
+    - Stand ups  
+    - look into recaptcha problems
     - InfoSec - feedback from meeting
-    - InfoSec - see why you can't nominate as Leimome or Myself
     - InfoSec - setup all content for page part for launch
       - messages
       - next quarter  
@@ -15,12 +14,6 @@
     - Log store checkout errors
     - G&L - Calendar events
     - G&L - tags
-    - weekly report
-    - 9 Am - InfoSec Demo with Teleesa and Demetria
-    
-### Monday
-
-    - Stand ups  
     - Staff Meeting
     - Delete Matrix values for deleted fields script
     
