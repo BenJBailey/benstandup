@@ -10,6 +10,7 @@
     - InfoSec - setup all content for page part for launch
       - messages
       - next quarter  
+    - InfoSec - make sure everyone to have admin access has it.
     - InfoSec - figure out how to train on current milestone for landing page
     - Log store checkout errors
     - G&L - Calendar events
