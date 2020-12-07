@@ -2,16 +2,12 @@
 
 ## My daily stand-ups
      
-### Monday
-
-    - ✅ Stand ups  
-    - look into recaptcha problems
-    - ✅ InfoSec - feedback from meeting
-    - ✅ InfoSec - setup all content for page part for launch
-      - ✅ messages
-      - ✅ next quarter  
-    - ✅ InfoSec - make sure everyone to have admin access has it.
-    - ✅ InfoSec - figure out how to train on current milestone for landing page
+### Tuesday
+     
+    - InfoSec meeting
+    - InfoSec launch items
+          - update PDF on site
+          - make sure message is correct on site.
     - Log store checkout errors
     - G&L - Calendar events
     - G&L - tags
