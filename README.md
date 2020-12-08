@@ -4,14 +4,13 @@
      
 ### Tuesday
      
-    - InfoSec meeting
+    - ✅ InfoSec meeting
     - ✅ InfoSec launch items
           - ✅ update PDF on site
           - ✅ make sure message is correct on site.
     - ✅  Log store checkout errors
     - G&L - Calendar events
     - G&L - tags
-    - Staff Meeting
     - Delete Matrix values for deleted fields script
     
 ### Priorities 
