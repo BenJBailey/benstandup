@@ -2,13 +2,10 @@
 
 ## My daily stand-ups
      
-### Tuesday
-     
-    - ✅ InfoSec meeting
-    - ✅ InfoSec launch items
-          - ✅ update PDF on site
-          - ✅ make sure message is correct on site.
-    - ✅  Log store checkout errors
+### Wednesday
+
+    - Log reCaptcha errors in context of app
+    - Log G&L time
     - G&L - Calendar events
     - G&L - tags
     - Delete Matrix values for deleted fields script
