@@ -8,7 +8,7 @@
     - ✅ InfoSec launch items
           - ✅ update PDF on site
           - ✅ make sure message is correct on site.
-    - Log store checkout errors
+    - ✅  Log store checkout errors
     - G&L - Calendar events
     - G&L - tags
     - Staff Meeting
