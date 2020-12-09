@@ -5,7 +5,6 @@
 ### Wednesday
 
     - Log reCaptcha errors in context of app
-    - Log G&L time
     - G&L - Calendar events
     - G&L - tags
     - Delete Matrix values for deleted fields script
