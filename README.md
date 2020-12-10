@@ -2,9 +2,12 @@
 
 ## My daily stand-ups
      
-### Wednesday
+### Thursday
 
-    - Log reCaptcha errors in context of app
+    - reCaptcha
+     - update to v3
+     - log all the things
+     - different keys for different env
     - G&L - Calendar events
     - G&L - tags
     - Delete Matrix values for deleted fields script
