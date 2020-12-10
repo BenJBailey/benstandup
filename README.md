@@ -2,12 +2,14 @@
 
 ## My daily stand-ups
      
-### Thursday
+### Friday
 
+    - Weekly Report 
+    - fix http://mvagc.rfbeta.com/ deploy
+    - test import for Spectracel
     - reCaptcha
-     - update to v3
-     - log all the things
-     - different keys for different env
+     - test v3
+     - finish docs
     - G&L - Calendar events
     - G&L - tags
     - Delete Matrix values for deleted fields script
