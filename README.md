@@ -5,8 +5,8 @@
 ### Friday
 
     - Weekly Report 
-    - fix http://mvagc.rfbeta.com/ deploy
-    - test import for Spectracel
+    - ✅ fix http://mvagc.rfbeta.com/ deploy
+    - ✅ test import for Spectracel
     - reCaptcha
      - test v3
      - finish docs
