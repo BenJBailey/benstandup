@@ -2,14 +2,13 @@
 
 ## My daily stand-ups
      
-### Friday
-
-    - Weekly Report 
-    - ✅ fix http://mvagc.rfbeta.com/ deploy
-    - ✅ test import for Spectracel
+### Monday
+    
+    - Look @ Profile page bug (confirm it's unique)
+    - Standups
+    - InfoSec meeting prep?
     - reCaptcha
-     - test v3
-     - finish docs
+     - test/deploy v3
     - G&L - Calendar events
     - G&L - tags
     - Delete Matrix values for deleted fields script
