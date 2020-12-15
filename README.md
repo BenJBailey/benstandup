@@ -2,11 +2,10 @@
 
 ## My daily stand-ups
      
-### Monday
+### Tuesday
     
-    - Look @ Profile page bug (confirm it's unique)
-    - Standups
-    - InfoSec meeting prep?
+    - Fix profile script and deploy
+    - InfoSec changes
     - reCaptcha
      - test/deploy v3
     - G&L - Calendar events
