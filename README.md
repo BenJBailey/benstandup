@@ -4,10 +4,9 @@
      
 ### Tuesday
     
-    - Fix profile script and deploy
-    - InfoSec changes
-    - reCaptcha
-     - test/deploy v3
+    - ✅ Fix profile script and deploy
+    - ✅ InfoSec changes
+    - ✅ reCaptcha
     - G&L - Calendar events
     - G&L - tags
     - Delete Matrix values for deleted fields script
