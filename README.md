@@ -2,18 +2,16 @@
 
 ## My daily stand-ups
      
-### Tuesday
+### Wednesday
     
-    - ✅ Fix profile script and deploy
-    - ✅ InfoSec changes
-    - ✅ reCaptcha
-    - G&L - Calendar events
+    - Profile SQL optimization
+    - Look @ Logged ReCaptcha errors (and respond?)
     - G&L - tags
-    - Delete Matrix values for deleted fields script
+    - G&L - font in admin
     
 ### Priorities 
    
-    - InfoSec
     - G&L - pre built goals
     - File movement api call
+    - Delete Matrix values for deleted fields script
     - Recurring Payments in Authorize
