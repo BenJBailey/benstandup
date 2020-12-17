@@ -2,10 +2,9 @@
 
 ## My daily stand-ups
      
-### Wednesday
-    
-    - Profile SQL optimization
-    - Look @ Logged ReCaptcha errors (and respond?)
+### Thursday
+
+    - Finish recaptcha refset and test and deploy?
     - G&L - tags
     - G&L - font in admin
     
