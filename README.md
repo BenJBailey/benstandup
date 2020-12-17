@@ -2,11 +2,31 @@
 
 ## My daily stand-ups
      
-### Thursday
+### Friday
 
-    - Finish recaptcha refset and test and deploy?
+    - Meet with Matt
+    - Help with rocketfuel item
+    - Weekly Report
+    - Test ReCaptcha changes
+
+### Monday
+
+    - Out 🎄
+
+### Tuesday
+
     - G&L - tags
     - G&L - font in admin
+    
+### Wednesday
+
+### Thursday
+
+    - Out 🎄
+    
+### Friday
+
+    - Out 🎄
     
 ### Priorities 
    
