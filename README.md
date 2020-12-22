@@ -1,15 +1,11 @@
 # ![me](https://avatars2.githubusercontent.com/u/5232044?s=50&v=4) ben's stand up
 
 ## My daily stand-ups
-     
-
-### Tuesday
-
-    - ✅ ReCaptcha update - Fix Donations 
-    - G&L - tags
-    - G&L - font in admin
     
 ### Wednesday
+
+   - G&L - fix tags to load when siteTags changes
+   - G&L - figure out admin image
 
 ### Thursday
 
@@ -18,6 +14,10 @@
 ### Friday
 
     - Out 🎄
+
+### Monday
+  
+    - Figure out deploying Google ReCaptcha changes
     
 ### Priorities 
    
