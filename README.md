@@ -2,19 +2,11 @@
 
 ## My daily stand-ups
      
-### Friday
-
-    - Meet with Matt
-    - Help with rocketfuel item
-    - Weekly Report
-    - Test ReCaptcha changes
-
-### Monday
-
-    - Out 🎄
 
 ### Tuesday
 
+    - ReCaptcha update - Fix Donations 
+    - 10:30 AM - Commercial Filter meeting
     - G&L - tags
     - G&L - font in admin
     
