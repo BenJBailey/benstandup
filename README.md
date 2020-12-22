@@ -5,8 +5,7 @@
 
 ### Tuesday
 
-    - ReCaptcha update - Fix Donations 
-    - 10:30 AM - Commercial Filter meeting
+    - ✅ ReCaptcha update - Fix Donations 
     - G&L - tags
     - G&L - font in admin
     
