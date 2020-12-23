@@ -4,8 +4,10 @@
     
 ### Wednesday
 
-   - G&L - fix tags to load when siteTags changes
-   - G&L - figure out admin image
+   - ✅ G&L - fix tags to load when siteTags changes
+   - ✅ G&L - figure out admin image
+   - ✅ File movement api call
+   - Recurring Payments in Authorize
 
 ### Thursday
 
