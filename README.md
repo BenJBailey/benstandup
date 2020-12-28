@@ -7,7 +7,9 @@
     - Figure out deploying Google ReCaptcha changes
     - G&L - test in dev
     - Root Calendar task
-    - Memphis zoo item for exhibits
+      - estimate https://projects.madebyspeak.com/#/tasks/17238339
+      - do https://projects.madebyspeak.com/#/tasks/17238311
+    - Discuss exhibits item with Grayson
     - SW network
     - Recurring Payments in Authorize
     
