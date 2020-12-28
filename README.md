@@ -2,21 +2,11 @@
 
 ## My daily stand-ups
 
-### Monday
-  
-    - ✅ Release Google ReCaptcha changes
-    - ✅ G&L - test in dev
-    - Root Calendar task
-      - estimate https://projects.madebyspeak.com/#/tasks/17238339
-      - ✅ do https://projects.madebyspeak.com/#/tasks/17238311
-    - ✅ Discuss exhibits item with Grayson
-    - Recurring Payments in Authorize
-    
 ### Tuesday
 
-    - Fix Matrix import
+    - test Matrix import (deploy?)
     - Look into ReCaptcha failures
-    - Recurring Pyament in Authorize.net - notification email failure fix
+    - Recurring Payment in Authorize.net - notification email failure fix
     - Root Calendar testing/deploy?
     
 ### Priorities 
