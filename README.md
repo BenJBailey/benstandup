@@ -6,6 +6,9 @@
   
     - Figure out deploying Google ReCaptcha changes
     - G&L - test in dev
+    - Root Calendar task
+    - Memphis zoo item for exhibits
+    - SW network
     - Recurring Payments in Authorize
     
 ### Priorities 
