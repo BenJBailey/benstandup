@@ -10,12 +10,17 @@
       - estimate https://projects.madebyspeak.com/#/tasks/17238339
       - ✅ do https://projects.madebyspeak.com/#/tasks/17238311
     - ✅ Discuss exhibits item with Grayson
-    - SW network
     - Recurring Payments in Authorize
+    
+### Tuesday
+
+    - Fix Matrix import
+    - Look into ReCaptcha failures
+    - Recurring Pyament in Authorize.net - notification email failure fix
+    - Root Calendar testing/deploy?
     
 ### Priorities 
    
-    - G&L - pre built goals
-    - File movement api call
-    - Delete Matrix values for deleted fields script
+    - Root Calendar items
     - Recurring Payments in Authorize
+    - Delete Matrix values for deleted fields script
