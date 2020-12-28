@@ -5,10 +5,10 @@
 ### Monday
   
     - ✅ Release Google ReCaptcha changes
-    - G&L - test in dev
+    - ✅ G&L - test in dev
     - Root Calendar task
       - estimate https://projects.madebyspeak.com/#/tasks/17238339
-      - do https://projects.madebyspeak.com/#/tasks/17238311
+      - ✅ do https://projects.madebyspeak.com/#/tasks/17238311
     - ✅ Discuss exhibits item with Grayson
     - SW network
     - Recurring Payments in Authorize
