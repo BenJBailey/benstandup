@@ -4,7 +4,8 @@
 
 ### Monday
   
-    - Figure out deploying Google ReCaptcha changes
+    - Release Google ReCaptcha changes
+    - Version profile tags and release
     - G&L - test in dev
     - Root Calendar task
       - estimate https://projects.madebyspeak.com/#/tasks/17238339
