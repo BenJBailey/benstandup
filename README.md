@@ -4,8 +4,8 @@
 
 ### Monday
   
-   - Figure out deploying Google ReCaptcha changes
-   - Recurring Payments in Authorize
+    - Figure out deploying Google ReCaptcha changes
+    - Recurring Payments in Authorize
     
 ### Priorities 
    
