@@ -5,6 +5,7 @@
 ### Monday
   
     - Figure out deploying Google ReCaptcha changes
+    - G&L - test in dev
     - Recurring Payments in Authorize
     
 ### Priorities 
