@@ -4,10 +4,10 @@
 
 ### Tuesday
 
-    - test Matrix import (deploy?)
-    - Look into ReCaptcha failures
+    - ✅ test Matrix import (deploy?)
+    - ✅ Look into ReCaptcha failures
     - Recurring Payment in Authorize.net - notification email failure fix
-    - Root Calendar testing/deploy?
+    - ✅ Root Calendar testing/deploy?
     
 ### Priorities 
    
