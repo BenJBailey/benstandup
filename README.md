@@ -4,13 +4,15 @@
 
 ### Wednesday
 
-    - Read over the [Edge Doc](https://docs.google.com/document/d/1RbbRqv5cIJmvR6rSzk6BtqZ-TIN9nRlLTDjM7e4_m7A/edit?ts=5feb8532)
-    - 7:30 Meet about Edge
-    - 8:00 Meet about Authorize.net issue (see Bear notes)
-    - ?
+    - ✅ Read over the [Edge Doc](https://docs.google.com/document/d/1RbbRqv5cIJmvR6rSzk6BtqZ-TIN9nRlLTDjM7e4_m7A/edit?ts=5feb8532)
+    - ✅ 7:30 Meet about Edge
+    - ✅ 8:00 Meet about Authorize.net issue (see Bear notes)
+    - beacon api
     
 ### Priorities 
    
-    - Root Calendar items
+    - Root Calendar items (upon approval)
+    - beacon api
+    - ReCaptcha - disable buttons till ready
     - Recurring Payments in Authorize
     - Delete Matrix values for deleted fields script
