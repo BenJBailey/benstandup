@@ -2,13 +2,16 @@
 
 ## My daily stand-ups
 
-### Thursday
-
+### Monday
+   
+    - plan for speak week
+    - ReCaptcha waiting
+    - ReCurring payments in Authorize?
     - beacon api
     
 ### Priorities 
    
-    - Root Calendar items (upon approval)
+    - Root Calendar item (upon paymnet)
     - beacon api
     - ReCaptcha - disable buttons till ready
     - Recurring Payments in Authorize
