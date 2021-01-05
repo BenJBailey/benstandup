@@ -2,12 +2,11 @@
 
 ## My daily stand-ups
 
-### Monday
+### Whenever
    
-    - plan for speak week
+    - Docs restructuring
     - ReCaptcha waiting
     - ReCurring payments in Authorize?
-    - beacon api
     
 ### Priorities 
    
