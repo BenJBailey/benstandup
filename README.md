@@ -4,6 +4,7 @@
 
 ### Whenever
    
+    - Shrink the repo
     - InfoSec - emails go out too often
     - Docs restructuring
     - ReCaptcha waiting
