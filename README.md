@@ -4,6 +4,7 @@
 
 ### Whenever
    
+    - InfoSec - emails go out too often
     - Docs restructuring
     - ReCaptcha waiting
     - ReCurring payments in Authorize?
