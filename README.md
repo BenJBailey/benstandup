@@ -4,9 +4,12 @@
 
 ### Whenever
    
+
     - Shrink the repo
     - InfoSec - emails go out too often
     - Trim the fat on global styles
+    - SW Network Admin
+    - SW Network Content
     - Docs restructuring
     - ReCaptcha waiting
     - ReCurring payments in Authorize?
