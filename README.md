@@ -6,6 +6,7 @@
    
     - Shrink the repo
     - InfoSec - emails go out too often
+    - Trim the fat on global styles
     - Docs restructuring
     - ReCaptcha waiting
     - ReCurring payments in Authorize?
