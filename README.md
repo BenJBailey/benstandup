@@ -4,7 +4,9 @@
 
 ### Monday
    
-    - InfoSec - emails go out too often
+    - ✅ InfoSec - emails go out too often
+    - deploy stuff to :Sw:
+    - Get G&L content on the up and up
     - Shrink the repo
     - SW Network Admin
     - SW Network Content
