@@ -2,15 +2,14 @@
 
 ## My daily stand-ups
 
-### Whenever
+### Monday
    
-
-    - Shrink the repo
     - InfoSec - emails go out too often
-    - Trim the fat on global styles
+    - Shrink the repo
     - SW Network Admin
     - SW Network Content
     - Docs restructuring
+    - Trim the fat on global styles
     - ReCaptcha waiting
     - ReCurring payments in Authorize?
     
