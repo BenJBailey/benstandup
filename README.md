@@ -2,14 +2,12 @@
 
 ## My daily stand-ups
 
-### Monday
-   
-    - ✅ InfoSec - emails go out too often
-    - deploy stuff to :Sw:
+
+### Tuesday
+
+    - G&L: get it going!
     - Shrink the repo
-    - Get G&L content on the up and up
-   
-    
+
 ### Priorities 
     
     - SW Network Admin
