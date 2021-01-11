@@ -6,6 +6,7 @@
 ### Tuesday
 
     - G&L: get it going!
+    - test and deploy recaptcha for ie 11
     - Shrink the repo
 
 ### Priorities 
