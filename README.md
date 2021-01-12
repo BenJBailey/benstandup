@@ -3,8 +3,9 @@
 ## My daily stand-ups
 
 
-### Tuesday
+### Wednesday
 
+    - Goals - fix admin bug
     - G&L: get it going!
     - Commercial filter
     - test and deploy recaptcha for ie 11
