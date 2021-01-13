@@ -8,6 +8,7 @@
     - Goals - fix admin bug
     - G&L: get it going!
     - Commercial filter
+    - Zapier connections with form
     - test and deploy recaptcha for ie 11
     - Shrink the repo
 
