@@ -3,14 +3,19 @@
 ## My daily stand-ups
 
 
-### Thursday
+### Friday
 
-    - Fix bug w/301 redirect
-    - Goals - fix bug with selecting folder
+    - Test bug w/301 redirect
     - Goals - fix bug with copying goals (list)
-    - Commercial filter
+    - Goals - fix bug with selecting folder
+    - Double check items for FedEx
     - Zapier connections with form
-    - test and deploy recaptcha for ie 11
+    
+### Monday
+
+    - Get G&L in FedEx dev?
+    - release 301 fix
+    - release goals fixes?
     - Shrink the repo
 
 ### Priorities 
