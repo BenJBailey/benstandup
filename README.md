@@ -3,10 +3,11 @@
 ## My daily stand-ups
 
 
-### Wednesday
+### Thursday
 
-    - Goals - fix admin bug
-    - G&L: get it going!
+    - Fix bug w/301 redirect
+    - Goals - fix bug with selecting folder
+    - Goals - fix bug with copying goals (list)
     - Commercial filter
     - Zapier connections with form
     - test and deploy recaptcha for ie 11
