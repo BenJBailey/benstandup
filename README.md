@@ -16,6 +16,7 @@
     - Get G&L in FedEx dev?
     - release 301 fix
     - release goals fixes?
+    - InfoSec release (fix is done, but not released)?
     - Shrink the repo
 
 ### Priorities 
