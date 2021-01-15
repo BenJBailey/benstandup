@@ -7,13 +7,13 @@
 
     - ✅ Test bug w/301 redirect
     - ✅ Goals - fix bug with copying goals (list)
-    - Goals - fix bug with selecting folder
-    - Double check items for FedEx
     - Zapier connections with form
     
 ### Monday
-
+    
+    - Double check items for FedEx
     - Get G&L in FedEx dev?
+    - Goals - fix bug with selecting folder
     - release 301 fix
     - release goals fixes?
     - InfoSec release (fix is done, but not released)?
