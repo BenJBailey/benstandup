@@ -11,7 +11,7 @@
 - release goals fixes? - fix/fedex-gandl-2020
 - Zapier connections with form
 - [InfoSec release (fix is done, but not released to fedex prod)](https://projects.madebyspeak.com/#/tasks/17626987)? 
-- [Shrink the repo](https://app.clickup.com/t/jh0dwt) - 
+- [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 
 ### Priorities 
     
