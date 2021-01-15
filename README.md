@@ -6,9 +6,9 @@
     
 - Double check items for FedEx
 - Get G&L in FedEx dev?
-- Goals - fix bug with selecting folder - fix/fedex-gandl-2020
+- Goals - fix bug with selecting folder - `fix/fedex-gandl-2020`
 - release [301 fix](https://app.clickup.com/t/juvdvq) - `fix/juvdvq-301-ampersand`
-- release goals fixes? - fix/fedex-gandl-2020
+- release goals fixes? - `fix/fedex-gandl-2020`
 - Zapier connections with form
 - [InfoSec release (fix is done, but not released to fedex prod)](https://projects.madebyspeak.com/#/tasks/17626987)? 
 - [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
