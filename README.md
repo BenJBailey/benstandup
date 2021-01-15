@@ -5,8 +5,8 @@
 
 ### Friday
 
-    - Test bug w/301 redirect
-    - Goals - fix bug with copying goals (list)
+    - ✅ Test bug w/301 redirect
+    - ✅ Goals - fix bug with copying goals (list)
     - Goals - fix bug with selecting folder
     - Double check items for FedEx
     - Zapier connections with form
