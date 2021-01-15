@@ -2,30 +2,23 @@
 
 ## My daily stand-ups
 
-
-### Friday
-
-    - ✅ Test bug w/301 redirect
-    - ✅ Goals - fix bug with copying goals (list)
-    - Zapier connections with form
-    
 ### Monday
     
-    - Double check items for FedEx
-    - Get G&L in FedEx dev?
-    - Goals - fix bug with selecting folder
-    - release 301 fix
-    - release goals fixes?
-    - InfoSec release (fix is done, but not released)?
-    - Shrink the repo
+- Double check items for FedEx
+- Get G&L in FedEx dev?
+- Goals - fix bug with selecting folder - fix/fedex-gandl-2020
+- release [301 fix](https://app.clickup.com/t/juvdvq) - `fix/juvdvq-301-ampersand`
+- release goals fixes? - fix/fedex-gandl-2020
+- Zapier connections with form
+- [InfoSec release (fix is done, but not released to fedex prod)](https://projects.madebyspeak.com/#/tasks/17626987)? 
+- [Shrink the repo](https://app.clickup.com/t/jh0dwt) - 
 
 ### Priorities 
     
-    - SW Network Admin
-    - SW Network Content
-    - Docs restructuring
-    - Trim the fat on global styles
-    - Root Calendar item (upon approval)
-    - ReCaptcha - disable buttons till ready
-    - Recurring Payments in Authorize
-    - Delete Matrix values for deleted fields script
+- [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
+- Docs restructuring
+- Trim the fat on global styles
+- [ReCaptcha - disable buttons till ready](https://projects.madebyspeak.com/#/tasks/17598281)
+- [Recurring Payments in Authorize](https://projects.madebyspeak.com/#/tasks/16411534)
+- Delete Matrix values for deleted fields script
