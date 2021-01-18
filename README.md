@@ -12,7 +12,7 @@
 - [X] release [301 fix](https://app.clickup.com/t/juvdvq) - `fix/juvdvq-301-ampersand`
 - [X] release goals fixes? - `fix/fedex-gandl-2020`
 - [ ] once profile tag associations done - apply tag filter to GL suggested goals
-- [ ] Zapier connections with form
+- [ ] [Zapier connections with form](https://app.clickup.com/t/jz1tb3)
 - [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 
 ### Priorities 
