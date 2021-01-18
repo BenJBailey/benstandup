@@ -5,8 +5,10 @@
 ### Monday
     
 - [X] Double check items for FedEx
-- [ ] Communicate left-over items for G&L
+- [X] Communicate left-over items for G&L
 - [X] Goals - fix bug with selecting folder - `fix/fedex-gandl-2020`
+- [ ] Profiles - test tags in profile in matrix
+- [ ] Profiles - test association of tags with profile
 - [ ] release [301 fix](https://app.clickup.com/t/juvdvq) - `fix/juvdvq-301-ampersand`
 - [ ] release goals fixes? - `fix/fedex-gandl-2020`
 - [ ] once profile tag associations done - apply tag filter to GL suggested goals
