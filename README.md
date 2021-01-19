@@ -4,7 +4,7 @@
 
 ### Tuesday
 
--  [ ] Fix dev
+-  [X] Fix dev
 -  [ ] Release - [Zapier connections with form](https://app.clickup.com/t/jz1tb3) - `fix/jz1tb3-form-webhook-failure`
 -  [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 -  [ ] Help Nikki clean up goals
