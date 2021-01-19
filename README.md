@@ -5,8 +5,8 @@
 ### Tuesday
 
 -  [X] Fix dev
--  [ ] Release - [Zapier connections with form](https://app.clickup.com/t/jz1tb3) - `fix/jz1tb3-form-webhook-failure`
--  [ ] Fix 301s import
+-  [X] Release - [Zapier connections with form](https://app.clickup.com/t/jz1tb3) - `fix/jz1tb3-form-webhook-failure`
+-  [X] Fix 301s import
 -  [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 -  [ ] Help Nikki clean up goals
 -  [ ] Tell Ervin when G&L is ready for approval
