@@ -2,15 +2,13 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
--  [X] Fix dev
--  [X] Release - [Zapier connections with form](https://app.clickup.com/t/jz1tb3) - `fix/jz1tb3-form-webhook-failure`
--  [X] Fix 301s import
--  [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
--  [ ] Help Nikki clean up goals
--  [ ] Tell Ervin when G&L is ready for approval
--  [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] Release fix for 301 import dup check - `fix/k12wtg-301-import`
+- [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
+- [ ] Help Nikki with whatever is left on G&L (if she works)
+- [ ] Tell Ervin when G&L is ready for approval
+- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
     
