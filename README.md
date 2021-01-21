@@ -10,6 +10,10 @@
 - [ ] Tell Ervin when G&L is ready for approval
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
+### Friday
+
+- [ ] Get Demetria dates/times and ask about next week's meeting
+
 ### Priorities 
     
 - G&L Goals to FedEx dev and prod (upon approval)
