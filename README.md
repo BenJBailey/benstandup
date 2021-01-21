@@ -2,11 +2,11 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Thursday
 
-- [ ] Release fix for 301 import dup check - `fix/k12wtg-301-import`
 - [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
-- [ ] Help Nikki with whatever is left on G&L (if she works)
+- [ ] Marketing landing pages meeting
+- [ ] Help Nikki with whatever is left on G&L
 - [ ] Tell Ervin when G&L is ready for approval
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
