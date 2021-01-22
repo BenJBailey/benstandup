@@ -2,17 +2,11 @@
 
 ## My daily stand-ups
 
-### Thursday
-
-- [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
-- [ ] Marketing landing pages meeting
-- [ ] Help Nikki with whatever is left on G&L
-- [ ] Tell Ervin when G&L is ready for approval
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-
 ### Friday
 
 - [ ] Get Demetria dates/times and ask about next week's meeting
+- [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
+- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
     
