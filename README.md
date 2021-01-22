@@ -4,7 +4,7 @@
 
 ### Friday
 
-- [ ] Get Demetria dates/times and ask about next week's meeting
+- [X] Get Demetria dates/times and ask about next week's meeting
 - [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
