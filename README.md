@@ -2,19 +2,6 @@
 
 ## My daily stand-ups
 
-### Monday
-
-- [X] Look at InfoSec's current milestone and meeting agenda
-- [X] Standups
-- [X] Get Teo on new repo
-- [X] InfoSec Meeting
-- [X] Process InfoSec meeting
-- [X] Merge teo's commits
-- [X] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
-- [X] Add logging to form submission webooks
-- [X] Check when G&L needs to go
-- [ ] test [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
-
 ### Tuesday
 
 - [ ] G&L changes
