@@ -17,6 +17,7 @@
 - [ ] test [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
 - [ ] test static deploys for new repo
 - [ ] move over docs pipelines for new repo
+- [ ] figure out recurring payments in forms no every site.
 
 ### Tuesday
 
