@@ -14,6 +14,8 @@
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Check when G&L needs to go
 - [ ] test [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
+- [ ] test static deploys for new repo
+- [ ] move over docs pipelines for new repo
 
 ### Tuesday
 
