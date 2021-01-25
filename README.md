@@ -6,6 +6,7 @@
 
 - [X] Look at InfoSec's current milestone and meeting agenda
 - [ ] Standups
+- [ ] Get Teo on new repo
 - [ ] Check when G&L needs to go
 - [ ] InfoSec Meeting
 - [ ] Process InfoSec meeting
