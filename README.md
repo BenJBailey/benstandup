@@ -5,14 +5,14 @@
 ### Monday
 
 - [X] Look at InfoSec's current milestone and meeting agenda
-- [ ] Standups
-- [ ] Get Teo on new repo
-- [ ] Check when G&L needs to go
+- [X] Standups
+- [X] Get Teo on new repo
 - [ ] InfoSec Meeting
 - [ ] Process InfoSec meeting
-- [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
+- [X] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 - [ ] Add logging to form submission webooks
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] Check when G&L needs to go
 
 ### Priorities 
     
