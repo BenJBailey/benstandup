@@ -9,19 +9,23 @@
 - [X] Get Teo on new repo
 - [ ] InfoSec Meeting
 - [ ] Process InfoSec meeting
-- [ ] Merge teo's commits
+- [X] Merge teo's commits
 - [X] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 - [X] Add logging to form submission webooks
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-- [ ] Check when G&L needs to go
+- [X] Check when G&L needs to go
 - [ ] test [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
-- [ ] test static deploys for new repo
-- [ ] move over docs pipelines for new repo
-- [ ] figure out recurring payments in forms no every site.
 
 ### Tuesday
 
+- [ ] G&L changes
+- [ ] test static deploys for new repo
+- [ ] move over docs pipelines for new repo
+- [ ] figure out recurring payments in forms no every site.
 - [ ] release [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
+- [ ] release [Fix for FedEx RS Messaging](https://projects.madebyspeak.com/#/tasks/17976133) - `fix/infosec-recog-notifications`
+- [ ] firgure out `/static` for FedEx
+- [ ] update prod for FedEx
 
 ### Priorities 
     
