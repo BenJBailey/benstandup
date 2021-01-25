@@ -2,9 +2,13 @@
 
 ## My daily stand-ups
 
-### Friday
+### Monday
 
-- [X] Get Demetria dates/times and ask about next week's meeting
+- [X] Look at InfoSec's current milestone and meeting agenda
+- [ ] Standups
+- [ ] Check when G&L needs to go
+- [ ] InfoSec Meeting
+- [ ] Process InfoSec meeting
 - [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
