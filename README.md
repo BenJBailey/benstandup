@@ -10,6 +10,7 @@
 - [ ] InfoSec Meeting
 - [ ] Process InfoSec meeting
 - [ ] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
+- [ ] Add logging to form submission webooks
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
