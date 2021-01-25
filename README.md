@@ -7,12 +7,11 @@
 - [X] Look at InfoSec's current milestone and meeting agenda
 - [X] Standups
 - [X] Get Teo on new repo
-- [ ] InfoSec Meeting
-- [ ] Process InfoSec meeting
+- [X] InfoSec Meeting
+- [X] Process InfoSec meeting
 - [X] Merge teo's commits
 - [X] [Shrink the repo](https://app.clickup.com/t/jh0dwt) - `main`
 - [X] Add logging to form submission webooks
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [X] Check when G&L needs to go
 - [ ] test [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
 
@@ -26,6 +25,7 @@
 - [ ] release [Fix for FedEx RS Messaging](https://projects.madebyspeak.com/#/tasks/17976133) - `fix/infosec-recog-notifications`
 - [ ] firgure out `/static` for FedEx
 - [ ] update prod for FedEx
+- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
     
