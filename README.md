@@ -6,7 +6,7 @@
 
 - [X] Respond to G&L items and setup time to go over with Ervin (if needed)
 - [X] Update Liaisons for InfoSec
-- [ ] test static deploys for new repo
+- [X] test static deploys for new repo
 - [ ] move over docs pipelines for new repo
 - [ ] figure out recurring payments in forms no every site.
 - [ ] release [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
