@@ -2,16 +2,12 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-- [X] Respond to G&L items and setup time to go over with Ervin (if needed)
-- [X] Update Liaisons for InfoSec
-- [X] test static deploys for new repo
-- [ ] move over docs pipelines for new repo
+- [ ] finish script for sitefiles
+- [ ] deploy G&L sitefiles
+- [ ] change G&L site to match
 - [ ] figure out recurring payments in forms no every site.
-- [ ] release [Logging Webhooks](https://app.clickup.com/t/jz1tb3) - `feat/jz1tb3-webhook-logging`
-- [ ] release [Fix for FedEx RS Messaging](https://projects.madebyspeak.com/#/tasks/17976133) - `fix/infosec-recog-notifications`
-- [ ] firgure out `/static` for FedEx
 - [ ] update prod for FedEx
 - [ ] Commercial Filter bug
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
