@@ -13,6 +13,7 @@
 - [ ] release [Fix for FedEx RS Messaging](https://projects.madebyspeak.com/#/tasks/17976133) - `fix/infosec-recog-notifications`
 - [ ] firgure out `/static` for FedEx
 - [ ] update prod for FedEx
+- [ ] Commercial Filter bug
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
