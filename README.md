@@ -4,7 +4,7 @@
 
 ### Tuesday
 
-- [ ] Respond to G&L items and setup time to go over with Ervin (if needed)
+- [X] Respond to G&L items and setup time to go over with Ervin (if needed)
 - [ ] Update Liaisons for InfoSec
 - [ ] test static deploys for new repo
 - [ ] move over docs pipelines for new repo
