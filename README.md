@@ -6,15 +6,14 @@
 
 - [X] finish script for sitefiles
 - [X] figure out G&L items
-- [ ] marketing help
+- [X] marketing help
 - [X] deploy G&L sitefiles
 - [X] Commercial Filter bug
-- [ ] figure out recurring payments in forms no every site.
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] figure out recurring payments in forms on every site.
 
 ### Thursday
 
-- [ ] Fix form thing
+- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Friday
 
