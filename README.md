@@ -2,18 +2,10 @@
 
 ## My daily stand-ups
 
-### Wednesday
-
-- [X] finish script for sitefiles
-- [X] figure out G&L items
-- [X] marketing help
-- [X] deploy G&L sitefiles
-- [X] Commercial Filter bug
-- [ ] figure out recurring payments in forms on every site.
-
 ### Thursday
 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] figure out recurring payments in forms on every site.
 
 ### Friday
 
