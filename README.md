@@ -4,19 +4,25 @@
 
 ### Wednesday
 
-- [ ] finish script for sitefiles
-- [ ] figure out G&L items
+- [X] finish script for sitefiles
+- [X] figure out G&L items
 - [ ] marketing help
-- [ ] deploy G&L sitefiles
-- [ ] change G&L site to match
-- [ ] Commercial Filter bug
+- [X] deploy G&L sitefiles
+- [X] Commercial Filter bug
 - [ ] figure out recurring payments in forms no every site.
-- [ ] update prod for FedEx
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Thursday
 
 - [ ] Fix form thing
+
+### Friday
+
+### Monday
+
+- [ ] FedEx prod deploy
+- [ ] G&L Sitefiles
+- [ ] G&L prod site changes
 
 ### Priorities 
     
