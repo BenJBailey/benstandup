@@ -5,7 +5,6 @@
 ### Thursday
 
 - [ ] profile api endpoints
-- [ ] messaging for infosec
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] figure out recurring payments in forms on every site.
 
@@ -13,6 +12,7 @@
 
 ### Monday
 
+- [ ] messaging for infosec
 - [ ] FedEx prod deploy
 - [ ] G&L Sitefiles
 - [ ] G&L prod site changes
