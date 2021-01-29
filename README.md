@@ -14,6 +14,7 @@
 - [ ] FedEx prod deploy
 - [ ] G&L Sitefiles
 - [ ] G&L prod site changes
+- [ ] remove billing and shipping from custom profile field addresses (confirm not needed elsehwere)
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
