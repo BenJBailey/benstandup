@@ -6,7 +6,7 @@
 
 - [ ] [fix Matrix file upload bug](https://app.clickup.com/t/kmy6hj)
 - [ ] figure out recurring payments in forms on every site.
-- Docs restructuring
+- [ ] Docs restructuring
 
 ### Monday
 
