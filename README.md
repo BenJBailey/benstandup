@@ -12,12 +12,12 @@
 - [X] G&L prod site changes
 - [X] README for sitefiles deploy app
 - [X] respond to Demetria with an update
-- [ ] remove billing and shipping from custom profile field addresses (confirm not needed elsehwere)
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [X] remove billing and shipping from custom profile field addresses (confirm not needed elsehwere)
 
 ## Tuesday
 
 - [ ] Deploy [fix Matrix file upload bug](https://app.clickup.com/t/kmy6hj)
+- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 
 ### Priorities 
