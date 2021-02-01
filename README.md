@@ -7,11 +7,11 @@
 
 ### Monday
 
-- [ ] FedEx prod deploy
-- [ ] G&L Sitefiles
-- [ ] G&L prod site changes
+- [X] FedEx prod deploy
+- [X] G&L Sitefiles
+- [X] G&L prod site changes
 - [ ] README for sitefiles deploy app
-- [ ] respond to Demetria with an update
+- [X] respond to Demetria with an update
 - [ ] remove billing and shipping from custom profile field addresses (confirm not needed elsehwere)
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] messaging for infosec?
