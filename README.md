@@ -14,7 +14,6 @@
 - [X] respond to Demetria with an update
 - [ ] remove billing and shipping from custom profile field addresses (confirm not needed elsehwere)
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-- [ ] messaging for infosec?
 
 ## Tuesday
 
