@@ -5,8 +5,10 @@
 ## Tuesday
 
 - [X] Deploy [fix Matrix file upload bug](https://app.clickup.com/t/kmy6hj)
-- [ ] Shopify meeting
+- [X] Shopify meeting
+- [ ] G&L Fixes
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] G&L Meeting
 
 
 ### Priorities 
