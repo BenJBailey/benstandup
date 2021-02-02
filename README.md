@@ -2,18 +2,6 @@
 
 ## My daily stand-ups
 
-### Friday
-
-
-### Monday
-
-- [X] FedEx prod deploy
-- [X] G&L Sitefiles
-- [X] G&L prod site changes
-- [X] README for sitefiles deploy app
-- [X] respond to Demetria with an update
-- [X] remove billing and shipping from custom profile field addresses (confirm not needed elsehwere)
-
 ## Tuesday
 
 - [ ] Deploy [fix Matrix file upload bug](https://app.clickup.com/t/kmy6hj)
