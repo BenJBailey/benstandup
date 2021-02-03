@@ -2,18 +2,16 @@
 
 ## My daily stand-ups
 
-## Tuesday
+## Wednesday
 
+- [ ] G&L Changes
 - [X] Deploy [fix Matrix file upload bug](https://app.clickup.com/t/kmy6hj)
 - [X] Shopify meeting
-- [ ] G&L Fixes
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-- [ ] G&L Meeting
 
 
 ### Priorities 
     
-- G&L Goals to FedEx dev and prod (upon approval)
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
 - Trim the fat on global styles
