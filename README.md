@@ -2,15 +2,16 @@
 
 ## My daily stand-ups
 
-## Thursday
+## Friday
 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-
+- [ ] Update documentation
 
 ### Priorities 
     
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
+- Update documentation
 - Trim the fat on global styles
 - figure out recurring payments in forms on every site.
 - [ReCaptcha - disable buttons till ready](https://projects.madebyspeak.com/#/tasks/17598281)
