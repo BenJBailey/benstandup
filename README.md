@@ -2,15 +2,6 @@
 
 ## My daily stand-ups
 
-## Monday
-
-- [X] [Fix store checkout w/no PGs](https://app.clickup.com/t/m6y681)
-- [X] [Fix matrix multiple files](https://app.clickup.com/t/kmy6hj)
-- [X] response to Demetria
-- [ ] same form on page more than once
-- [ ] RS response/help
-
-
 ## Tuesday
 
 - [ ] InfoSec Email
