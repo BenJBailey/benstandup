@@ -13,6 +13,7 @@
     
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
+- Fix store checkout w/no PGs](https://app.clickup.com/t/m6y681)
 - Update documentation
 - Trim the fat on global styles
 - figure out recurring payments in forms on every site.
