@@ -9,6 +9,18 @@
 - [X] response to Demetria
 - [ ] same form on page more than once
 - [ ] RS response/help
+
+
+## Tuesday
+
+- [ ] InfoSec Email
+- [ ] Review RS Scope
+- [ ] RS Internal Discovery
+- [ ] test 2 clone form task and release?
+- [ ] Vacation
+
+## Wednesday
+
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Matrix grid test ?
 - [ ] Update documentation
