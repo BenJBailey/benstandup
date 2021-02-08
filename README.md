@@ -4,9 +4,9 @@
 
 ## Monday
 
-- [ ] [Fix store checkout w/no PGs](https://app.clickup.com/t/m6y681)
-- [ ] [Fix matrix multiple files](https://app.clickup.com/t/kmy6hj)
-- [ ] response to Demetria
+- [X] [Fix store checkout w/no PGs](https://app.clickup.com/t/m6y681)
+- [X] [Fix matrix multiple files](https://app.clickup.com/t/kmy6hj)
+- [X] response to Demetria
 - [ ] same form on page more than once
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Matrix grid test ?
