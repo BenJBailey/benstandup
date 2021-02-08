@@ -2,11 +2,11 @@
 
 ## My daily stand-ups
 
-## Friday
+## Monday
 
+- [ ] [Fix store checkout w/no PGs](https://app.clickup.com/t/m6y681)
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Matrix grid test ?
-- [ ] [Fix store checkout w/no PGs](https://app.clickup.com/t/m6y681)
 - [ ] Update documentation
 
 ### Priorities 
