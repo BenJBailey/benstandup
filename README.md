@@ -5,8 +5,6 @@
 ## Tuesday
 
 - [X] InfoSec Email (csv in slack, explain)
-- [ ] Review RS Scope
-- [ ] RS Internal Discovery
 - [ ] test 2 clone form task and release?
 - [ ] public profile endpoint? 
 - [ ] Vacation
