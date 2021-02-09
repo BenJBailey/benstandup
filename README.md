@@ -5,8 +5,8 @@
 ## Tuesday
 
 - [X] InfoSec Email (csv in slack, explain)
-- [ ] test 2 clone form task and release?
-- [ ] public profile endpoint? 
+- [X] test 2 clone form task and release?
+- [ ] Matrix grid
 - [ ] Vacation
 
 ## Wednesday
