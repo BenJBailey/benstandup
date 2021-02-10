@@ -2,17 +2,11 @@
 
 ## My daily stand-ups
 
-## Tuesday
-
-- [X] InfoSec Email (csv in slack, explain)
-- [X] test 2 clone form task and release?
-- [ ] Matrix grid
-- [ ] Vacation
-
 ## Wednesday
 
+- [ ] Matrix grid
+- [ ] Rising Star walkthrough
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-- [ ] Matrix grid test ?
 - [ ] Update documentation
 
 ### Priorities 
