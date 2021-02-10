@@ -6,6 +6,7 @@
 
 - [ ] Matrix grid
 - [ ] Rising Star walkthrough
+- [ ] G&L buttons
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Update documentation
 
