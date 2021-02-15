@@ -11,6 +11,8 @@
 - [ ] 1:30 Rising Star internal discovery
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] G&L Feedback and buttons
+- [ ] Tickets?
+    - https://sitewrench.zendesk.com/agent/tickets/11178
 
 ### Priorities 
     
