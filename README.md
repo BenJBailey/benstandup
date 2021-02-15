@@ -5,14 +5,14 @@
 ## Monday
 
 - [X] G&L - jobs - confirm that suggested jobs == in managerial reivew and what other criteria?
+- [ ] G&L - fix content by tag 
+- [ ] G&L - Send instructions on how to setup suggested goals
+- [ ] RS - complete mockup for the nomination manager
 - [ ] Matrix grid
 - [X] Standups
-- [ ] Send instructions on how to setup suggested goals
-- [ ] 1:30 Rising Star internal discovery
+- [X] 1:30 Rising Star internal discovery
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-- [ ] G&L buttons
-- [ ] Tickets?
-    - https://sitewrench.zendesk.com/agent/tickets/11178
+- [X] G&L buttons
 
 ### Priorities 
     
