@@ -4,10 +4,10 @@
 
 ## Monday
 
-- [ ] G&L - jobs - confirm that suggested jobs == in managerial reivew and what other criteria?
+- [X] G&L - jobs - confirm that suggested jobs == in managerial reivew and what other criteria?
 - [ ] Matrix grid
-- [ ] Standups
-- [ ] Launches?
+- [X] Standups
+- [ ] Send instructions on how to setup suggested goals
 - [ ] 1:30 Rising Star internal discovery
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] G&L buttons
