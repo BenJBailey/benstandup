@@ -2,13 +2,14 @@
 
 ## My daily stand-ups
 
-## Thursday
+## Monday
 
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+
 - [ ] Matrix grid
-- [ ] Rising Star walkthrough
-- [ ] G&L buttons
-- [ ] Update documentation
+- [ ] Standups
+- [ ] Launches?
+- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] G&L Feedback and buttons
 
 ### Priorities 
     
