@@ -2,20 +2,17 @@
 
 ## My daily stand-ups
 
-## Monday
+## Tuesday
 
-- [X] G&L - jobs - confirm that suggested jobs == in managerial reivew and what other criteria?
-- [ ] G&L - fix content by tag 
-- [ ] G&L - Send instructions on how to setup suggested goals
+- [X] G&L - Send instructions on how to setup suggested goals
 - [ ] RS - complete mockup for the nomination manager
 - [ ] Matrix grid
-- [X] Standups
-- [X] 1:30 Rising Star internal discovery
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [X] G&L buttons
 
 ### Priorities 
     
+- [Rising Star Upgrades](https://app.clickup.com/8537154/v/l/f/27554943?pr=12707202)
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
 - Fix store checkout w/no PGs](https://app.clickup.com/t/m6y681)
