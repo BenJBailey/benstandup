@@ -6,7 +6,7 @@
 
 - [X] G&L - Send instructions on how to setup suggested goals
 - [ ] Deploy - store ie11 support
-- [ ] Matrix grid
+- [ ] [Matrix grid](https://app.clickup.com/t/meynqd)
 - [ ] RS - complete mockup for the nomination manager
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
