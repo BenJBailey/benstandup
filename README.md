@@ -8,6 +8,7 @@
 - [ ] Deploy - store ie11 support
 - [ ] [Matrix grid](https://app.clickup.com/t/meynqd)
 - [ ] RS - complete mockup for the nomination manager
+- [ ] OST timeout on checkout
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
