@@ -2,12 +2,12 @@
 
 ## My daily stand-ups
 
-## Tuesday
+## Wednesday
 
 - [X] G&L - Send instructions on how to setup suggested goals
-- [ ] Test - store ie11 support
+- [ ] Deploy - store ie11 support
+- [ ] - [ ] Matrix grid
 - [ ] RS - complete mockup for the nomination manager
-- [ ] Matrix grid
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
