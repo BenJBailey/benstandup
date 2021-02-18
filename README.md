@@ -2,10 +2,8 @@
 
 ## My daily stand-ups
 
-## Wednesday
+## Thursday
 
-- [X] G&L - Send instructions on how to setup suggested goals
-- [ ] Deploy - store ie11 support
 - [ ] [Matrix grid](https://app.clickup.com/t/meynqd)
 - [ ] RS - complete mockup for the nomination manager
 - [ ] OST timeout on checkout
