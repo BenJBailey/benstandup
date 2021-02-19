@@ -9,7 +9,7 @@
 ### Monday
 
 - [ ] RS - complete mockup for the nomination manager
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] [RS - Stage 1](https://app.clickup.com/8537154/v/l/li/63072271?pr=12760709)
 
 ### Priorities 
     
