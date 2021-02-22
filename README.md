@@ -10,6 +10,7 @@
 ### Tuesday
 
 - [ ] [RS - Stage 1](https://app.clickup.com/8537154/v/l/li/63072271?pr=12760709)
+      start with fixing relationships for nominationswithmanagements
 
 ### Priorities 
     
