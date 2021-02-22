@@ -4,8 +4,11 @@
 
 ### Monday
 
-- [ ] Fix delete button and time selector for matrix and move on :D 
-- [ ] RS - complete mockup for the nomination manager
+- [X] Fix delete button and time selector for matrix and move on :D 
+- [X] RS - complete mockup for the nomination manager
+
+### Tuesday
+
 - [ ] [RS - Stage 1](https://app.clickup.com/8537154/v/l/li/63072271?pr=12760709)
 
 ### Priorities 
