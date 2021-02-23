@@ -8,6 +8,7 @@
 - [ ] RS - Nominations with managers performance
 - [ ] RS - ducplicate managements being created
 - [ ] RS - Stage 1 etc
+- [ ] RS - Deferral nomiantions ended up with Zach (admin) as VP and not correct VP
 
 ### Priorities 
     
