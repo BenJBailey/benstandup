@@ -2,15 +2,12 @@
 
 ## My daily stand-ups
 
-### Monday
-
-- [X] Fix delete button and time selector for matrix and move on :D 
-- [X] RS - complete mockup for the nomination manager
-
 ### Tuesday
 
 - [ ] [RS - Stage 1](https://app.clickup.com/8537154/v/l/li/63072271?pr=12760709)
-      start with fixing relationships for nominationswithmanagements
+- [ ] RS - Nominations with managers performance
+- [ ] RS - ducplicate managements being created
+- [ ] RS - Stage 1 etc
 
 ### Priorities 
     
