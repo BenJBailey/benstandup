@@ -7,6 +7,7 @@
 - [ ] [RS - Stage 1](https://app.clickup.com/8537154/v/l/li/63072271?pr=12760709) etc
 - [ ] RS - duplicate managements being created
 - [ ] RS - Deferral nomiantions ended up with Zach (admin) as VP and not correct VP
+- [ ] Estimate to Devon on blog
 
 ### Priorities 
     
