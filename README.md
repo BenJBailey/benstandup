@@ -4,6 +4,7 @@
 
 ### Thursday 
 
+- [ ] [Calendar recurring fix](https://app.clickup.com/t/pn1qwd)
 - [ ] Get matrix in good shape
     - [ ] Tasks
     - [ ] Fix alignment of checkboxes
