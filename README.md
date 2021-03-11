@@ -2,10 +2,10 @@
 
 ## My daily stand-ups
 
-### Wednesday 
+### Thursday 
 
-- [X] [RS - Stage 1](https://app.clickup.com/8537154/v/l/li/63072271?pr=12760709)
-- [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709) etc
+- [ ] Get matrix in good shape
+- [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 
 
 ### Priorities 
