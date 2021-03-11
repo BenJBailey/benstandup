@@ -5,9 +5,10 @@
 ### Thursday 
 
 - [ ] Get matrix in good shape
-- [ ]    Tasks
-- [ ]    Fix alignment of checkboxes
-- [ ]    bundle
+    - [ ] Tasks
+    - [ ] Fix alignment of checkboxes
+    - [ ] bundle
+    - [ ] container for table/file
 - [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 
 
