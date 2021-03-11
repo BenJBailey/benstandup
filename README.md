@@ -5,6 +5,9 @@
 ### Thursday 
 
 - [ ] Get matrix in good shape
+- [ ]    Tasks
+- [ ]    Fix alignment of checkboxes
+- [ ]    bundle
 - [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 
 
