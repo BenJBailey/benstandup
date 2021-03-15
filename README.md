@@ -14,6 +14,10 @@
     - [ ] container for table/file
 - [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 
+### Tuesday
+
+- [ ] Prep for RS discussion
+- [ ] 2:30 RS meeting
 
 ### Priorities 
     
