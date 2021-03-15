@@ -2,8 +2,10 @@
 
 ## My daily stand-ups
 
-### Thursday 
+### Monday 
 
+- [ ] Standups
+- [ ] RS Meeting???
 - [ ] [Calendar recurring fix](https://app.clickup.com/t/pn1qwd)
 - [ ] Get matrix in good shape
     - [ ] Tasks
