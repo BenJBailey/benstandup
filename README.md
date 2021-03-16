@@ -2,22 +2,13 @@
 
 ## My daily stand-ups
 
-### Monday 
-
-- [ ] Standups
-- [ ] RS Meeting???
-- [ ] [Calendar recurring fix](https://app.clickup.com/t/pn1qwd)
-- [ ] Get matrix in good shape
-    - [ ] Tasks
-    - [ ] Fix alignment of checkboxes
-    - [ ] bundle
-    - [ ] container for table/file
-- [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
-
 ### Tuesday
 
+- [ ] Matrix clean up - time?
 - [ ] Prep for RS discussion
 - [ ] 2:30 RS meeting
+- [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
+
 
 ### Priorities 
     
