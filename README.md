@@ -4,8 +4,9 @@
 
 ### Wednesday
 
+- [ ] [RS - Stage 1](https://app.clickup.com/t/n11e92) - update to have LDAP_ headers for management from LDAP
 - [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
-- [ ] 3:00 RS meeting?
+- [X] 3:00 RS meeting?
 
 
 ### Priorities 
