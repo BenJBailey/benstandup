@@ -2,12 +2,10 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-- [ ] Matrix clean up - time?
-- [ ] Prep for RS discussion
-- [ ] 2:30 RS meeting
 - [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
+- [ ] 3:00 RS meeting?
 
 
 ### Priorities 
