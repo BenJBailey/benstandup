@@ -6,7 +6,7 @@
 
 - [ ] [Asses Self](https://app.clickup.com/t/q50gzy)
 - [ ] [Review Grayson](https://app.clickup.com/t/q50gzz)
-- [ ] Email RS about dev cert
+- [ ] Apply cert for RS Dev when recieved
 - [ ] [RS - Stage 1](https://app.clickup.com/t/n11e92) - deploy
 - [ ] [RS - Stage 2](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 
