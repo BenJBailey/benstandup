@@ -2,15 +2,13 @@
 
 ## My daily stand-ups
 
-### Friday
-
-- [X] [Asses Self](https://app.clickup.com/t/q50gzy)
-- [X] [Review Grayson](https://app.clickup.com/t/q50gzz)
-- [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 
 ### Monday
 
-- [ ] [Update goals item in review](https://app.clickup.com/t/q50gzy)
+- [ ] Standups
+- [ ] Touch base about InfoSec meeting
+- [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
+- [ ] Create spreadsheet of FedEx certs (if not in existence)
 - [ ] Apply cert for RS Dev when recieved
 
 ### Priorities 
