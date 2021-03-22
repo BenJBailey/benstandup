@@ -10,6 +10,7 @@
 - [ ] InfoSec - Put together Parking Lot list from our side
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 - [ ] Create spreadsheet of FedEx certs (if not in existence)
+- [ ] Document FedEx SSL process once PSP is figured out
 - [ ] Apply cert for RS Dev when recieved
 
 ### Priorities 
