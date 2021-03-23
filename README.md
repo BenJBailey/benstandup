@@ -3,11 +3,10 @@
 ## My daily stand-ups
 
 
-### Tuesday
+### Wednesday
 
-- [X] Release the Matrix
-- [X] InfoSec - Put together Parking Lot list from our side
-- [ ] Matrix fix - partials
+- [ ] Test matrix pagination option
+- [ ] Deploy Matrix fixes
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
 - [ ] Document FedEx SSL process once PSP is figured out
 - [ ] Apply cert for RS Dev when recieved
