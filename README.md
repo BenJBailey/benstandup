@@ -2,22 +2,17 @@
 
 ## My daily stand-ups
 
-### Wednesday
-
-- [ ] Get notes/estimate? ready for InfoSec 
-- [X] Test matrix pagination option
-- [X] Deploy Matrix fixes
-- [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
-- [ ] Document FedEx SSL process once PSP is figured out
-- [ ] Apply cert for RS Dev when recieved
-
 ### Thursday
 
 - [ ] InfoSec meeting
 - [ ] InfoSec estimate
 - [ ] Review
-- [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)
-
+- [ ] Document FedEx SSL process once PSP is figured out
+- [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
+    - Test email notification for leaders
+    - Write tests for whatever you can 
+    - Test in stage 2 in dev
+    - Get all of stage 2 to FE dev
 
 ### Friday
 
