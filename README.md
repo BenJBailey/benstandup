@@ -4,7 +4,11 @@
 
 ### Thursday
 
-- [ ] InfoSec meeting
+- [X] InfoSec meeting
+- [ ] Living PSP cert
+- [ ] Get InfoSec their data
+- [ ] Help Mark with A Step Ahead
+- [ ] Matrix blog fix
 - [ ] InfoSec estimate
 - [ ] Review
 - [ ] Document FedEx SSL process once PSP is figured out
