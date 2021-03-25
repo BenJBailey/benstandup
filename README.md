@@ -10,9 +10,11 @@
 - [X] Help Mark with A Step Ahead
 - [X] Document FedEx SSL process once PSP is figured out
 - [X] Add ClickUp reminders for SSLs
+- [ ] Type up InfoSec notes
 - [ ] Matrix blog fix
+- [ ] Update [Job Description](https://docs.google.com/document/d/1wO9LkRWwViloxJiVTkwamfFqOP-r21CTykI9BW4_wvM/edit#)
 - [ ] InfoSec estimate
-- [ ] Review
+- [X] Review
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
     - Write tests for whatever you can 
