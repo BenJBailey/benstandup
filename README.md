@@ -5,13 +5,14 @@
 ### Thursday
 
 - [X] InfoSec meeting
-- [ ] Living PSP cert
+- [X] Living PSP cert
 - [ ] Get InfoSec their data
 - [ ] Help Mark with A Step Ahead
+- [ ] Document FedEx SSL process once PSP is figured out
+- [ ] Add ClickUp reminders for SSLs
 - [ ] Matrix blog fix
 - [ ] InfoSec estimate
 - [ ] Review
-- [ ] Document FedEx SSL process once PSP is figured out
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
     - Write tests for whatever you can 
