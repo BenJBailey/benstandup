@@ -7,7 +7,7 @@
 - [X] InfoSec meeting
 - [X] Living PSP cert
 - [X] Get InfoSec their data
-- [ ] Help Mark with A Step Ahead
+- [X] Help Mark with A Step Ahead
 - [ ] Document FedEx SSL process once PSP is figured out
 - [ ] Add ClickUp reminders for SSLs
 - [ ] Matrix blog fix
