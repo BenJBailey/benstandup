@@ -2,32 +2,16 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Monday
 
-- [X] InfoSec meeting
-- [X] Living PSP cert
-- [X] Get InfoSec their data
-- [X] Help Mark with A Step Ahead
-- [X] Document FedEx SSL process once PSP is figured out
-- [X] Add ClickUp reminders for SSLs
-- [X] Type up InfoSec notes
-- [ ] Matrix blog fix
-- [ ] Update [Job Description](https://docs.google.com/document/d/1wO9LkRWwViloxJiVTkwamfFqOP-r21CTykI9BW4_wvM/edit#)
-- [ ] InfoSec estimate
-- [X] Review
+- [ ] Standups
+- [ ] Test and relase Matrix blog fix
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
     - Write tests for whatever you can 
     - Test in stage 2 in dev
     - Get all of stage 2 to FE dev
-
-### Friday
-
-- Vacation
-
-### Monday
-
-- [ ] InfoSec estimate due
+- [ ] InfoSec estimate (once we get feedback)
 
 ### Priorities 
     
