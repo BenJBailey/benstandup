@@ -4,9 +4,9 @@
 
 ### Monday
 
-- [ ] Standups
-- [ ] SW Release
-- [ ] Write up clear descriptions of what is needed for phase 3
+- [X] Standups
+- [X] SW Release
+- [X] Write up clear descriptions of what is needed for phase 3
 - [ ] MB New Realtor
 - [ ] Fix page selector
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
