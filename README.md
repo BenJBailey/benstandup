@@ -2,19 +2,17 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday
 
-- [X] Fix page selector - npm issue then publish then add to matrix
-- [ ] Page selector - indication to type to search
-- [ ] Page selector - don't show old results if clear. instead show type to search
-- [ ] Page selector - clear on focus?
+- [ ] Release matrix page stuff (if good)
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
     - Write tests for whatever you can 
     - Test in stage 2 in dev
     - Get all of stage 2 to FE dev
-- [ ] InfoSec estimate (once we get feedback)
+- [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
 
+...
 
 ### Monday
 
