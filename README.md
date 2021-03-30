@@ -6,7 +6,7 @@
 
 - [X] Fix page selector - npm issue then publish then add to matrix
 - [ ] Page selector - indication to type to search
-- [ ] Page selector - don't show old results if clear
+- [ ] Page selector - don't show old results if clear. instead show type to search
 - [ ] Page selector - clear on focus?
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
