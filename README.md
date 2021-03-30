@@ -12,6 +12,11 @@
     - Get all of stage 2 to FE dev
 - [ ] InfoSec estimate (once we get feedback)
 
+
+### Monday
+
+- [ ] Send Demetria list of nominations first thing Monday morning.
+
 ### Priorities 
     
 - [Rising Star Upgrades](https://app.clickup.com/8537154/v/l/f/27554943?pr=12707202)
