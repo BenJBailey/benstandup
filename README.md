@@ -4,7 +4,9 @@
 
 ### Wednesday
 
-- [ ] Release matrix page stuff (if good)
+- [X] Release matrix page stuff (if good)
+- [ ] Check Teo's progress
+- [ ] Fix matrix conflict issue?
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
     - Write tests for whatever you can 
