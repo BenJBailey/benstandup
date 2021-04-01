@@ -4,12 +4,14 @@
 
 ### Thursday
 
+- [X] Templated SitWrench sites discussion
+- [ ] Blog ace editor update
+- [ ] Write up notes from meeting
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
     - Write tests for whatever you can 
     - Test in stage 2 in dev
     - Get all of stage 2 to FE dev
-- [ ] Templated SitWrench sites discussion
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
 
 ...
