@@ -2,10 +2,10 @@
 
 ## My daily stand-ups
 
-### Thursday
+### Monday
 
-- [X] Templated SitWrench sites discussion
-- [ ] Blog ace editor update
+- [ ] Send Demetria list of nominations first thing Monday morning.
+- [ ] Test Blog ace editor update
 - [ ] Write up notes from meeting
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
@@ -13,14 +13,9 @@
     - Test in stage 2 in dev
     - Get all of stage 2 to FE dev
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
-
-...
-
-### Monday
-
-- [ ] Send Demetria list of nominations first thing Monday morning.
-- [ ] Deploy fix for react-ace conflicts
 - [ ] Estimate Matrix as a page part
+
+
 
 ### Priorities 
     
