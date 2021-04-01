@@ -18,6 +18,7 @@
 
 - [ ] Send Demetria list of nominations first thing Monday morning.
 - [ ] Deploy fix for react-ace conflicts
+- [ ] Estimate Matrix as a page part
 
 ### Priorities 
     
