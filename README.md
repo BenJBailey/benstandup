@@ -6,7 +6,7 @@
 
 - [X] Send Demetria list of nominations first thing Monday morning.
 - [ ] Test Blog ace editor update
-- [ ] Write up notes from meeting
+- [X] Write up notes from meeting
 - [ ] [RS - Stage 2 - New Report](https://app.clickup.com/8537154/v/l/li/63072272?pr=12760709)  
     - Test email notification for leaders
     - Write tests for whatever you can 
