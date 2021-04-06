@@ -8,6 +8,7 @@
     - Write tests for whatever you can 
     - Test in stage 2 in dev
     - Get all of stage 2 to FE dev
+- [ ] Test deferrals and confirm that existing managment doesn't get copied, but always VP
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
 - [ ] Estimate Matrix as a page part
