@@ -2,13 +2,13 @@
 
 ## My daily stand-ups
 
-### Friday
+### Monday
 
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709)
+- [ ] Explore lerna vs npm workspaces
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https 
 - [ ] Test deferrals and confirm that existing managment doesn't get copied, but always VP
 - [ ] Estimate Matrix as a page part
-- [ ] Explore lerna vs npm workspaces
 
 
 ### Priorities 
