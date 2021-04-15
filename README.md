@@ -6,10 +6,10 @@
 
 - [X] Finish Matrix for air zoo
 - [X] RS Email
-- [ ] Clean up dups in RS management and confirm not happening with new work (test?)
+- [X] Clean up dups in RS management and confirm not happening with new work (test?)
 - [X] Help Mark
 - [X] InfoSec Email
-- [ ] Meet w/Grayson about Profiles
+- [X] Meet w/Grayson about Profiles
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
 - [ ] Make family pathfinder's registrations a page part
 - [ ] Test deferrals and confirm that existing managment doesn't get copied, but always VP
