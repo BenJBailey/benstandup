@@ -14,6 +14,9 @@
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
 - [ ] Estimate Matrix as a page part
 
+### Thursday
+
+- [ ] Sarcoidosis launch
 
 ### Priorities 
     
