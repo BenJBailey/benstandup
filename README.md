@@ -5,6 +5,7 @@
 ### Monday
 
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
+- [ ] RS - Add key to categories display graph
 - [ ] Standups
 - [ ] Matrix meeting
 - [ ] FPF Registrations deploy/deprecation
