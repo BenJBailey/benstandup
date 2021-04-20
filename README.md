@@ -5,8 +5,9 @@
 ### Tuesday
 
 - [X] Blog fix
-- [ ] Test blog fix
-- [ ] Schedule release for blog fix
+- [X] Test blog fix
+- [X] Schedule release for blog fix
+- [ ] Blog sort JS
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
 - [ ] RS - Add key to categories display graph
 - [ ] RS - Should we mark recently changed managements as pending?
@@ -14,9 +15,10 @@
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
 - [ ] Estimate Matrix as a page part
 
-### Thursday
+### Wednesday
 
-- [ ] Sarcoidosis launch
+- [ ] Deploy blog fixes
+
 
 ### Priorities 
     
