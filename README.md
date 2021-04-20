@@ -7,7 +7,8 @@
 - [X] Blog fix
 - [X] Test blog fix
 - [X] Schedule release for blog fix
-- [ ] Blog sort JS
+- [X] Blog sort JS
+- [ ] Matrix bug
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
 - [ ] RS - Add key to categories display graph
 - [ ] RS - Should we mark recently changed managements as pending?
