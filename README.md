@@ -4,8 +4,9 @@
 
 ### Wednesday
 
+- [ ] PageSave using old 301 endpoint
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
-   - Fix status display of old milestones w/last rejection/approval
+   - Fix status showing pending during old milestone (not grabbing managements?)
 - [ ] RS - Add key to categories display graph
 - [ ] RS - Should we mark recently changed managements as pending?
 - [ ] RS - Test deferrals and confirm that existing managment doesn't get copied, but always VP
