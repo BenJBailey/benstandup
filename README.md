@@ -2,9 +2,9 @@
 
 ## My daily stand-ups
 
-### Wednesday
+### Thursday
 
-- [ ] PageSave using old 301 endpoint
+- [ ] Test 301 issue
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
    - Fix status showing pending during old milestone (not grabbing managements?)
 - [ ] RS - Add key to categories display graph
