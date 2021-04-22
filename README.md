@@ -4,7 +4,9 @@
 
 ### Thursday
 
-- [ ] Test 301 issue
+- [X] Test/Release 301 issue
+- [ ] FedEx Infosec image issues
+- [ ] Fix matrix siteId issues
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
    - Fix status showing pending during old milestone (not grabbing managements?)
 - [ ] RS - Add key to categories display graph
@@ -13,7 +15,11 @@
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
 - [ ] Estimate Matrix as a page part
 
+### Friday
 
+### Monday
+
+- [ ] release fix for matrix siteId issue.
 
 ### Priorities 
     
