@@ -6,6 +6,7 @@
 
 - [ ] Release stuff
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
+   - Add current or last approval status for milestone to nomination details (maybe a different DTO and/or property to not confuse)
    - Test
    - Deploy to FedEx Dev
 - [ ] RS - Add key to categories display graph
