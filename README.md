@@ -9,7 +9,7 @@
 - [X] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
    - Add current or last approval status for milestone to nomination details (maybe a different DTO and/or property to not confuse)
 - [X] RS - Add key to categories display graph
-- [ ] RS - Test deferrals and confirm that existing managment doesn't get copied, but always VP
+- [X] RS - Test deferrals and confirm that existing managment doesn't get copied, but always VP
 - [ ] RS - Test
 - [ ] RS - FedEx Dev
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
