@@ -5,11 +5,12 @@
 ### Tuesday
 
 - [X] FedEx RS email
-- [ ] Ensure that my nominations don't appear when there is no milestone
-- [ ] Look @ error for InfoSec and respond
+- [X] Ensure that my nominations don't appear when there is no milestone
+- [X] Look @ error for InfoSec and respond
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
 -       test
 -       FedEx Dev
+-       test infosec for any effects from the upgrade
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
 - [ ] Estimate Matrix as a page part
 
