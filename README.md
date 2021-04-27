@@ -2,13 +2,11 @@
 
 ## My daily stand-ups
 
-### Tuesday
+### Wednesday 
 
-- [X] FedEx RS email
-- [X] Ensure that my nominations don't appear when there is no milestone
-- [X] Look @ error for InfoSec and respond
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
--       test
+-       fix ability to nomination those you shouldn't in dev
+-       Test
 -       FedEx Dev
 -       test infosec for any effects from the upgrade
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
