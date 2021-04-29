@@ -4,6 +4,7 @@
 
 ### Friday
 
+- [ ] Fix FedEx dev (app dev instead of prod)
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
   - [ ] deploy last change to dev and communicate (if you can get in)
 - [ ] Matrix address field
