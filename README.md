@@ -2,10 +2,10 @@
 
 ## My daily stand-ups
 
-### Thursday 
+### Friday
 
 - [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
-  - [ ] test in FedEx dev
+  - [ ] deploy last change to dev and communicate (if you can get in)
 - [ ] Matrix address field
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
 - [ ] Estimate Matrix as a page part
