@@ -11,6 +11,16 @@
 - [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
 - [ ] Estimate Matrix as a page part
 
+
+### Monday
+
+- [ ] Prep for Rising Star meeting
+
+
+### Tuesday
+
+- [ ] Rising Star meeting (9 am)
+
 ### Priorities 
     
 - [Rising Star Upgrades](https://app.clickup.com/8537154/v/l/f/27554943?pr=12707202)
