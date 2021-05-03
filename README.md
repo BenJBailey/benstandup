@@ -2,18 +2,14 @@
 
 ## My daily stand-up
 
-### Monday
-
-- [ ] Standups
-- [ ] Staff meerting
-- [ ] Prep for Rising Star meeting
-- [ ] Matrix address field
-
-
 ### Tuesday
 
+- [ ] Figure out what is going on with leadership for zach/grant nominations
+- [ ] Prep for Rising Star meeting
 - [ ] Rising Star meeting (9 am)
 - [ ] Create a new session and ensure that duplicate managements aren't being created
+- [ ] Matrix address field
+
 
 ### Priorities 
     
