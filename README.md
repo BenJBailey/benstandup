@@ -4,17 +4,13 @@
 
 ### Friday
 
-- [ ] Fix FedEx dev (app dev instead of prod)
-- [ ] [RS - Phase 3 - UI](https://app.clickup.com/8537154/v/l/li/63072322?pr=12760709) 
-  - [ ] deploy last change to dev and communicate (if you can get in)
-- [ ] Matrix address field
-- [ ] Experiment with getting iis requests to load liquid templates w/o hitting https
-- [ ] Estimate Matrix as a page part
 
 
 ### Monday
 
+- [ ] Standups
 - [ ] Prep for Rising Star meeting
+- [ ] Matrix address field
 
 
 ### Tuesday
@@ -24,6 +20,7 @@
 ### Priorities 
     
 - [Rising Star Upgrades](https://app.clickup.com/8537154/v/l/f/27554943?pr=12707202)
+- Experiment with getting iis requests to load liquid templates w/o hitting https
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
 - OST timeout on checkout
