@@ -13,6 +13,7 @@
 ### Tuesday
 
 - [ ] Rising Star meeting (9 am)
+- [ ] Create a new session and ensure that duplicate managements aren't being created
 
 ### Priorities 
     
