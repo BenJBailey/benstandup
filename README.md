@@ -7,10 +7,10 @@
 - [X] Figure out what is going on with leadership for zach/grant nominations
 - [X] Prep for Rising Star meeting
 - [X] Rising Star meeting (9 am)
-- [ ] MS Foodbank
+- [X] MS Foodbank
 - [ ] Matrix address field
-- [ ] RS email item
-- [ ] Zack => Zach test emails
+- [X] RS email item
+- [X] Zack => Zach test emails
 - [ ] Fix preferred names everywhere on RS
 - [ ] Grey out approvals if allocations are full 
 - [X] Create a new session and ensure that duplicate managements aren't being created
