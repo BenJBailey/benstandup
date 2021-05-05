@@ -5,7 +5,7 @@
 ### Wednesday
 
 - [X] Matrix address field
-- [ ] RS email item
+- [X] RS email item
 - [ ] Fix preferred names everywhere on RS
 - [ ] Grey out approvals if allocations are full
 
