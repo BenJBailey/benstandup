@@ -6,7 +6,7 @@
 
 - [X] Matrix address field
 - [X] RS email item
-- [ ] Fix preferred names everywhere on RS
+- [X] Fix preferred names everywhere on RS
 - [ ] Grey out approvals if allocations are full
 
 
