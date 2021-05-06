@@ -2,10 +2,6 @@
 
 ## My daily stand-up
 
-### Thursday
-
-- [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
-
 ### Friday
 
 - [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
