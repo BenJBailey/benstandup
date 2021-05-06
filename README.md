@@ -4,12 +4,25 @@
 
 ### Thursday
 
-- [ ] Grey out approvals if allocations are full
-- [ ] Move nomination management for Grant
+- [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
+
+### Friday
+
+- [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
+
+### Monday
+
+- [ ] Discuss progress of SWN network sites/content with Teo 
+- [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
+
+### Tuesday
+
+- [ ] Process testing RS feedback
 
 ### Priorities 
     
 - [Rising Star Upgrades](https://app.clickup.com/8537154/v/l/f/27554943?pr=12707202)
+- Matrix custom admin
 - Experiment with getting iis requests to load liquid templates w/o hitting https
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
