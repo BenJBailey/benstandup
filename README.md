@@ -9,6 +9,8 @@
 ### Friday
 
 - [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
+-     Add permissions restriction for admin template
+-     Add query string/switch for custom admin
 
 ### Monday
 
