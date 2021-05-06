@@ -2,13 +2,10 @@
 
 ## My daily stand-up
 
-### Wednesday
+### Thursday
 
-- [X] Matrix address field
-- [X] RS email item
-- [X] Fix preferred names everywhere on RS
 - [ ] Grey out approvals if allocations are full
-
+- [ ] Move nomination management for Grant
 
 ### Priorities 
     
