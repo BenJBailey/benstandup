@@ -2,14 +2,10 @@
 
 ## My daily stand-up
 
-### Friday
-
-- [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
--     Add permissions restriction for admin template
--     Add query string/switch for custom admin
-
 ### Monday
 
+- [ ] Deploy Rising Star changes
+- [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
 - [ ] Discuss progress of SWN network sites/content with Teo 
 - [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
 
