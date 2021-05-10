@@ -2,17 +2,11 @@
 
 ## My daily stand-up
 
-### Monday
+### Tuesday
 
-- [X] Deploy Rising Star changes
-- [X] Fix Thomas Wickinski bug (mapping over something null) in nomination admin
 - [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
 - [ ] Discuss progress of SWN network sites/content with Teo 
 - [ ] Find a time to schedule running 2021.05.10-3.sql
-
-### Tuesday
-
-- [ ] Process testing RS feedback
 
 ### Priorities 
     
