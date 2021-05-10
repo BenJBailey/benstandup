@@ -7,7 +7,6 @@
 - [ ] Deploy Rising Star changes
 - [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
 - [ ] Discuss progress of SWN network sites/content with Teo 
-- [ ] [Matrix custom admin](https://app.clickup.com/t/tb66w7)
 
 ### Tuesday
 
