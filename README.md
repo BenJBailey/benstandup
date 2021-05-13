@@ -2,13 +2,11 @@
 
 ## My daily stand-up
 
-### Wednesday
+### Friday
 
-- [ ] Relese [Matrix custom admin](https://app.clickup.com/t/tb66w7) + blog fix
-- [ ] Get Windows machine setup
-- [ ] Discuss progress of SWN network sites/content with Teo 
-- [ ] Find a time to schedule running 2021.05.10-3.sql
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] Rising Star 2021
+-     Allocations: add SQL/Admin View/View of changed allocations in admin
+-     Allocations: Reflect in public/nomination admin count and limits
 
 ### Priorities 
     
