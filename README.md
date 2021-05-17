@@ -2,12 +2,13 @@
 
 ## My daily stand-up
 
-### Monday
+### Tuesday
 
 - [ ] Rising Star 2021
-    - Allocations: add View of changed allocations in admin
-    - Allocations: Reflect in public/nomination admin count and limits
     - Fix nomination count from the start (show nominations that will just advance to the next milestone)
+    - Test
+    - To FedEx Dev
+    - Update matrix
 
 ### Priorities 
     
