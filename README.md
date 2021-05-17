@@ -2,10 +2,10 @@
 
 ## My daily stand-up
 
-### Friday
+### Monday
 
 - [ ] Rising Star 2021
--     Allocations: add SQL/Admin View/View of changed allocations in admin
+-     Allocations: add View of changed allocations in admin
 -     Allocations: Reflect in public/nomination admin count and limits
 
 ### Priorities 
