@@ -5,8 +5,9 @@
 ### Monday
 
 - [ ] Rising Star 2021
--     Allocations: add View of changed allocations in admin
--     Allocations: Reflect in public/nomination admin count and limits
+    - Allocations: add View of changed allocations in admin
+    - Allocations: Reflect in public/nomination admin count and limits
+    - Fix nomination count from the start (show nominations that will just advance to the next milestone)
 
 ### Priorities 
     
