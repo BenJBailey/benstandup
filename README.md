@@ -4,11 +4,11 @@
 
 ### Tuesday
 
-- [ ] Rising Star 2021
-    - Fix nomination count from the start (show nominations that will just advance to the next milestone)
+- [X] Rising Star 2021
     - Test
     - To FedEx Dev
     - Update matrix
+- [ ] SWN
 
 ### Priorities 
     
