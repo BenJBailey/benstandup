@@ -2,8 +2,11 @@
 
 ## My daily stand-up
 
-### Wednesday
+### Thursday
 
+- [ ] Test page part limit fix and deploy
+- [ ] Fix SWX rules locally
+- [ ] Test locator map div change and deploy
 - [ ] [SWN Sites](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
