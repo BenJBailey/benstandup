@@ -4,8 +4,9 @@
 
 ### Thursday
 
-- [ ] Deploy
+- [X] Deploy
 - [ ] [SWN Sites](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] Help Demetria
 - [ ] Test Said's matrix fix and merge
 
 ### Priorities 
