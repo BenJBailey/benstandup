@@ -2,11 +2,11 @@
 
 ## My daily stand-up
 
-### Thursday
+### Friday
 
-- [X] Deploy
-- [ ] [SWN Sites](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Help Demetria
+- [ ] [Form IPs](https://app.clickup.com/t/vzddbh)
+- [ ] [SWN Sites](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Test Said's matrix fix and merge
 
 ### Priorities 
