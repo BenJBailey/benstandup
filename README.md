@@ -2,11 +2,11 @@
 
 ## My daily stand-up
 
-### Monday
+### Tuesday 
 
-- [ ] Release [Form IPs](https://app.clickup.com/t/vzddbh)
-- [ ] [SWN Sites](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Prep for Rising Star Meeting
+- [ ] RS Meeting @ 9
+- [ ] Release MA RSS change
 - [ ] log: Matrix sorting items with bigger page size bug
 
 ### Priorities 
