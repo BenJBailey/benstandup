@@ -2,15 +2,12 @@
 
 ## My daily stand-up
 
-### Tuesday 
+### Wednesday
 
-- [X] Prep for Rising Star Meeting
-- [X] RS Meeting @ 9
-- [X] Release MA RSS change
-- [ ] Evaluate VP item
 - [ ] Test RS Changes
 - [ ] Deploy RS Changes
 - [ ] Test LDAP again
+- [ ] Write scope for VP changes (email to vp if approved or denied, deny button)
 - [ ] log: Matrix sorting items with bigger page size bug
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
