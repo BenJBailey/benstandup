@@ -4,6 +4,7 @@
 
 ### Wednesday
 
+- [ ] Build https://api.ipify.org/?format=json ip blocker
 - [ ] Test RS Changes
 - [ ] Deploy RS Changes
 - [ ] Test LDAP again
