@@ -4,12 +4,12 @@
 
 ### Wednesday
 
-- [ ] Check in with Demetria
-- [ ] Build https://api.ipify.org/?format=json ip blocker
-- [ ] Test RS Changes
-- [ ] Deploy RS Changes
-- [ ] Test LDAP again
-- [ ] Write scope for VP changes (email to vp if approved or denied, deny button)
+- [X] Check in with Demetria
+- [X] Build https://api.ipify.org/?format=json ip blocker
+- [X] Test RS Changes
+- [X] Deploy RS Changes
+- [X] Test LDAP again
+- [X] Write scope for VP changes (email to vp if approved or denied, deny button)
 - [ ] log: Matrix sorting items with bigger page size bug
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
