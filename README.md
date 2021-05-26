@@ -4,6 +4,7 @@
 
 ### Wednesday
 
+- [ ] Check in with Demetria
 - [ ] Build https://api.ipify.org/?format=json ip blocker
 - [ ] Test RS Changes
 - [ ] Deploy RS Changes
