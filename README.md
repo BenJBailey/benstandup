@@ -2,14 +2,10 @@
 
 ## My daily stand-up
 
-### Wednesday
+### Thursday
 
-- [X] Check in with Demetria
-- [X] Build https://api.ipify.org/?format=json ip blocker
-- [X] Test RS Changes
-- [X] Deploy RS Changes
-- [X] Test LDAP again
-- [X] Write scope for VP changes (email to vp if approved or denied, deny button)
+- [ ] RS - change UI?
+- [ ] RS - release changes?
 - [ ] log: Matrix sorting items with bigger page size bug
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
