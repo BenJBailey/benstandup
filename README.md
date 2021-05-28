@@ -4,7 +4,8 @@
 
 ### Tuesday
 
-- [ ] fix matrix build
+- [ ] Follow up with Grayson
+- [ ] fix matrix build // typo
 - [ ] log: Matrix sorting items with bigger page size bug
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
