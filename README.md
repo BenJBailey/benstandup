@@ -6,6 +6,7 @@
 
 - [X] Get Job listings api to azure
 - [ ] launch mcot
+- [ ] test Said's matrix fix
 - [ ] fix matrix build // typo
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
