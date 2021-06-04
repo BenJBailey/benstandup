@@ -2,12 +2,10 @@
 
 ## My daily stand-up
 
-### Thursday
+### Friday
 
-- [X] test Said's matrix fix
-- [X] fix matrix build // typo
-- [X] AirZoo 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] Prep for vacation
 
 ### Priorities 
     
