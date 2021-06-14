@@ -5,8 +5,8 @@
 ### Monday
 
 - [X] MB Site
-- [ ] Research Rising Star nomination issue - see why it was assigned to VP
-- [ ] Research Rising Star email issue
+- [X] Research Rising Star nomination issue - see why it was assigned to VP
+- [X] Research Rising Star email issue
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
