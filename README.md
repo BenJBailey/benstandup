@@ -2,9 +2,10 @@
 
 ## My daily stand-up
 
-### Tuesday
+### Thursday
 
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+- [ ] Release fix for store import
+- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709) - start with figuring out whats up with react-day-picker's css
 
 ### Priorities 
     
