@@ -2,8 +2,9 @@
 
 ## My daily stand-up
 
-### Tuesday
+### Wednesday
 
+- [ ] Test hangfire tasks in dev and deploy
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709) - start with figuring out whats up with react-day-picker's css
 
 ### Priorities 
