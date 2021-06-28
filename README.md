@@ -2,12 +2,9 @@
 
 ## My daily stand-up
 
-### Monday
+### Tuesday
 
-- [X] [Deploy Email Change](https://app.clickup.com/t/yxfta5)
-- [X] Gabriel help with UI?
-- [X] Finish fix for swn-sites merge
-- [X] Standups
+- [ ] Profile tests?
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - [ ] Dangerouse Request.Path issue
 
