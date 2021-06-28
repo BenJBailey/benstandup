@@ -4,10 +4,10 @@
 
 ### Monday
 
-- [ ] [Deploy Email Change](https://app.clickup.com/t/yxfta5)
-- [ ] Gabriel help with UI?
-- [ ] Finish fix for swn-sites merge
-- [ ] Standups
+- [X] [Deploy Email Change](https://app.clickup.com/t/yxfta5)
+- [X] Gabriel help with UI?
+- [X] Finish fix for swn-sites merge
+- [X] Standups
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 
 ### Priorities 
