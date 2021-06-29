@@ -2,10 +2,10 @@
 
 ## My daily stand-up
 
-### Tuesday
+### Wednesday
 
-- [ ] Profile tests?
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
+    - [ ]    Figure out what is going on with people application import
 - [ ] Dangerouse Request.Path issue
 
 ### Priorities 
