@@ -2,17 +2,16 @@
 
 ## My daily stand-up
 
-### Friday
+### Monday
 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
     - [ ]    Figure out what is going on with people application import
-- [ ] Dangerouse Request.Path issue
+- [ ] Error pages should return 500
 
 ### Priorities 
     
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
 - Experiment with getting iis requests to load liquid templates w/o hitting https
-- Dangerouse Request.Path issue
 - [SW Network Content](https://app.clickup.com/8537154/v/l/li/54892353?pr=12760709)
 - OST timeout on checkout
 - Update documentation
