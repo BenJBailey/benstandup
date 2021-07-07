@@ -4,7 +4,7 @@
 
 ### Wednesday
 
-- [ ] Rising Star Deferrals
+- [X] Rising Star Deferrals
 - [X] InfoSec nominations
 - [ ] merge in `profile-improvements`
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
