@@ -2,10 +2,11 @@
 
 ## My daily stand-up
 
-### Wednesday
+### Thursday
 
-- [X] Rising Star Deferrals
-- [X] InfoSec nominations
+- [ ] Test rising star fixes
+- [ ] Look @ writing tests
+- [ ] deploy rising star fixes (before it's too late in the day)
 - [ ] merge in `profile-improvements`
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
     - [ ]    Figure out what is going on with people application import
