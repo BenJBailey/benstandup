@@ -5,7 +5,8 @@
 ### Wednesday
 
 - [ ] Rising Star Deferrals
-- [ ] InfoSec nominations
+- [X] InfoSec nominations
+- [ ] merge in `profile-improvements`
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
     - [ ]    Figure out what is going on with people application import
 - [ ] Error pages should return 500
