@@ -2,14 +2,11 @@
 
 ## My daily stand-up
 
-### Thursday
+### Friday
 
-- [X] Test rising star fixes
-- [X] Look @ writing tests
-- [X] deploy rising star fixes (before it's too late in the day)
-- [ ] merge in `profile-improvements`
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-    - [ ]    Figure out what is going on with people application import
+    - [ ] Fix tests
+    - [ ] Get things working!
 - [ ] Error pages should return 500
 
 ### Priorities 
