@@ -2,11 +2,12 @@
 
 ## My daily stand-up
 
-### Monday
+### Tuesday
 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-    - [ ] Add profile routing for groups
-    - [ ] Add new version of profile admin to sites (that includes links and routing)
+    - [ ] add link to admin users on general page
+    - [ ] test
+    - [ ] dev
 - [ ] Error pages should return 500
 
 ### Priorities 
