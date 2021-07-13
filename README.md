@@ -2,12 +2,11 @@
 
 ## My daily stand-up
 
-### Tuesday
+### Wednesdy
 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-    - [ ] add link to admin users on general page
-    - [ ] test
-    - [ ] dev
+    - [ ] finish removing form tags
+    - [ ] finish clean up of profile
 - [ ] Error pages should return 500
 - [ ] [Add Group Toggle to matrix](https://app.clickup.com/t/13nj8df)
 
