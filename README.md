@@ -2,11 +2,10 @@
 
 ## My daily stand-up
 
-### Wednesdy
+### Thursday
 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-    - [ ] finish removing form tags
-    - [ ] finish clean up of profile
+    - [ ] Figure out this routing mess
 - [ ] Error pages should return 500
 - [ ] [Add Group Toggle to matrix](https://app.clickup.com/t/13nj8df)
 
