@@ -7,7 +7,7 @@
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
     - [ ]  One more profile test
 - [ ] Test SCO app?
-- [ ] Error pages should return 500
+- [ ] [Error pages should return 500](https://app.clickup.com/t/14kv4zv)
 
 ### Monday
 
