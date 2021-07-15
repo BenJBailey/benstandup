@@ -5,9 +5,18 @@
 ### Thursday
 
 - [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-    - [ ] Figure out this routing mess
+    - [ ] Change routing to use state for profile editor
+    - [ ] Test Gabriel's change
+    - [ ] Get things ready for next week's deploy
+    - [ ] Test Said's work
 - [ ] Error pages should return 500
 - [ ] [Add Group Toggle to matrix](https://app.clickup.com/t/13nj8df)
+
+### Friday
+
+### Monday
+
+- [ ] Deploy SWN Sites
 
 ### Priorities 
     
