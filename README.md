@@ -2,16 +2,17 @@
 
 ## My daily stand-up
 
-### Friday
-
-- [ ] [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
-    - [ ]  One more profile test
-- [ ] Test SCO app?
-- [ ] [Error pages should return 500](https://app.clickup.com/t/14kv4zv)
-
 ### Monday
 
-- [ ] Deploy People/SWN Sites
+- [X] Deploy People/SWN Sites
+- [ ] Fix repo creation
+- [ ] Get SCO prod up and running
+
+### Tuesday
+
+- [ ] Release repo creation fix/groups for users in matrix
+
+
 
 ### Priorities 
     
