@@ -2,18 +2,17 @@
 
 ## My daily stand-up
 
-### Monday
-
-- [X] Deploy People/SWN Sites
-- [ ] Fix repo creation
-- [ ] Get SCO prod up and running
-
 ### Tuesday
 
+- [ ] Fix repo creation
 - [ ] Release repo creation fix/groups for users in matrix
-
-
-
+- [ ] SCO - Said - Profile field selection in admin
+- [ ] SCO - Said - Profile field delegation on font end
+- [ ] SCO - Ben - Grab main site templates to deploy to SCO site
+- [ ] SCO - Ben - Get SCO api up and running (db is up)
+- [ ] SCO - get ready to show something STAT
+- [ ] SWN - Templating
+ 
 ### Priorities 
     
 - [SW Network Admin](https://app.clickup.com/8537154/v/l/li/54890360?pr=12760709)
