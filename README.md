@@ -8,6 +8,7 @@
 - [ ] Test repo creation
 - [ ] Release repo creation fix/groups for users in matrix?
 - [ ] Keep digging into Rising Star
+- [ ] Add public bundle to SCO jobs test
 - [ ] Get SCO Dev up
 - [ ] SCO - Said - Profile field selection in admin
 - [ ] SCO - Said - Profile field delegation on font end
