@@ -10,7 +10,7 @@
 - [ ] SCO - Said - Profile field delegation on font end
 - [ ] SCO - Ben - Grab main site templates to deploy to SCO site
 - [ ] SCO - Ben - Get SCO api up and running (db is up)
-- [ ] SCO - get ready to show something STAT
+- [ ] SCO - get ready to show something that looks usable this week
 - [ ] SWN - Templating
  
 ### Priorities 
