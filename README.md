@@ -12,6 +12,7 @@
 - [ ] SCO - Ben - Get SCO api up and running (db is up)
 - [ ] SCO - get ready to show something that looks usable this week
 - [ ] SWN - Templating
+- [ ] Adopt new Hangfire cancellation methods?
  
 ### Priorities 
     
