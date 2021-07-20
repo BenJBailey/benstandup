@@ -2,18 +2,17 @@
 
 ## My daily stand-up
 
-### Tuesday
+### Wednesday
 
-- [X] SCO - Ben - Get SCO api up and running (db is up)
-- [ ] Rising Star
-- [ ] Fix repo creation
+- [ ] SWN - Templating
+- [ ] Test repo creation
 - [ ] Release repo creation fix/groups for users in matrix?
+- [ ] Keep digging into Rising Star
 - [ ] Get SCO Dev up
 - [ ] SCO - Said - Profile field selection in admin
 - [ ] SCO - Said - Profile field delegation on font end
 - [ ] SCO - Ben - Grab main site templates to deploy to SCO site
 - [ ] SCO - get ready to show something that looks usable this week
-- [ ] SWN - Templating
 - [ ] Adopt new Hangfire cancellation methods?
  
 ### Priorities 
