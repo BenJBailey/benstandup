@@ -4,10 +4,11 @@
 
 ### Tuesday
 
-- [ ] SCO - Ben - Get SCO api up and running (db is up)
+- [X] SCO - Ben - Get SCO api up and running (db is up)
 - [ ] Rising Star
 - [ ] Fix repo creation
-- [ ] Release repo creation fix/groups for users in matrix
+- [ ] Release repo creation fix/groups for users in matrix?
+- [ ] Get SCO Dev up
 - [ ] SCO - Said - Profile field selection in admin
 - [ ] SCO - Said - Profile field delegation on font end
 - [ ] SCO - Ben - Grab main site templates to deploy to SCO site
